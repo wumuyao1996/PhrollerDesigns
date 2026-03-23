@@ -1,0 +1,44 @@
+name: Update Design Manifest
+on:
+  push:
+    paths:
+      - 'assets/designs/**'
+
+jobs:
+  build:
+    runs-with: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate manifest.json
+        run: |
+          echo "Generating manifest..."
+          cd assets/designs
+          
+          # Create the start of a JSON array in the assets folder
+          echo "[" > ../manifest.json
+          
+          # Loop through all .json files and list them
+          first=true
+          for file in *.json; do
+            if [ "$file" != "manifest.json" ]; then
+              if [ "$first" = false ]; then echo "," >> ../manifest.json; fi
+              
+              # We use the filename as a temporary label
+              # Your future tool can overwrite this manifest with real labels
+              echo "  { \"label\": \"$file\", \"file\": \"$file\" }" >> ../manifest.json
+              first=false
+            fi
+          done
+          
+          echo "]" >> ../manifest.json
+
+      - name: Commit and Push Manifest
+        run: |
+          git config --global user.name "Manifest Bot"
+          git config --global user.email "actions@github.com"
+          git add assets/manifest.json
+          git commit -m "Automated manifest update" || echo "No changes to commit"
+          git push
