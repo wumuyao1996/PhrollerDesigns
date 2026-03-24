@@ -1,7 +1,7 @@
 {
   "version": 2,
   "preset": {
-    "name": "🔮 2d20",
+    "name": "Well Keeper",
     "groups": [
       {
         "diceTypeData": {
@@ -90,9 +90,18 @@
     "boardDecals": [
       {
         "imageId": "https://wumuyao1996.github.io/PhrollerDesigns//assets/images/WellKeeper.png",
-        "alignmentX": 0.0,
+        "alignmentX": -1.0,
         "alignmentY": 1.0,
-        "scale": 2.2,
+        "scale": 2.0,
+        "opacity": 1.0,
+        "rotation": 0.0,
+        "renderingMode": "debossed"
+      },
+      {
+        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/WellKeeper_Bugs.png",
+        "alignmentX": 1.0,
+        "alignmentY": -1.0,
+        "scale": 2.0,
         "opacity": 1.0,
         "rotation": 0.0,
         "renderingMode": "debossed"
@@ -101,16 +110,7 @@
         "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/WellKeeper_Logo.png",
         "alignmentX": 0.0,
         "alignmentY": 0.0,
-        "scale": 1.5,
-        "opacity": 1.0,
-        "rotation": 0.0,
-        "renderingMode": "debossed"
-      },
-      {
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/WellKeeper_Bugs.png",
-        "alignmentX": 0.0,
-        "alignmentY": -1.0,
-        "scale": 2.2,
+        "scale": 1.4000000000000001,
         "opacity": 1.0,
         "rotation": 0.0,
         "renderingMode": "debossed"
