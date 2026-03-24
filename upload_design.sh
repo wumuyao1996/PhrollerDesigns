@@ -109,6 +109,7 @@ else
     # --- Update the Manifest via Python ---
     python3 -c "
 import json, os
+from datetime import datetime
 
 manifest_path = '$MANIFEST_PATH'
 tags_raw = '$TAGS'
@@ -120,7 +121,8 @@ new_entry = {
     'tags': tags,
     'description': None if '$DESCRIPTION' == 'null' else '$DESCRIPTION',
     'url': None if '$ASSOC_URL' == 'null' else '$ASSOC_URL',
-    'logo_url': None if '$LOGO_URL' == 'null' else '$LOGO_URL'
+    'logo_url': None if '$LOGO_URL' == 'null' else '$LOGO_URL',
+    'date_added': datetime.now().isoformat()
 }
 
 data = []
