@@ -39,15 +39,19 @@ if [[ "$1" == "delete" ]]; then
     fi
 
     # Remove the entry from the manifest.json via Python
+    export MANIFEST_PATH="$MANIFEST_PATH"
+    export DELETE_NAME="$DELETE_NAME"
     python3 -c "
-import json, sys
+import json, os
 try:
-    with open('$MANIFEST_PATH', 'r') as f:
+    manifest_path = os.environ.get('MANIFEST_PATH')
+    delete_name = os.environ.get('DELETE_NAME')
+    with open(manifest_path, 'r') as f:
         data = json.load(f)
-    new_data = [item for item in data if item.get('file') != '$DELETE_NAME']
-    with open('$MANIFEST_PATH', 'w') as f:
+    new_data = [item for item in data if item.get('file') != delete_name]
+    with open(manifest_path, 'w') as f:
         json.dump(new_data, f, indent=2)
-    print('✅ Updated $MANIFEST_PATH')
+    print(f'✅ Updated {manifest_path}')
 except Exception as e:
     print(f'Error updating manifest: {e}')
 "
@@ -107,21 +111,31 @@ else
     echo "✅ Saved $DESIGNS_DIR/$FILE_NAME"
 
     # --- Update the Manifest via Python ---
+    export MANIFEST_PATH="$MANIFEST_PATH"
+    export TAGS="$TAGS"
+    export LABEL="$LABEL"
+    export FILE_NAME="$FILE_NAME"
+    export DESCRIPTION="$DESCRIPTION"
+    export ASSOC_URL="$ASSOC_URL"
+    export LOGO_URL="$LOGO_URL"
     python3 -c "
 import json, os
 from datetime import datetime
 
-manifest_path = '$MANIFEST_PATH'
-tags_raw = '$TAGS'
+manifest_path = os.environ.get('MANIFEST_PATH')
+tags_raw = os.environ.get('TAGS')
 tags = [t.strip() for t in tags_raw.split(',')] if tags_raw != 'null' else None
+description = os.environ.get('DESCRIPTION')
+assoc_url = os.environ.get('ASSOC_URL')
+logo_url = os.environ.get('LOGO_URL')
 
 new_entry = {
-    'label': '$LABEL',
-    'file': '$FILE_NAME',
+    'label': os.environ.get('LABEL'),
+    'file': os.environ.get('FILE_NAME'),
     'tags': tags,
-    'description': None if '$DESCRIPTION' == 'null' else '$DESCRIPTION',
-    'url': None if '$ASSOC_URL' == 'null' else '$ASSOC_URL',
-    'logo_url': None if '$LOGO_URL' == 'null' else '$LOGO_URL',
+    'description': None if description == 'null' else description,
+    'url': None if assoc_url == 'null' else assoc_url,
+    'logo_url': None if logo_url == 'null' else logo_url,
     'date_added': datetime.now().isoformat()
 }
 
