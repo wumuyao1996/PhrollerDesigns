@@ -1,5 +1,20 @@
 [
   {
+    "label": "MXJ Eye",
+    "file": "mxj_eye.json",
+    "tags": [
+      "artist",
+      "gif",
+      "white",
+      "creepy",
+      "wood"
+    ],
+    "description": "Marijana X Jakeli\u0107 is a Croatian artist specializing in creating artworks that are often provocative and always beautiful. I'm very thankful she made so many of her gifs available for free online.",
+    "url": "https://pixabay.com/users/mxjfiles-41050463/",
+    "logo_url": "https://wumuyao1996.github.io/PhrollerDesigns//assets/images/mxjfiles-eye.gif",
+    "date_added": "2026-03-25T16:52:53.950961"
+  },
+  {
     "label": "Well Keeper",
     "file": "well_keeper.json",
     "tags": [
