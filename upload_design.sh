@@ -147,7 +147,7 @@ if os.path.exists(manifest_path) and os.path.getsize(manifest_path) > 0:
         except:
             data = []
 
-data.append(new_entry)
+data.insert(0, new_entry)
 
 with open(manifest_path, 'w') as f:
     json.dump(data, f, indent=2)
