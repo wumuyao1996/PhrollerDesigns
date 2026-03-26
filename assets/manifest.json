@@ -1,5 +1,20 @@
 [
   {
+    "label": "Frenchie",
+    "file": "frenchie.json",
+    "tags": [
+      "artist",
+      "brown",
+      "character",
+      "rpg",
+      "nature"
+    ],
+    "description": "Frenchie is a designer illustrator primarily focused on fanart and nature inspired illustrations (a lot for bug stuff!) She loves camping and off roading. Shes been doing acrobatics in San Diego for 11 years! Commissions are open please hire her she's desperate!",
+    "url": "https://www.instagram.com/awildfrenchieart/",
+    "logo_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Frenchie.png",
+    "date_added": "2026-03-26T00:40:54.352635"
+  },
+  {
     "label": "MXJ Eye",
     "file": "mxj_eye.json",
     "tags": [
