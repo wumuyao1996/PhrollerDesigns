@@ -262,9 +262,9 @@
     "boardDecals": [
       {
         "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Frenchie.png",
-        "alignmentX": 0.0,
+        "alignmentX": -1.0,
         "alignmentY": 0.0,
-        "scale": 1.2,
+        "scale": 1.0,
         "opacity": 1.0,
         "rotation": 0.0,
         "renderingMode": "original"
