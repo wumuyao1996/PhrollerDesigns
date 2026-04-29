@@ -429,7 +429,7 @@
         "widthMultiplier": 1.0,
         "label": "Tea",
         "type": "counter",
-        "value": 4,
+        "value": 8,
         "showHUD": true,
         "dragSensitivity": 20.0,
         "allowNegativeNumbers": false,
@@ -444,7 +444,43 @@
     "applyTabStyleToDiceCounts": false,
     "alwaysUseNumberXResultConfiguration": false,
     "groupResultsByColor": true,
-    "resultDisplayMode": 0
+    "resultDisplayMode": 0,
+    "watermarkAlignmentX": null,
+    "watermarkAlignmentY": null,
+    "isWatermarkDraggable": false,
+    "customCursorSettings": {
+      "enabled": true,
+      "defaultCursor": null,
+      "tapCursor": {
+        "type": 3,
+        "codePoint": null,
+        "fontFamily": null,
+        "fontPackage": null,
+        "iconifyName": null,
+        "strokes": null,
+        "strokeWidth": null,
+        "url": "paw.png"
+      },
+      "holdCursor": {
+        "type": 3,
+        "codePoint": null,
+        "fontFamily": null,
+        "fontPackage": null,
+        "iconifyName": null,
+        "strokes": null,
+        "strokeWidth": null,
+        "url": "paw.png"
+      },
+      "size": 260.71747002417044,
+      "colorMode": 0,
+      "customColorValue": null,
+      "anchorX": 0.4867874050775849,
+      "anchorY": 0.2641491834112799,
+      "opacity": 0.827202655743569,
+      "showHotspotGlow": true,
+      "rotation": 332.04793019651896,
+      "forceHideSystemCursor": true
+    }
   },
   "arsenalDice": [
     {
