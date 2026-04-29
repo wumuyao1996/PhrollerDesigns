@@ -123,6 +123,7 @@
     "boardMaterialId": "felt",
     "boardDecals": [
       {
+        "id": "",
         "imageId": "Scorchpot_bg.png",
         "alignmentX": -0.95,
         "alignmentY": 1.0,
@@ -133,6 +134,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotBuildings.png",
         "alignmentX": 0.0,
         "alignmentY": -1.0,
@@ -143,6 +145,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotDecor.png",
         "alignmentX": 0.0,
         "alignmentY": 1.0,
@@ -153,6 +156,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "Scorchpot.png",
         "alignmentX": 0.3500000000000001,
         "alignmentY": 0.0,
@@ -163,6 +167,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotLogo.png",
         "alignmentX": 0.0,
         "alignmentY": 0.0,
@@ -176,6 +181,7 @@
     "useSameDecalsForLandscape": false,
     "boardDecalsLandscape": [
       {
+        "id": "",
         "imageId": "Scorchpot_bg.png",
         "alignmentX": -0.95,
         "alignmentY": 1.0,
@@ -186,6 +192,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotBuildings.png",
         "alignmentX": 0.0,
         "alignmentY": 1.0,
@@ -196,6 +203,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotDecor.png",
         "alignmentX": 0.0,
         "alignmentY": -1.0,
@@ -206,6 +214,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "Scorchpot.png",
         "alignmentX": 1.0,
         "alignmentY": 0.0,
@@ -216,6 +225,7 @@
         "useCenterAnchor": false
       },
       {
+        "id": "",
         "imageId": "ScorchpotLogo.png",
         "alignmentX": 0.0,
         "alignmentY": 0.0,
@@ -400,7 +410,7 @@
             }
           ],
           "isValueEnabled": true,
-          "value": null,
+          "value": 20,
           "fontFamily": null,
           "useFaceSpecificFont": false,
           "style": 0,
