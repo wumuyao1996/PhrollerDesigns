@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "id": "ketchup_splat",
+  "label": "Ketchup Splat",
+  "description": "A messy ketchup splat for Scorchpot fans.",
+  "author": "Phroller",
+  "settings": {
+    "enabled": true,
+    "size": 64.0,
+    "colorMode": 0,
+    "anchorX": 0.48,
+    "anchorY": 0.27,
+    "opacity": 1.0,
+    "showHotspotGlow": true,
+    "rotation": 346.5,
+    "forceHideSystemCursor": true,
+    "defaultCursor": {
+      "type": 3,
+      "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/ketchup_splat.png"
+    },
+    "tapCursor": {
+      "type": 3,
+      "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/ketchup_splat.png"
+    }
+  }
+}

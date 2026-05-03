@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ketchup_splat",
+    "label": "Ketchup Splat",
+    "file": "ketchup_splat.json",
+    "author": "Phroller",
+    "description": "A messy ketchup splat for Scorchpot fans.",
+    "artist_url": "https://www.kickstarter.com/projects/indieformer/feed-the-scorchpot-videogame",
+    "tags": [
+      "scorchpot",
+      "ketchup",
+      "messy"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/ketchup_splat.png"
+  },
+  {
+    "id": "cat_paws",
+    "label": "Cat Paws",
+    "file": "cat_paws.json",
+    "author": "Steph + Goose",
+    "description": "Cute cat paw for your cursor.",
+    "artist_url": "https://www.freepik.com/",
+    "tags": [
+      "cat",
+      "paw",
+      "cute"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cat_paws.png"
+  }
+]
