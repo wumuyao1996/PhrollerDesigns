@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "label": "SCORCHPOT KETCHUP",
+  "label": "SCORCHPOT Cursor",
   "settings": {
     "enabled": true,
     "tapCursor": {
@@ -12,8 +12,10 @@
       "url": "scorchpot_ketchup.png"
     },
     "size": 365.1983886650639,
-    "anchorX": 0.48826094571415246,
-    "anchorY": 0.2744153613998185,
-    "rotation": 346.5495898631414
+    "anchorX": 0.49333904110768956,
+    "anchorY": 0.1374946481402382,
+    "rotation": 346.5495898631414,
+    "enableOrbit": true,
+    "orbitRadius": 177.2271124089805
   }
 }
