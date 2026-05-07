@@ -26,5 +26,34 @@
       "cute"
     ],
     "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cat_paws.png"
+  },
+  {
+    "id": "acouaria_spear",
+    "label": "Acouaria Spear",
+    "file": "acouaria_spear.json",
+    "author": "Acouaria",
+    "description": "A sharp spear for aquatic warriors, designed by Acouaria.",
+    "artist_url": "https://www.reddit.com/user/acouaria",
+    "tags": [
+      "spear",
+      "weapon",
+      "acouaria"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/Acouaria_develyn_spear.png"
+  },
+  {
+    "id": "wizard_staff",
+    "label": "Wizard Staff",
+    "file": "wizard_staff.json",
+    "author": "@m.u.y.a.o",
+    "description": "A magical staff made by a cosplayer at the local renaissance fair.",
+    "artist_url": "https://www.instagram.com/m.u.y.a.o",
+    "tags": [
+      "staff",
+      "magic",
+      "wizard",
+      "cosplay"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/staff_base.png"
   }
 ]

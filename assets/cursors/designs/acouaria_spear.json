@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "label": "Acouaria Spear",
+  "settings": {
+    "enabled": true,
+    "defaultCursor": {
+      "type": 3,
+      "url": "Acouaria_develyn_spear.png"
+    },
+    "tapCursor": {
+      "type": 3,
+      "url": "Acouaria_develyn_spear.png"
+    },
+    "holdCursor": {
+      "type": 3,
+      "url": "Acouaria_develyn_spear.png"
+    },
+    "size": 300.0,
+    "anchorX": 0.5,
+    "anchorY": 0.5,
+    "opacity": 1.0,
+    "rotation": 0.0
+  }
+}
