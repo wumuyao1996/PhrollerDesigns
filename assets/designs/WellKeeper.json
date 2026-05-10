@@ -23,12 +23,7 @@
           "hasGlow": true,
           "isCelShaded": false,
           "glowIntensity": 0.0,
-          "fontFamily": "Cinzel",
-          "mass": 1.0,
-          "bounciness": 0.4,
-          "friction": 0.4,
-          "drag": 0.95,
-          "slidingDamping": 0.96
+          "fontFamily": "Cinzel"
         },
         "count": 2,
         "material": "glass",
@@ -55,12 +50,7 @@
           "hasGlow": true,
           "isCelShaded": false,
           "glowIntensity": 0.0,
-          "fontFamily": "Cinzel",
-          "mass": 1.0,
-          "bounciness": 0.4,
-          "friction": 0.4,
-          "drag": 0.95,
-          "slidingDamping": 0.96
+          "fontFamily": "Cinzel"
         },
         "count": 4,
         "material": "glass",
@@ -145,10 +135,6 @@
     "enablePaintNoise": true,
     "enableCollisionSparks": true,
     "showTotal": false,
-    "globalFriction": 1.35,
-    "slidingDamping": 0.93,
-    "globalBounciness": 1.0,
-    "drag": 0.96,
     "limitFramerate": false
   },
   "arsenalDice": [
@@ -171,12 +157,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 0.8,
-      "bounciness": 0.2,
-      "friction": 0.6,
-      "drag": 0.9,
-      "slidingDamping": 0.85
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d6",
@@ -197,12 +178,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.0,
-      "bounciness": 0.4,
-      "friction": 0.4,
-      "drag": 0.95,
-      "slidingDamping": 0.96
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d8",
@@ -223,12 +199,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.0,
-      "bounciness": 0.4,
-      "friction": 0.4,
-      "drag": 0.95,
-      "slidingDamping": 0.96
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d10",
@@ -249,12 +220,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.1,
-      "bounciness": 0.45,
-      "friction": 0.35,
-      "drag": 0.96,
-      "slidingDamping": 0.97
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d00",
@@ -275,12 +241,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.1,
-      "bounciness": 0.45,
-      "friction": 0.35,
-      "drag": 0.96,
-      "slidingDamping": 0.97
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d12",
@@ -301,12 +262,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.2,
-      "bounciness": 0.5,
-      "friction": 0.3,
-      "drag": 0.97,
-      "slidingDamping": 0.98
+      "fontFamily": "Cinzel"
     },
     {
       "id": "d20",
@@ -327,12 +283,7 @@
       "hasGlow": true,
       "isCelShaded": false,
       "glowIntensity": 0.0,
-      "fontFamily": "Cinzel",
-      "mass": 1.5,
-      "bounciness": 0.55,
-      "friction": 0.2,
-      "drag": 0.98,
-      "slidingDamping": 0.99
+      "fontFamily": "Cinzel"
     }
   ]
 }
