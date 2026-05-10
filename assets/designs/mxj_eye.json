@@ -1,7 +1,7 @@
 {
   "version": 2,
   "preset": {
-    "name": "🪵 d100",
+    "name": "\ud83e\udeb5 d100",
     "groups": [
       {
         "diceTypeData": {
@@ -23,12 +23,7 @@
           "hasGlow": false,
           "isCelShaded": false,
           "glowIntensity": 0.5,
-          "fontFamily": "IM Fell English",
-          "mass": 1.5,
-          "bounciness": 0.55,
-          "friction": 0.2,
-          "drag": 0.98,
-          "slidingDamping": 0.99
+          "fontFamily": "IM Fell English"
         },
         "count": 1,
         "material": "wood",
@@ -55,12 +50,7 @@
           "hasGlow": false,
           "isCelShaded": false,
           "glowIntensity": 0.5,
-          "fontFamily": "IM Fell English",
-          "mass": 0.8,
-          "bounciness": 0.2,
-          "friction": 0.6,
-          "drag": 0.9,
-          "slidingDamping": 0.85
+          "fontFamily": "IM Fell English"
         },
         "count": 2,
         "material": "wood",
@@ -127,10 +117,6 @@
     "enablePaintNoise": true,
     "enableCollisionSparks": false,
     "showTotal": true,
-    "globalFriction": 1.35,
-    "slidingDamping": 0.93,
-    "globalBounciness": 1.0,
-    "drag": 0.96,
     "limitFramerate": false
   },
   "arsenalDice": [
@@ -153,12 +139,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 0.8,
-      "bounciness": 0.2,
-      "friction": 0.6,
-      "drag": 0.9,
-      "slidingDamping": 0.85
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d6",
@@ -179,12 +160,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.0,
-      "bounciness": 0.4,
-      "friction": 0.4,
-      "drag": 0.95,
-      "slidingDamping": 0.96
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d8",
@@ -205,12 +181,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.0,
-      "bounciness": 0.4,
-      "friction": 0.4,
-      "drag": 0.95,
-      "slidingDamping": 0.96
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d10",
@@ -231,12 +202,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.1,
-      "bounciness": 0.45,
-      "friction": 0.35,
-      "drag": 0.96,
-      "slidingDamping": 0.97
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d00",
@@ -257,12 +223,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.1,
-      "bounciness": 0.45,
-      "friction": 0.35,
-      "drag": 0.96,
-      "slidingDamping": 0.97
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d12",
@@ -283,12 +244,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.2,
-      "bounciness": 0.5,
-      "friction": 0.3,
-      "drag": 0.97,
-      "slidingDamping": 0.98
+      "fontFamily": "IM Fell English"
     },
     {
       "id": "d20",
@@ -309,12 +265,7 @@
       "hasGlow": false,
       "isCelShaded": false,
       "glowIntensity": 0.5,
-      "fontFamily": "IM Fell English",
-      "mass": 1.5,
-      "bounciness": 0.55,
-      "friction": 0.2,
-      "drag": 0.98,
-      "slidingDamping": 0.99
+      "fontFamily": "IM Fell English"
     }
   ]
 }
