@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "preset": {
     "name": "Frenchie",
     "groups": [
@@ -269,6 +270,8 @@
     "boardDecalRotation": 15.0,
     "showTotal": false
   },
+=======
+>>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
   "settings": {
     "diceScale": 1.0,
     "textSizeScale": 1.3,
@@ -375,6 +378,7 @@
     "alwaysUseNumberXResultConfiguration": false,
     "groupResultsByColor": true,
     "resultDisplayMode": 0
+<<<<<<< HEAD
   },
   "arsenalDice": [
     {
@@ -618,4 +622,7 @@
       "glowColor": null
     }
   ]
+=======
+  }
+>>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
 }

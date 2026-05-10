@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "preset": {
     "name": "\ud83d\udd2e 2d20",
     "groups": [
@@ -200,6 +201,8 @@
     "boardDecalRotation": -10.0,
     "showTotal": false
   },
+=======
+>>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
   "settings": {
     "diceScale": 1.4,
     "textSizeScale": 1.3,
@@ -253,6 +256,7 @@
     "enableCollisionSparks": true,
     "showTotal": false,
     "limitFramerate": false
+<<<<<<< HEAD
   },
   "arsenalDice": [
     {
@@ -403,4 +407,10 @@
       "fontFamily": "Inknut Antiqua"
     }
   ]
+<<<<<<< HEAD
+=======
+=======
+  }
+>>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
+>>>>>>> 07707c6d2e1ed34c8354b64312f03f3a37746669
 }
