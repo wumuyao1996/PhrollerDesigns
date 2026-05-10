@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "preset": {
     "name": "Steph + Goose",
     "groups": [
@@ -281,8 +280,6 @@
     "boardDecalRotation": 15.0,
     "showTotal": false
   },
-=======
->>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
   "settings": {
     "diceScale": 1.0,
     "textSizeScale": 1.3,
@@ -445,7 +442,6 @@
       "rotation": 332.04793019651896,
       "forceHideSystemCursor": true
     }
-<<<<<<< HEAD
   },
   "arsenalDice": [
     {
@@ -676,7 +672,4 @@
       "glowColor": null
     }
   ]
-=======
-  }
->>>>>>> d1d5c4a027df313f1612866514555b2b486028fe
 }
