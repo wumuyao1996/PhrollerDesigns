@@ -1,0 +1,290 @@
+{
+    "name": "D&D Character Basic",
+    "tags": [
+        "DnD",
+        "RPG",
+        "character"
+    ],
+    "widgets": [
+        {
+            "type": "slider",
+            "label": "HIT POINTS",
+            "value": 45,
+            "totalValue": 45,
+            "defaultValue": 45,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "fraction",
+            "widthMultiplier": 2.0
+        },
+        {
+            "type": "counter",
+            "label": "TEMP HP",
+            "value": 0,
+            "defaultValue": 0,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "numeric",
+            "widthMultiplier": 1.0
+        },
+        {
+            "type": "counter",
+            "label": "ARMOR CLASS",
+            "value": 16,
+            "defaultValue": 16,
+            "showHUD": true,
+            "displayMode": "numeric"
+        },
+        {
+            "type": "counter",
+            "label": "INITIATIVE",
+            "value": 2,
+            "defaultValue": 2,
+            "showHUD": true,
+            "displayMode": "numeric"
+        },
+        {
+            "type": "list",
+            "label": "CORE ATTRIBUTES",
+            "widthMultiplier": 2.0,
+            "showNumbers": false,
+            "enableCounters": false,
+            "enableCheckboxes": false,
+            "rowHeight": 40.0,
+            "items": [
+                {
+                    "id": "str",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Strength"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 16
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "dex",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Dexterity"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 14
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "con",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Constitution"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 15
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "int",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Intelligence"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 10
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": 0
+                        }
+                    ]
+                },
+                {
+                    "id": "wis",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Wisdom"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 12
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "cha",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Charisma"
+                        },
+                        {
+                            "id": "score",
+                            "type": "counter",
+                            "intValue": 8
+                        },
+                        {
+                            "id": "mod",
+                            "type": "counter",
+                            "intValue": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "label": "SKILL PROFICIENCIES",
+            "widthMultiplier": 2.0,
+            "showHeaders": false,
+            "showNumbers": false,
+            "showActions": false,
+            "tableStyle": "alternating",
+            "cellAlignment": "left",
+            "columns": [
+                {
+                    "id": "prof",
+                    "label": "Prof",
+                    "type": "checkbox",
+                    "widthMultiplier": 0.2
+                },
+                {
+                    "id": "skill",
+                    "label": "Skill",
+                    "type": "text",
+                    "widthMultiplier": 0.6
+                },
+                {
+                    "id": "mod",
+                    "label": "Mod",
+                    "type": "counter",
+                    "widthMultiplier": 0.2
+                }
+            ],
+            "rows": [
+                {
+                    "id": "acrobatics",
+                    "cells": [
+                        {
+                            "id": "p",
+                            "type": "checkbox",
+                            "boolValue": true
+                        },
+                        {
+                            "id": "s",
+                            "type": "text",
+                            "textValue": "Acrobatics (Dex)"
+                        },
+                        {
+                            "id": "m",
+                            "type": "counter",
+                            "intValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "athletics",
+                    "cells": [
+                        {
+                            "id": "p",
+                            "type": "checkbox",
+                            "boolValue": true
+                        },
+                        {
+                            "id": "s",
+                            "type": "text",
+                            "textValue": "Athletics (Str)"
+                        },
+                        {
+                            "id": "m",
+                            "type": "counter",
+                            "intValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "label": "SPELL SLOTS",
+            "widthMultiplier": 2.0,
+            "showNumbers": false,
+            "enableCounters": true,
+            "enableCheckboxes": true,
+            "items": [
+                {
+                    "id": "lvl1",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "1st Level"
+                        },
+                        {
+                            "id": "slots",
+                            "type": "counter",
+                            "intValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": "lvl2",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "2nd Level"
+                        },
+                        {
+                            "id": "slots",
+                            "type": "counter",
+                            "intValue": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

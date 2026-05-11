@@ -1,0 +1,186 @@
+{
+    "name": "Cyberpunk Red Character Full",
+    "tags": [
+        "cyberpunk",
+        "character",
+        "rpg"
+    ],
+    "widgets": [
+        {
+            "type": "slider",
+            "label": "HIT POINTS",
+            "value": 35,
+            "totalValue": 35,
+            "defaultValue": 35,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "fraction",
+            "widthMultiplier": 2.0
+        },
+        {
+            "type": "counter",
+            "label": "HEAD SP",
+            "value": 11,
+            "defaultValue": 11,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "numeric",
+            "tapBehavior": "decrement",
+            "widthMultiplier": 1.0
+        },
+        {
+            "type": "counter",
+            "label": "BODY SP",
+            "value": 11,
+            "defaultValue": 11,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "numeric",
+            "tapBehavior": "decrement",
+            "widthMultiplier": 1.0
+        },
+        {
+            "type": "counter",
+            "label": "HUMANITY",
+            "value": 45,
+            "defaultValue": 50,
+            "showHUD": true,
+            "allowNegativeNumbers": false,
+            "displayMode": "numeric",
+            "widthMultiplier": 2.0
+        },
+        {
+            "type": "list",
+            "label": "AWARENESS SKILLS",
+            "widthMultiplier": 2.0,
+            "showNumbers": false,
+            "enableCounters": false,
+            "enableCheckboxes": false,
+            "rowHeight": 40.0,
+            "items": [
+                {
+                    "id": "conceal",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Conceal/Reveal Object"
+                        },
+                        {
+                            "id": "lvl",
+                            "type": "counter",
+                            "intValue": 4
+                        },
+                        {
+                            "id": "stat",
+                            "type": "counter",
+                            "intValue": 6
+                        },
+                        {
+                            "id": "base",
+                            "type": "counter",
+                            "intValue": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "perception",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Perception"
+                        },
+                        {
+                            "id": "lvl",
+                            "type": "counter",
+                            "intValue": 6
+                        },
+                        {
+                            "id": "stat",
+                            "type": "counter",
+                            "intValue": 6
+                        },
+                        {
+                            "id": "base",
+                            "type": "counter",
+                            "intValue": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "label": "GEAR & CYBERWARE",
+            "widthMultiplier": 2.0,
+            "showNumbers": false,
+            "enableCounters": true,
+            "enableCheckboxes": false,
+            "items": [
+                {
+                    "id": "eb",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Eurobucks (eb)"
+                        },
+                        {
+                            "id": "qty",
+                            "type": "counter",
+                            "intValue": 1250
+                        }
+                    ]
+                },
+                {
+                    "id": "heavy_ammo",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Heavy Pistol Ammo"
+                        },
+                        {
+                            "id": "qty",
+                            "type": "counter",
+                            "intValue": 40
+                        }
+                    ]
+                },
+                {
+                    "id": "popup_shield",
+                    "components": [
+                        {
+                            "id": "name",
+                            "type": "text",
+                            "textValue": "Popup Shield HP"
+                        },
+                        {
+                            "id": "qty",
+                            "type": "counter",
+                            "intValue": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "notes",
+            "label": "LIFEPATH & ROLE",
+            "widthMultiplier": 2.0,
+            "pages": [
+                {
+                    "id": "role",
+                    "title": "Solo: Combat Awareness",
+                    "content": "### Threat Detection\nEnhances situational awareness. Add points to Perception checks..."
+                },
+                {
+                    "id": "lifepath",
+                    "title": "Lifepath",
+                    "content": "### Cultural Origins\nCorporate Enclave. Grew up sheltered, kicked out when parents were 'downsized'."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Cyberpunk Red Character Full",
+    "file": "cyberpunk_red.json",
+    "tags": ["cyberpunk", "character", "rpg"],
+    "description": "A comprehensive character sheet for Cyberpunk Red, including HP, Humanity, skills, and gear.",
+    "date_added": "2026-05-11T12:51:00.000Z"
+  },
+  {
+    "label": "D&D Character Basic",
+    "file": "dnd_5e.json",
+    "tags": ["DnD", "RPG", "character"],
+    "description": "A basic D&D 5e character sheet with core attributes, skill proficiencies, and spell slots.",
+    "date_added": "2026-05-11T12:51:00.000Z"
+  }
+]
