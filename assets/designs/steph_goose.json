@@ -337,7 +337,7 @@
     "boardDecals": [
       {
         "id": "",
-        "imageId": "local://custom_decals/web_1778695998509_7711.png",
+        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/kowalcomics.png",
         "alignmentX": 0.5499999999999998,
         "alignmentY": -0.10000000000000009,
         "scale": 1.7999999999999998,
@@ -351,7 +351,7 @@
     "boardDecalsLandscape": [
       {
         "id": "",
-        "imageId": "local://custom_decals/web_1778695998912_5490.png",
+        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/kowalcomics.png",
         "alignmentX": -0.09999999999999998,
         "alignmentY": 0.1499999999999999,
         "scale": 3.0,
