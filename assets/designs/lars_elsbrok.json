@@ -329,7 +329,7 @@
     "boardMaterialId": "felt",
     "boardShape": "tray",
     "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
-    "boardDecalOriginalUrl": null,
+    "boardDecalOriginalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
     "showTotal": false
@@ -375,7 +375,7 @@
         "useCenterAnchor": true
       }
     ],
-    "tabStyle": "premium",
+    "tabStyle": "parchment",
     "tabFontFamily": "Cormorant Garamond",
     "arsenalStyleId": 0,
     "faceDimmingMode": "topOnly",
@@ -475,7 +475,7 @@
       },
       {
         "label": "Vials",
-        "widthMultiplier": 1.0,
+        "widthMultiplier": 1.9000000000000001,
         "type": "slider",
         "value": 7,
         "totalValue": 7,
@@ -503,8 +503,180 @@
         }
       },
       {
-        "label": "ATTRIBUTES & SAVES",
+        "label": "MAP WEAPON STRIKES",
         "widthMultiplier": 2.0,
+        "type": "table",
+        "columns": [
+          {
+            "id": "weap",
+            "label": "Weapon",
+            "type": "text",
+            "widthMultiplier": 0.3,
+            "format": "[value]"
+          },
+          {
+            "id": "atk1",
+            "label": "Base",
+            "type": "counter",
+            "widthMultiplier": 0.15,
+            "format": "[value]"
+          },
+          {
+            "id": "atk2",
+            "label": "-5/-4",
+            "type": "counter",
+            "widthMultiplier": 0.15,
+            "format": "[value]"
+          },
+          {
+            "id": "atk3",
+            "label": "-10/-8",
+            "type": "counter",
+            "widthMultiplier": 0.15,
+            "format": "[value]"
+          },
+          {
+            "id": "dmg",
+            "label": "Damage",
+            "type": "text",
+            "widthMultiplier": 0.25,
+            "format": "[value]"
+          }
+        ],
+        "rows": [
+          {
+            "id": "longsword",
+            "cells": [
+              {
+                "id": "w",
+                "type": "text",
+                "textValue": "Longsword",
+                "intValue": 0,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a1",
+                "type": "counter",
+                "textValue": "",
+                "intValue": 10,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a2",
+                "type": "counter",
+                "textValue": "",
+                "intValue": 10,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a3",
+                "type": "counter",
+                "textValue": "",
+                "intValue": 0,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "textValue": "1d8+4 S",
+                "intValue": 0,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              }
+            ]
+          },
+          {
+            "id": "shortbow",
+            "cells": [
+              {
+                "id": "w",
+                "type": "text",
+                "textValue": "Shortbow",
+                "intValue": 0,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a1",
+                "type": "counter",
+                "textValue": "",
+                "intValue": 8,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a2",
+                "type": "counter",
+                "textValue": "",
+                "intValue": 3,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "a3",
+                "type": "counter",
+                "textValue": "",
+                "intValue": -2,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "textValue": "1d6 P",
+                "intValue": 0,
+                "boolValue": false,
+                "format": "[value]",
+                "iconValue": null,
+                "widthMultiplier": 1.0,
+                "notesPages": []
+              }
+            ]
+          }
+        ],
+        "rowHeight": 40.0,
+        "dragSensitivity": 20.0,
+        "showHeaders": true,
+        "showNumbers": false,
+        "showActions": false,
+        "leftIndent": 0.0,
+        "tableStyle": "grid",
+        "cellAlignment": "center"
+      },
+      {
+        "label": "ATTRIBUTES & SAVES",
+        "widthMultiplier": 1.7,
         "type": "list",
         "showNumbers": false,
         "enableCounters": false,
@@ -627,178 +799,6 @@
             ]
           }
         ]
-      },
-      {
-        "label": "MAP WEAPON STRIKES",
-        "widthMultiplier": 2.0,
-        "type": "table",
-        "columns": [
-          {
-            "id": "weap",
-            "label": "Weapon",
-            "type": "text",
-            "widthMultiplier": 0.3,
-            "format": "[value]"
-          },
-          {
-            "id": "atk1",
-            "label": "Base",
-            "type": "counter",
-            "widthMultiplier": 0.15,
-            "format": "[value]"
-          },
-          {
-            "id": "atk2",
-            "label": "-5/-4",
-            "type": "counter",
-            "widthMultiplier": 0.15,
-            "format": "[value]"
-          },
-          {
-            "id": "atk3",
-            "label": "-10/-8",
-            "type": "counter",
-            "widthMultiplier": 0.15,
-            "format": "[value]"
-          },
-          {
-            "id": "dmg",
-            "label": "Damage",
-            "type": "text",
-            "widthMultiplier": 0.25,
-            "format": "[value]"
-          }
-        ],
-        "rows": [
-          {
-            "id": "longsword",
-            "cells": [
-              {
-                "id": "w",
-                "type": "text",
-                "textValue": "Longsword",
-                "intValue": 0,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a1",
-                "type": "counter",
-                "textValue": "",
-                "intValue": 10,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a2",
-                "type": "counter",
-                "textValue": "",
-                "intValue": 5,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a3",
-                "type": "counter",
-                "textValue": "",
-                "intValue": 0,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "d",
-                "type": "text",
-                "textValue": "1d8+4 S",
-                "intValue": 0,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              }
-            ]
-          },
-          {
-            "id": "shortbow",
-            "cells": [
-              {
-                "id": "w",
-                "type": "text",
-                "textValue": "Shortbow",
-                "intValue": 0,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a1",
-                "type": "counter",
-                "textValue": "",
-                "intValue": 8,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a2",
-                "type": "counter",
-                "textValue": "",
-                "intValue": 3,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "a3",
-                "type": "counter",
-                "textValue": "",
-                "intValue": -2,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              },
-              {
-                "id": "d",
-                "type": "text",
-                "textValue": "1d6 P",
-                "intValue": 0,
-                "boolValue": false,
-                "format": "[value]",
-                "iconValue": null,
-                "widthMultiplier": 1.0,
-                "notesPages": []
-              }
-            ]
-          }
-        ],
-        "rowHeight": 40.0,
-        "dragSensitivity": 20.0,
-        "showHeaders": true,
-        "showNumbers": false,
-        "showActions": false,
-        "leftIndent": 0.0,
-        "tableStyle": "grid",
-        "cellAlignment": "center"
       },
       {
         "label": "EQUIPMENT & BULK",
