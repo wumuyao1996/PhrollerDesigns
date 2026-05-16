@@ -55,5 +55,19 @@
       "cosplay"
     ],
     "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/staff_base.png"
+  },
+  {
+    "id": "potion",
+    "label": "Witch's Potion",
+    "file": "potion.json",
+    "author": "Simona",
+    "description": "A magical potion for Lars the potion witch!",
+    "artist_url": "https://linktr.ee/simonaswiun",
+    "tags": [
+      "potion",
+      "magic",
+      "witch"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/potion.png"
   }
 ]

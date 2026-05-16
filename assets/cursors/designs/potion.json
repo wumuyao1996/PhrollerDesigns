@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "label": "Lars Elsbrok Cursor",
+    "settings": {
+        "enabled": true,
+        "defaultCursor": {
+            "type": 3,
+            "url": "potion.png"
+        },
+        "tapCursor": {
+            "type": 3,
+            "url": "potion.png"
+        },
+        "holdCursor": {
+            "type": 3,
+            "url": "potion.png"
+        },
+        "size": 167.43495933410472,
+        "anchorX": 0.40005225024494895,
+        "anchorY": 0.22391477497265333,
+        "rotation": 325.6400516634655,
+        "enableOrbit": true
+    }
+}
