@@ -69,5 +69,19 @@
       "witch"
     ],
     "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/potion.png"
+  },
+  {
+    "id": "cassandra_snake",
+    "label": "Cassandra's Snake",
+    "file": "cassandra_snake.json",
+    "author": "Phoelix",
+    "description": "Cassandra's Viper",
+    "artist_url": "https://phoelix_helle.artstation.com/",
+    "tags": [
+      "snake",
+      "magic",
+      "witch"
+    ],
+    "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cassandra_snake.png"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "label": "Duchess and Viper",
+    "file": "phoelix_cassandra.json",
+    "tags": [
+      "artist",
+      "fantasy",
+      "pet",
+      "snake",
+      "water",
+      "blue"
+    ],
+    "description": "Cassandra is one of Phoelix's original creations. She's a Duchess known for her magical viper.\n\nPhoelix is a Ukainian concept artist and illustrator\n\nCommisions are open!",
+    "url": "https://phoelix_helle.artstation.com/",
+    "logo_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/cassandra_icon.png",
+    "date_added": "2026-05-21T05:47:37.005Z"
+  },
+  {
     "label": "Leo Barbarian",
     "file": "leo_barbarian.json",
     "tags": [

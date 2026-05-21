@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "label": "phoelix cassandra Cursor",
+    "settings": {
+        "enabled": true,
+        "tapCursor": {
+            "type": 4,
+            "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cassandra_snake.png"
+        },
+        "holdCursor": {
+            "type": 4,
+            "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cassandra_snake.png"
+        },
+        "size": 512.0,
+        "anchorX": 0.8445597872066911,
+        "anchorY": 0.8575507129405886,
+        "opacity": 0.6857080854992792,
+        "rotation": 300.9673335493843,
+        "alignment": 3,
+        "enablePulsing": true
+    }
+}
