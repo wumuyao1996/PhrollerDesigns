@@ -674,5 +674,188 @@
       "Outdoors"
     ],
     "model_url": "/api/local-models/files/ground-by-pixel-p0uZBL4kfL.glb"
+  },
+  {
+    "id": "basic-stone-1-by-felix-stief-dy-kLI46lAR",
+    "label": "basic stone 1",
+    "file": "basic-stone-1-by-felix-stief-dy-kLI46lAR.json",
+    "author": "felix stief",
+    "description": "Loly-poly glb asset of basic stone 1.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "abacus",
+      "arch",
+      "core"
+    ],
+    "model_url": "/api/local-models/files/basic-stone-1-by-felix-stief-dy-kLI46lAR.glb"
+  },
+  {
+    "id": "stonemesavalley-by-nathan-dipietro-e2k4fpJJbml",
+    "label": "StoneMesaValley",
+    "file": "stonemesavalley-by-nathan-dipietro-e2k4fpJJbml.json",
+    "author": "Nathan DiPietro",
+    "description": "Loly-poly glb asset of StoneMesaValley.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Mesa",
+      "Rocks",
+      "Valley"
+    ],
+    "model_url": "/api/local-models/files/stonemesavalley-by-nathan-dipietro-e2k4fpJJbml.glb"
+  },
+  {
+    "id": "path-by-kay-lousberg-h6lw6yUbu7",
+    "label": "Path",
+    "file": "path-by-kay-lousberg-h6lw6yUbu7.json",
+    "author": "Kay Lousberg",
+    "description": "Loly-poly glb asset of Path.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Stones",
+      "Rocks",
+      "Terrain"
+    ],
+    "model_url": "/api/local-models/files/path-by-kay-lousberg-h6lw6yUbu7.glb"
+  },
+  {
+    "id": "rocks-by-quaternius-Gl3pcrdnpW",
+    "label": "Rocks",
+    "file": "rocks-by-quaternius-Gl3pcrdnpW.json",
+    "author": "Quaternius",
+    "description": "Loly-poly glb asset of Rocks.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Mineral",
+      "Rock",
+      "Crystal"
+    ],
+    "model_url": "/api/local-models/files/rocks-by-quaternius-Gl3pcrdnpW.glb"
+  },
+  {
+    "id": "pebble-round-by-quaternius-nMf8LHOsbM",
+    "label": "Pebble Round",
+    "file": "pebble-round-by-quaternius-nMf8LHOsbM.json",
+    "author": "Quaternius",
+    "description": "Loly-poly glb asset of Pebble Round.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Rock",
+      "Stone",
+      "Terrain"
+    ],
+    "model_url": "/api/local-models/files/pebble-round-by-quaternius-nMf8LHOsbM.glb"
+  },
+  {
+    "id": "boulder-by-jeremy-d1MDVth-0LY",
+    "label": "Boulder",
+    "file": "boulder-by-jeremy-d1MDVth-0LY.json",
+    "author": "jeremy",
+    "description": "#rock #stone #formation #geology",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "rock",
+      "stone",
+      "formation",
+      "geology"
+    ],
+    "model_url": "/api/local-models/files/boulder-by-jeremy-d1MDVth-0LY.glb"
+  },
+  {
+    "id": "pebble-round-by-quaternius-jecVTh3aQV",
+    "label": "Pebble Round",
+    "file": "pebble-round-by-quaternius-jecVTh3aQV.json",
+    "author": "Quaternius",
+    "description": "Loly-poly glb asset of Pebble Round.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Stone",
+      "Rock",
+      "Pebble"
+    ],
+    "model_url": "/api/local-models/files/pebble-round-by-quaternius-jecVTh3aQV.glb"
+  },
+  {
+    "id": "basic-stone-by-felix-stief-a42J8RzkQgr",
+    "label": "basic stone",
+    "file": "basic-stone-by-felix-stief-a42J8RzkQgr.json",
+    "author": "felix stief",
+    "description": "Loly-poly glb asset of basic stone.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "abacus",
+      "arch",
+      "core"
+    ],
+    "model_url": "/api/local-models/files/basic-stone-by-felix-stief-a42J8RzkQgr.glb"
+  },
+  {
+    "id": "desert-stone-by-leigh-garland-2rrAo2-03p1",
+    "label": "Desert stone",
+    "file": "desert-stone-by-leigh-garland-2rrAo2-03p1.json",
+    "author": "Leigh Garland",
+    "description": "Stony",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "ark",
+      "moro",
+      "leaving"
+    ],
+    "model_url": "/api/local-models/files/desert-stone-by-leigh-garland-2rrAo2-03p1.glb"
+  },
+  {
+    "id": "cobble-stones-large-by-isa-lousberg-6wJH2Eeyrw",
+    "label": "Cobble Stones Large",
+    "file": "cobble-stones-large-by-isa-lousberg-6wJH2Eeyrw.json",
+    "author": "Isa Lousberg",
+    "description": "Loly-poly glb asset of Cobble Stones Large.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "Rocks",
+      "Stones",
+      "Pathway"
+    ],
+    "model_url": "/api/local-models/files/cobble-stones-large-by-isa-lousberg-6wJH2Eeyrw.glb"
+  },
+  {
+    "id": "levelling-stone-by-shawn-blais-0BIhlPVXz1p",
+    "label": "Levelling Stone",
+    "file": "levelling-stone-by-shawn-blais-0BIhlPVXz1p.json",
+    "author": "Shawn Blais",
+    "description": "Loly-poly glb asset of Levelling Stone.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "draft",
+      "staff",
+      "darby"
+    ],
+    "model_url": "/api/local-models/files/levelling-stone-by-shawn-blais-0BIhlPVXz1p.glb"
+  },
+  {
+    "id": "basic-stone-5-by-felix-stief-3ius5CPZ9u1",
+    "label": "basic stone 5",
+    "file": "basic-stone-5-by-felix-stief-3ius5CPZ9u1.json",
+    "author": "felix stief",
+    "description": "Loly-poly glb asset of basic stone 5.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "abacus",
+      "arch",
+      "core"
+    ],
+    "model_url": "/api/local-models/files/basic-stone-5-by-felix-stief-3ius5CPZ9u1.glb"
+  },
+  {
+    "id": "rock-by-nerdy-rodent-2iXnYXZcaIX",
+    "label": "Rock",
+    "file": "rock-by-nerdy-rodent-2iXnYXZcaIX.json",
+    "author": "Nerdy Rodent",
+    "description": "A low-poly rock. Brown and rocky.",
+    "artist_url": "https://poly.pizza",
+    "tags": [
+      "stone",
+      "rock music",
+      "cradle"
+    ],
+    "model_url": "/api/local-models/files/rock-by-nerdy-rodent-2iXnYXZcaIX.glb"
   }
 ]
