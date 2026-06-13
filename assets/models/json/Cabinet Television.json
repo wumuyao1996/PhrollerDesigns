@@ -1,0 +1,12 @@
+{
+  "id": "furniture_cabinet_television",
+  "label": "Cabinet Television",
+  "file": "Cabinet Television.json",
+  "author": "Kenney",
+  "description": "Imported \"Cabinet Television.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cabinet Television.glb",
+  "tags": [
+    "furniture"
+  ]
+}

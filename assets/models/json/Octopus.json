@@ -1,0 +1,12 @@
+{
+  "id": "animals_octopus",
+  "label": "Octopus",
+  "file": "Octopus.json",
+  "author": "molochdadev",
+  "description": "Imported \"Octopus.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Octopus.glb",
+  "tags": [
+    "animals"
+  ]
+}

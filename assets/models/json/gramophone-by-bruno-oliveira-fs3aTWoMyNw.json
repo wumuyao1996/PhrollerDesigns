@@ -1,0 +1,14 @@
+{
+  "id": "gramophone-by-bruno-oliveira-fs3aTWoMyNw",
+  "label": "Gramophone",
+  "file": "gramophone-by-bruno-oliveira-fs3aTWoMyNw.json",
+  "author": "Bruno Oliveira",
+  "description": "A device for playing music. Not compatible with mp3 format.",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "acoustic gramophone",
+    "phonograph",
+    "victrola"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/gramophone-by-bruno-oliveira-fs3aTWoMyNw.glb"
+}

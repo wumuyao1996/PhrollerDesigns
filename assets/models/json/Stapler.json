@@ -1,0 +1,13 @@
+{
+  "id": "household_props_stapler",
+  "label": "Stapler",
+  "file": "Stapler.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Stapler.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stapler.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

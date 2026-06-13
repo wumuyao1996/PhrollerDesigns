@@ -1,0 +1,15 @@
+{
+  "id": "platformer_grass_platform",
+  "title": "Grass Platform",
+  "label": "Grass Platform",
+  "file": "platformer_grass_platform.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Grass Platform.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_grass_platform.glb"
+}

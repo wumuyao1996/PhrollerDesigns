@@ -1,0 +1,12 @@
+{
+  "id": "city_building_red",
+  "label": "Building Red",
+  "file": "Building Red.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Building Red.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Building Red.glb",
+  "tags": [
+    "city"
+  ]
+}

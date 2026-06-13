@@ -1,0 +1,15 @@
+{
+  "id": "food_corndog",
+  "title": "Corndog",
+  "label": "Corndog",
+  "file": "food_corndog.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Corndog.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_corndog.glb"
+}

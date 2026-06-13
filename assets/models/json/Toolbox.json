@@ -1,0 +1,13 @@
+{
+  "id": "household_props_toolbox",
+  "label": "Toolbox",
+  "file": "Toolbox.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Toolbox.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Toolbox.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

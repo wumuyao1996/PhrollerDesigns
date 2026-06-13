@@ -1,0 +1,13 @@
+{
+  "id": "homely_house_package",
+  "label": "Package",
+  "file": "Package.json",
+  "author": "Isa Lousberg",
+  "description": "Imported \"Package.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Package.glb",
+  "tags": [
+    "homely",
+    "house"
+  ]
+}

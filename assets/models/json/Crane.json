@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_crane",
+  "label": "Crane",
+  "file": "Crane.json",
+  "author": "dotRianne",
+  "description": "Imported \"Crane.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crane.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

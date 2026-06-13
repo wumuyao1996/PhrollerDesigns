@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_shotgun_sawed_off",
+  "title": "Shotgun Sawed Off",
+  "label": "Shotgun Sawed Off",
+  "file": "outlaws_shotgun_sawed_off.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Shotgun Sawed Off.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_shotgun_sawed_off.glb"
+}

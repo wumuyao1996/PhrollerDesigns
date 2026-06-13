@@ -1,0 +1,17 @@
+{
+  "id": "cosmetics_hats_masks_frog_hat",
+  "title": "Frog Hat",
+  "label": "Frog Hat",
+  "file": "cosmetics_hats_masks_frog_hat.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Frog Hat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cosmetics",
+    "hats",
+    "masks"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cosmetics_hats_masks_frog_hat.glb"
+}

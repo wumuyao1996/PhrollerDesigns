@@ -1,0 +1,15 @@
+{
+  "id": "food_spoon",
+  "title": "Spoon",
+  "label": "Spoon",
+  "file": "food_spoon.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Spoon.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_spoon.glb"
+}

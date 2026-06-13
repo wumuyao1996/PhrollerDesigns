@@ -1,0 +1,12 @@
+{
+  "id": "city_roof_exit",
+  "label": "Roof Exit",
+  "file": "Roof Exit.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Roof Exit.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Roof Exit.glb",
+  "tags": [
+    "city"
+  ]
+}

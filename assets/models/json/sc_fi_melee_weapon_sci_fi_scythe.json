@@ -1,0 +1,17 @@
+{
+  "id": "sc_fi_melee_weapon_sci_fi_scythe",
+  "title": "SCI FI Scythe",
+  "label": "SCI FI Scythe",
+  "file": "sc_fi_melee_weapon_sci_fi_scythe.json",
+  "author": "Qubzy",
+  "description": "Loly-poly glb asset of SCI FI Scythe.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "sc-fi",
+    "melee",
+    "weapon"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/sc_fi_melee_weapon_sci_fi_scythe.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pirate_cutlass",
+  "label": "Cutlass",
+  "file": "Cutlass.json",
+  "author": "Quaternius",
+  "description": "Imported \"Cutlass.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cutlass.glb",
+  "tags": [
+    "pirate"
+  ]
+}

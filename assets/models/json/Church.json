@@ -1,0 +1,12 @@
+{
+  "id": "architecture_church",
+  "label": "Church",
+  "file": "Church.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Church.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Church.glb",
+  "tags": [
+    "architecture"
+  ]
+}

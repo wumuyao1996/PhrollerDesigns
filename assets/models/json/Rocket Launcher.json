@@ -1,0 +1,12 @@
+{
+  "id": "shooter_rocket_launcher",
+  "label": "Rocket Launcher",
+  "file": "Rocket Launcher.json",
+  "author": "Quaternius",
+  "description": "Imported \"Rocket Launcher.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rocket Launcher.glb",
+  "tags": [
+    "shooter"
+  ]
+}

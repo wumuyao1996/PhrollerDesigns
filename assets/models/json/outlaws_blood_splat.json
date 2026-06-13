@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_blood_splat",
+  "title": "Blood Splat",
+  "label": "Blood Splat",
+  "file": "outlaws_blood_splat.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Blood Splat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_blood_splat.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_induction_stove",
+  "title": "Induction Stove",
+  "label": "Induction Stove",
+  "file": "cooking_assets_induction_stove.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Induction Stove.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_induction_stove.glb"
+}

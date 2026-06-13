@@ -1,0 +1,12 @@
+{
+  "id": "furniture_wall_window",
+  "label": "Wall Window",
+  "file": "Wall Window.json",
+  "author": "Kenney",
+  "description": "Imported \"Wall Window.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Window.glb",
+  "tags": [
+    "furniture"
+  ]
+}

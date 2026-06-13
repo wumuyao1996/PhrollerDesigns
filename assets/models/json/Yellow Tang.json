@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_yellow_tang",
+  "label": "Yellow Tang",
+  "file": "Yellow Tang.json",
+  "author": "Quaternius",
+  "description": "Imported \"Yellow Tang.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Yellow Tang.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

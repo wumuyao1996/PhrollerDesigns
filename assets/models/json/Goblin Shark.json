@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_goblin_shark",
+  "label": "Goblin Shark",
+  "file": "Goblin Shark.json",
+  "author": "Quaternius",
+  "description": "Imported \"Goblin Shark.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Goblin Shark.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

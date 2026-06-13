@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_onion_cut",
+  "label": "Onion Cut",
+  "file": "Onion cut.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Onion cut.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Onion cut.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

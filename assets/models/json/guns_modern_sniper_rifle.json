@@ -1,0 +1,16 @@
+{
+  "id": "guns_modern_sniper_rifle",
+  "title": "Sniper Rifle",
+  "label": "Sniper Rifle",
+  "file": "guns_modern_sniper_rifle.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Sniper Rifle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "guns",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/guns_modern_sniper_rifle.glb"
+}

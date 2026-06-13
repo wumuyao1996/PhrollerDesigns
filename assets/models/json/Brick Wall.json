@@ -1,0 +1,12 @@
+{
+  "id": "shooter_brick_wall",
+  "label": "Brick Wall",
+  "file": "Brick Wall.json",
+  "author": "Quaternius",
+  "description": "Imported \"Brick Wall.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Brick Wall.glb",
+  "tags": [
+    "shooter"
+  ]
+}

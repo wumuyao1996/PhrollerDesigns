@@ -1,0 +1,12 @@
+{
+  "id": "furniture_computer_screen",
+  "label": "Computer Screen",
+  "file": "Computer Screen.json",
+  "author": "Kenney",
+  "description": "Imported \"Computer Screen.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Computer Screen.glb",
+  "tags": [
+    "furniture"
+  ]
+}

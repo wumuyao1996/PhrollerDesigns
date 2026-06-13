@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_backpack",
+  "label": "Backpack",
+  "file": "Backpack.json",
+  "author": "Quaternius",
+  "description": "Imported \"Backpack.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Backpack.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

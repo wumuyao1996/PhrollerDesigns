@@ -1,0 +1,12 @@
+{
+  "id": "shooter_water_tank",
+  "label": "Water Tank",
+  "file": "Water Tank.json",
+  "author": "Quaternius",
+  "description": "Imported \"Water Tank.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Water Tank.glb",
+  "tags": [
+    "shooter"
+  ]
+}

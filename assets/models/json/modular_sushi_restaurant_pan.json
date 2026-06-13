@@ -1,0 +1,17 @@
+{
+  "id": "modular_sushi_restaurant_pan",
+  "title": "Pan",
+  "label": "Pan",
+  "file": "modular_sushi_restaurant_pan.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Pan.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "sushi",
+    "restaurant"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_sushi_restaurant_pan.glb"
+}

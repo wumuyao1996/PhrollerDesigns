@@ -1,0 +1,12 @@
+{
+  "id": "furniture_lounge_chair",
+  "label": "Lounge Chair",
+  "file": "Lounge Chair.json",
+  "author": "Kenney",
+  "description": "Imported \"Lounge Chair.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lounge Chair.glb",
+  "tags": [
+    "furniture"
+  ]
+}

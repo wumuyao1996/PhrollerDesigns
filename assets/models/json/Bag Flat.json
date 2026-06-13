@@ -1,0 +1,12 @@
+{
+  "id": "food_bag_flat",
+  "label": "Bag Flat",
+  "file": "Bag Flat.json",
+  "author": "Kenney",
+  "description": "Imported \"Bag Flat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bag Flat.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "vrc_curtain",
+  "title": "Curtain",
+  "label": "Curtain",
+  "file": "vrc_curtain.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Curtain.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_curtain.glb"
+}

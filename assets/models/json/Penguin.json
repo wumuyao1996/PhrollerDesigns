@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_penguin",
+  "label": "Penguin",
+  "file": "Penguin.json",
+  "author": "dotRianne",
+  "description": "Imported \"Penguin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Penguin.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

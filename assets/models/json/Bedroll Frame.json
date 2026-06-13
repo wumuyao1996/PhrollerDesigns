@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_bedroll_frame",
+  "label": "Bedroll Frame",
+  "file": "Bedroll Frame.json",
+  "author": "Kenney",
+  "description": "Imported \"Bedroll Frame.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bedroll Frame.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

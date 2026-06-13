@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_tool_axe",
+  "label": "Tool Axe",
+  "file": "Tool Axe.json",
+  "author": "Kenney",
+  "description": "Imported \"Tool Axe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tool Axe.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

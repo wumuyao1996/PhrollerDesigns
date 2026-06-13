@@ -1,0 +1,17 @@
+{
+  "id": "cosmetics_hats_masks_beanie",
+  "title": "Beanie",
+  "label": "Beanie",
+  "file": "cosmetics_hats_masks_beanie.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Beanie.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cosmetics",
+    "hats",
+    "masks"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cosmetics_hats_masks_beanie.glb"
+}

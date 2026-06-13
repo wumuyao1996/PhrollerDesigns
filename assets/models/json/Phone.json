@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_phone",
+  "label": "Phone",
+  "file": "Phone.json",
+  "author": "Player11132",
+  "description": "Imported \"Phone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Phone.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

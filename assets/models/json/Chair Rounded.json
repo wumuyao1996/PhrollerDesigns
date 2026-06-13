@@ -1,0 +1,12 @@
+{
+  "id": "furniture_chair_rounded",
+  "label": "Chair Rounded",
+  "file": "Chair Rounded.json",
+  "author": "Kenney",
+  "description": "Imported \"Chair Rounded.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chair Rounded.glb",
+  "tags": [
+    "furniture"
+  ]
+}

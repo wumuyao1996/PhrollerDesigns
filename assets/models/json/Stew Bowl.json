@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_stew_bowl",
+  "label": "Stew Bowl",
+  "file": "Stew Bowl.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Stew Bowl.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stew Bowl.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

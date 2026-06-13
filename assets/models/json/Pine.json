@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_pine",
+  "label": "Pine",
+  "file": "Pine.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pine.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

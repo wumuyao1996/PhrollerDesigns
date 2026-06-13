@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_spear",
+  "label": "Spear",
+  "file": "Spear.json",
+  "author": "Quaternius",
+  "description": "Imported \"Spear.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Spear.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

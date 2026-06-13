@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_bedside_table",
+  "title": "Bedside Table",
+  "label": "Bedside Table",
+  "file": "collection_basic_bedside_table.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Bedside Table.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_bedside_table.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_glub",
+  "label": "Glub",
+  "file": "Glub.json",
+  "author": "Quaternius",
+  "description": "Imported \"Glub.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Glub.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

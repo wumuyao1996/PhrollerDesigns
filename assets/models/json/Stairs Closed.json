@@ -1,0 +1,12 @@
+{
+  "id": "building_stairs_closed",
+  "label": "Stairs Closed",
+  "file": "Stairs Closed.json",
+  "author": "Kenney",
+  "description": "Imported \"Stairs Closed.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stairs Closed.glb",
+  "tags": [
+    "building"
+  ]
+}

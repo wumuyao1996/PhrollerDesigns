@@ -1,0 +1,12 @@
+{
+  "id": "animals_capybara",
+  "label": "Capybara",
+  "file": "Capybara.json",
+  "author": "molochdadev",
+  "description": "Imported \"Capybara.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Capybara.glb",
+  "tags": [
+    "animals"
+  ]
+}

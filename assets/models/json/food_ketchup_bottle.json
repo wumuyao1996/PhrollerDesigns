@@ -1,0 +1,15 @@
+{
+  "id": "food_ketchup_bottle",
+  "title": "Ketchup Bottle",
+  "label": "Ketchup Bottle",
+  "file": "food_ketchup_bottle.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Ketchup Bottle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_ketchup_bottle.glb"
+}

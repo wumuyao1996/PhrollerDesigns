@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_water_bottle",
+  "label": "Water Bottle",
+  "file": "Water bottle.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Water bottle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Water bottle.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

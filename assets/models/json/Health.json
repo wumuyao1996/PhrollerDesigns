@@ -1,0 +1,12 @@
+{
+  "id": "shooter_health",
+  "label": "Health",
+  "file": "Health.json",
+  "author": "Quaternius",
+  "description": "Imported \"Health.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Health.glb",
+  "tags": [
+    "shooter"
+  ]
+}

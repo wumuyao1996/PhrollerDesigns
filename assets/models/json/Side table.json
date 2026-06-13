@@ -1,0 +1,12 @@
+{
+  "id": "furniture_side_table",
+  "label": "Side Table",
+  "file": "Side Table.json",
+  "author": "Kenney",
+  "description": "Imported \"Side Table.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Side Table.glb",
+  "tags": [
+    "furniture"
+  ]
+}

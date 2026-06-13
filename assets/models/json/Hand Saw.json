@@ -1,0 +1,13 @@
+{
+  "id": "household_props_hand_saw",
+  "label": "Hand Saw",
+  "file": "Hand Saw.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Hand Saw.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Hand Saw.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

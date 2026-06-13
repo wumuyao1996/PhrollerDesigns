@@ -1,0 +1,12 @@
+{
+  "id": "cosmetic_fox_hat",
+  "label": "Fox Hat",
+  "file": "Fox Hat.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Fox Hat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fox Hat.glb",
+  "tags": [
+    "cosmetic"
+  ]
+}

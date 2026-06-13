@@ -1,0 +1,12 @@
+{
+  "id": "animals_kangaroo",
+  "label": "Kangaroo",
+  "file": "Kangaroo.json",
+  "author": "molochdadev",
+  "description": "Imported \"Kangaroo.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kangaroo.glb",
+  "tags": [
+    "animals"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_electric_guitar",
+  "label": "Electric Guitar",
+  "file": "Electric guitar.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Electric guitar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Electric guitar.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

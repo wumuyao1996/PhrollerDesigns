@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_resource_stone",
+  "label": "Resource Stone",
+  "file": "Resource Stone.json",
+  "author": "Kenney",
+  "description": "Imported \"Resource Stone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Resource Stone.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

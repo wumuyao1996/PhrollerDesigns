@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_yeti",
+  "label": "Yeti",
+  "file": "Yeti.json",
+  "author": "Quaternius",
+  "description": "Imported \"Yeti.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Yeti.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

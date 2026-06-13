@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_fence_fortified",
+  "label": "Fence Fortified",
+  "file": "Fence Fortified.json",
+  "author": "Kenney",
+  "description": "Imported \"Fence Fortified.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fence Fortified.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

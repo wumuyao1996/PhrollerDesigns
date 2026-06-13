@@ -1,0 +1,12 @@
+{
+  "id": "furniture_rug_round",
+  "label": "Rug Round",
+  "file": "Rug Round.json",
+  "author": "Kenney",
+  "description": "Imported \"Rug Round.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rug Round.glb",
+  "tags": [
+    "furniture"
+  ]
+}

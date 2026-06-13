@@ -1,0 +1,12 @@
+{
+  "id": "furniture_lounge_sofa",
+  "label": "Lounge Sofa",
+  "file": "Lounge Sofa.json",
+  "author": "Kenney",
+  "description": "Imported \"Lounge Sofa.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lounge Sofa.glb",
+  "tags": [
+    "furniture"
+  ]
+}

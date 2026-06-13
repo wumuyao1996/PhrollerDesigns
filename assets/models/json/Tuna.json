@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_tuna",
+  "label": "Tuna",
+  "file": "Tuna.json",
+  "author": "Quaternius",
+  "description": "Imported \"Tuna.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tuna.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

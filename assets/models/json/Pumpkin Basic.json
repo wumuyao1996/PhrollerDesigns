@@ -1,0 +1,12 @@
+{
+  "id": "food_pumpkin_basic",
+  "label": "Pumpkin Basic",
+  "file": "Pumpkin Basic.json",
+  "author": "Kenney",
+  "description": "Imported \"Pumpkin Basic.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pumpkin Basic.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "city_cone",
+  "label": "Cone",
+  "file": "Cone.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Cone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cone.glb",
+  "tags": [
+    "city"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_fox",
+  "label": "Fox",
+  "file": "Fox.json",
+  "author": "dotRianne",
+  "description": "Imported \"Fox.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fox.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

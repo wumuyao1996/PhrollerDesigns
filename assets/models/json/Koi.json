@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_koi",
+  "label": "Koi",
+  "file": "Koi.json",
+  "author": "Quaternius",
+  "description": "Imported \"Koi.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Koi.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

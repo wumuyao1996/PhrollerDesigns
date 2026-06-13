@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_camera",
+  "label": "Camera",
+  "file": "Camera.json",
+  "author": "Player11132",
+  "description": "Imported \"Camera.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Camera.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

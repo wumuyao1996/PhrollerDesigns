@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_food_burger",
+  "label": "Food Burger",
+  "file": "Food Burger.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Food Burger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Food Burger.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

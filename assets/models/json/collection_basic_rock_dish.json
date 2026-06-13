@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_rock_dish",
+  "title": "Rock Dish",
+  "label": "Rock Dish",
+  "file": "collection_basic_rock_dish.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Rock Dish.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_rock_dish.glb"
+}

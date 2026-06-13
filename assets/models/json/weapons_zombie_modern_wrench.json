@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_wrench",
+  "title": "Wrench",
+  "label": "Wrench",
+  "file": "weapons_zombie_modern_wrench.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Wrench.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_wrench.glb"
+}

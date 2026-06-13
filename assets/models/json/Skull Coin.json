@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_skull_coin",
+  "label": "Skull Coin",
+  "file": "Skull Coin.json",
+  "author": "Quaternius",
+  "description": "Imported \"Skull Coin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Skull Coin.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

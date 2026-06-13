@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_mandarin_fish",
+  "label": "Mandarin Fish",
+  "file": "Mandarin Fish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Mandarin Fish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mandarin Fish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

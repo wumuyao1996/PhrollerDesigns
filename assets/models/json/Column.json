@@ -1,0 +1,12 @@
+{
+  "id": "building_column",
+  "label": "Column",
+  "file": "Column.json",
+  "author": "Kenney",
+  "description": "Imported \"Column.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Column.glb",
+  "tags": [
+    "building"
+  ]
+}

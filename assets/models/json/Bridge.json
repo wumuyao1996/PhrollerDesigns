@@ -1,0 +1,12 @@
+{
+  "id": "architecture_bridge",
+  "label": "Bridge",
+  "file": "Bridge.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Bridge.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bridge.glb",
+  "tags": [
+    "architecture"
+  ]
+}

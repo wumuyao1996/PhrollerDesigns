@@ -1,0 +1,12 @@
+{
+  "id": "furniture_bed_single",
+  "label": "Bed Single",
+  "file": "Bed Single.json",
+  "author": "Kenney",
+  "description": "Imported \"Bed Single.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bed Single.glb",
+  "tags": [
+    "furniture"
+  ]
+}

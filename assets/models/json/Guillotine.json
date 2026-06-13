@@ -1,0 +1,13 @@
+{
+  "id": "medieval_torture_guillotine",
+  "label": "Guillotine",
+  "file": "Guillotine.json",
+  "author": "iPoly3D",
+  "description": "Imported \"Guillotine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Guillotine.glb",
+  "tags": [
+    "medieval",
+    "torture"
+  ]
+}

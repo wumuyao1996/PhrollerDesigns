@@ -1,0 +1,16 @@
+{
+  "id": "pipe_modular_pipe_short",
+  "title": "Pipe Short",
+  "label": "Pipe Short",
+  "file": "pipe_modular_pipe_short.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Pipe Short.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "pipe",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/pipe_modular_pipe_short.glb"
+}

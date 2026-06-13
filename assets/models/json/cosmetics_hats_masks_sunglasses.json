@@ -1,0 +1,17 @@
+{
+  "id": "cosmetics_hats_masks_sunglasses",
+  "title": "Sunglasses",
+  "label": "Sunglasses",
+  "file": "cosmetics_hats_masks_sunglasses.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Sunglasses.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cosmetics",
+    "hats",
+    "masks"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cosmetics_hats_masks_sunglasses.glb"
+}

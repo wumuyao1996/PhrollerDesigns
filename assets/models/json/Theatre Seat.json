@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_theatre_seat",
+  "label": "Theatre Seat",
+  "file": "Theatre Seat.json",
+  "author": "Player11132",
+  "description": "Imported \"Theatre Seat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Theatre Seat.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

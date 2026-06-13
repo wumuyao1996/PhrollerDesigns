@@ -1,0 +1,12 @@
+{
+  "id": "city_trash_can",
+  "label": "Trash Can",
+  "file": "Trash Can.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Trash Can.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trash Can.glb",
+  "tags": [
+    "city"
+  ]
+}

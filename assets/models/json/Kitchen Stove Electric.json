@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_stove_electric",
+  "label": "Kitchen Stove Electric",
+  "file": "Kitchen Stove Electric.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Stove Electric.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Stove Electric.glb",
+  "tags": [
+    "furniture"
+  ]
+}

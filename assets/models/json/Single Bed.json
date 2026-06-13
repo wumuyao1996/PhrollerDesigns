@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_single_bed",
+  "label": "Single Bed",
+  "file": "Single Bed.json",
+  "author": "Zsky",
+  "description": "Imported \"Single Bed.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Single Bed.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

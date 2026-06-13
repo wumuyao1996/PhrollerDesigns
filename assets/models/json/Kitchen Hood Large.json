@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_hood_large",
+  "label": "Kitchen Hood Large",
+  "file": "Kitchen Hood Large.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Hood Large.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Hood Large.glb",
+  "tags": [
+    "furniture"
+  ]
+}

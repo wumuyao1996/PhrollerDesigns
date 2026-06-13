@@ -1,0 +1,16 @@
+{
+  "id": "modular_train_cargo_train_wagon",
+  "title": "Cargo Train Wagon",
+  "label": "Cargo Train Wagon",
+  "file": "modular_train_cargo_train_wagon.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Cargo Train Wagon.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "train"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_train_cargo_train_wagon.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_soda_glass",
+  "label": "Soda Glass",
+  "file": "Soda Glass.json",
+  "author": "Kenney",
+  "description": "Imported \"Soda Glass.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Soda Glass.glb",
+  "tags": [
+    "food"
+  ]
+}

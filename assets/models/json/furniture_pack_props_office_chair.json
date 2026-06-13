@@ -1,0 +1,17 @@
+{
+  "id": "furniture_pack_props_office_chair",
+  "title": "Office Chair",
+  "label": "Office Chair",
+  "file": "furniture_pack_props_office_chair.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Office Chair.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "furniture",
+    "pack",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/furniture_pack_props_office_chair.glb"
+}

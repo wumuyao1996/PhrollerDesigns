@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_armabee",
+  "label": "Armabee",
+  "file": "Armabee.json",
+  "author": "Quaternius",
+  "description": "Imported \"Armabee.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Armabee.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

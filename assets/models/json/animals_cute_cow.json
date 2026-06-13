@@ -1,0 +1,16 @@
+{
+  "id": "animals_cute_cow",
+  "title": "Cow",
+  "label": "Cow",
+  "file": "animals_cute_cow.json",
+  "author": "madtrollstudio",
+  "description": "Loly-poly glb asset of Cow.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals",
+    "cute"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_cute_cow.glb"
+}

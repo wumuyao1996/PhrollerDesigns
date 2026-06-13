@@ -1,0 +1,15 @@
+{
+  "id": "food_double_cheeseburger",
+  "title": "Double Cheeseburger",
+  "label": "Double Cheeseburger",
+  "file": "food_double_cheeseburger.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Double Cheeseburger.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_double_cheeseburger.glb"
+}

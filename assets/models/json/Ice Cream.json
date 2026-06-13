@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_ice_cream",
+  "label": "Ice Cream",
+  "file": "Ice Cream.json",
+  "author": "dotRianne",
+  "description": "Imported \"Ice Cream.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ice Cream.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "building_barricade",
+  "label": "Barricade",
+  "file": "Barricade.json",
+  "author": "Kenney",
+  "description": "Imported \"Barricade.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barricade.glb",
+  "tags": [
+    "building"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_bottle_opener",
+  "title": "Bottle Opener",
+  "label": "Bottle Opener",
+  "file": "cooking_assets_bottle_opener.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Bottle Opener.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_bottle_opener.glb"
+}

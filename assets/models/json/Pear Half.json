@@ -1,0 +1,12 @@
+{
+  "id": "food_pear_half",
+  "label": "Pear Half",
+  "file": "Pear Half.json",
+  "author": "Kenney",
+  "description": "Imported \"Pear Half.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pear Half.glb",
+  "tags": [
+    "food"
+  ]
+}

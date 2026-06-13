@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_shield_round",
+  "label": "Shield Round",
+  "file": "Shield Round.json",
+  "author": "Quaternius",
+  "description": "Imported \"Shield Round.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shield Round.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

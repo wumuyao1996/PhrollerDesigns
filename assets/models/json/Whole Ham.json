@@ -1,0 +1,12 @@
+{
+  "id": "food_whole_ham",
+  "label": "Whole Ham",
+  "file": "Whole Ham.json",
+  "author": "Kenney",
+  "description": "Imported \"Whole Ham.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Whole Ham.glb",
+  "tags": [
+    "food"
+  ]
+}

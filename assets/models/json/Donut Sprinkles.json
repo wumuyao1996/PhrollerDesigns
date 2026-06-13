@@ -1,0 +1,12 @@
+{
+  "id": "food_donut_sprinkles",
+  "label": "Donut Sprinkles",
+  "file": "Donut Sprinkles.json",
+  "author": "Kenney",
+  "description": "Imported \"Donut Sprinkles.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Donut Sprinkles.glb",
+  "tags": [
+    "food"
+  ]
+}

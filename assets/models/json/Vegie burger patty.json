@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_vegie_burger_patty",
+  "label": "Vegie Burger Patty",
+  "file": "Vegie burger patty.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Vegie burger patty.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Vegie burger patty.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

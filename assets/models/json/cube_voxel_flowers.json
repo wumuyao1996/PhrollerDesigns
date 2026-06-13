@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_flowers",
+  "title": "Flowers",
+  "label": "Flowers",
+  "file": "cube_voxel_flowers.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Flowers.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_flowers.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_resource_gold",
+  "title": "Resource Gold",
+  "label": "Resource Gold",
+  "file": "fantasy_rts_resource_gold.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Resource Gold.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_resource_gold.glb"
+}

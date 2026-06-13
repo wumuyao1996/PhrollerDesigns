@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_bonfire",
+  "title": "Bonfire",
+  "label": "Bonfire",
+  "file": "survival_collection_bonfire.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Bonfire.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_bonfire.glb"
+}

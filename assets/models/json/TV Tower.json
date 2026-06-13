@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_tv_tower",
+  "label": "TV Tower",
+  "file": "TV Tower.json",
+  "author": "Quaternius",
+  "description": "Imported \"TV Tower.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/TV Tower.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

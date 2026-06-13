@@ -1,0 +1,17 @@
+{
+  "id": "furniture_pack_props_stool",
+  "title": "Stool",
+  "label": "Stool",
+  "file": "furniture_pack_props_stool.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Stool.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "furniture",
+    "pack",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/furniture_pack_props_stool.glb"
+}

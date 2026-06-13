@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_pillar",
+  "label": "Pillar",
+  "file": "Pillar.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Pillar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pillar.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

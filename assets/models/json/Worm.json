@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_worm",
+  "label": "Worm",
+  "file": "Worm.json",
+  "author": "Quaternius",
+  "description": "Imported \"Worm.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Worm.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

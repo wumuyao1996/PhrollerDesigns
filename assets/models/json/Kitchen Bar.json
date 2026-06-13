@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_bar",
+  "label": "Kitchen Bar",
+  "file": "Kitchen Bar.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Bar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Bar.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "city_big_building",
+  "label": "Big Building",
+  "file": "Big Building.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Big Building.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Big Building.glb",
+  "tags": [
+    "city"
+  ]
+}

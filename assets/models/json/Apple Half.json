@@ -1,0 +1,12 @@
+{
+  "id": "food_apple_half",
+  "label": "Apple Half",
+  "file": "Apple Half.json",
+  "author": "Kenney",
+  "description": "Imported \"Apple Half.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Apple Half.glb",
+  "tags": [
+    "food"
+  ]
+}

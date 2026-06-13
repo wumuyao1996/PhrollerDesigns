@@ -1,0 +1,12 @@
+{
+  "id": "furniture_computer_keyboard",
+  "label": "Computer Keyboard",
+  "file": "Computer Keyboard.json",
+  "author": "Kenney",
+  "description": "Imported \"Computer Keyboard.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Computer Keyboard.glb",
+  "tags": [
+    "furniture"
+  ]
+}

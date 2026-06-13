@@ -1,0 +1,12 @@
+{
+  "id": "animals_badger",
+  "label": "Badger",
+  "file": "Badger.json",
+  "author": "molochdadev",
+  "description": "Imported \"Badger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Badger.glb",
+  "tags": [
+    "animals"
+  ]
+}

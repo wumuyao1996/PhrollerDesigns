@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_chef_knife",
+  "label": "Chef Knife",
+  "file": "Chef Knife.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Chef Knife.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chef Knife.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

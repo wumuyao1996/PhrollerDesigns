@@ -1,0 +1,12 @@
+{
+  "id": "furniture_rug_square",
+  "label": "Rug Square",
+  "file": "Rug Square.json",
+  "author": "Kenney",
+  "description": "Imported \"Rug Square.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rug Square.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_peanut_butter",
+  "label": "Peanut Butter",
+  "file": "Peanut Butter.json",
+  "author": "Kenney",
+  "description": "Imported \"Peanut Butter.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Peanut Butter.glb",
+  "tags": [
+    "food"
+  ]
+}

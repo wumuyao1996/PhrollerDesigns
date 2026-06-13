@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_large_building",
+  "label": "Large Building",
+  "file": "Large Building.json",
+  "author": "Player11132",
+  "description": "Imported \"Large Building.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Large Building.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

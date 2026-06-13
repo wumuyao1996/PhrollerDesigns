@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_mushnub_evolved",
+  "label": "Mushnub Evolved",
+  "file": "Mushnub Evolved.json",
+  "author": "Quaternius",
+  "description": "Imported \"Mushnub Evolved.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mushnub Evolved.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

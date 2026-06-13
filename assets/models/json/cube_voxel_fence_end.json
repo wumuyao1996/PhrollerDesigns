@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_fence_end",
+  "title": "Fence End",
+  "label": "Fence End",
+  "file": "cube_voxel_fence_end.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Fence End.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_fence_end.glb"
+}

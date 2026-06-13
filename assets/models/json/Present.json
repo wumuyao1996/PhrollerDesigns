@@ -1,0 +1,13 @@
+{
+  "id": "household_props_present",
+  "label": "Present",
+  "file": "Present.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Present.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Present.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

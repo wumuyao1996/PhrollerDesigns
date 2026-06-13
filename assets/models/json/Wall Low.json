@@ -1,0 +1,12 @@
+{
+  "id": "building_wall_low",
+  "label": "Wall Low",
+  "file": "Wall Low.json",
+  "author": "Kenney",
+  "description": "Imported \"Wall Low.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Low.glb",
+  "tags": [
+    "building"
+  ]
+}

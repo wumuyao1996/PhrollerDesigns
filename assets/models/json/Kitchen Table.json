@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_kitchen_table",
+  "label": "Kitchen Table",
+  "file": "Kitchen Table.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Kitchen Table.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Table.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

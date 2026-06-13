@@ -1,0 +1,12 @@
+{
+  "id": "animals_starfish",
+  "label": "Starfish",
+  "file": "Starfish.json",
+  "author": "molochdadev",
+  "description": "Imported \"Starfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Starfish.glb",
+  "tags": [
+    "animals"
+  ]
+}

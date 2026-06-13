@@ -1,0 +1,12 @@
+{
+  "id": "city_fence_piece",
+  "label": "Fence Piece",
+  "file": "Fence Piece.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Fence Piece.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fence Piece.glb",
+  "tags": [
+    "city"
+  ]
+}

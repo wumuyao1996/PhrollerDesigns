@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_barrel_open",
+  "label": "Barrel Open",
+  "file": "Barrel Open.json",
+  "author": "Kenney",
+  "description": "Imported \"Barrel Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barrel Open.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

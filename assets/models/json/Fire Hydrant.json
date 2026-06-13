@@ -1,0 +1,12 @@
+{
+  "id": "city_fire_hydrant",
+  "label": "Fire Hydrant",
+  "file": "Fire hydrant.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Fire hydrant.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fire hydrant.glb",
+  "tags": [
+    "city"
+  ]
+}

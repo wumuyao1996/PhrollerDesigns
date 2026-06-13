@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_cut_tomatoes",
+  "label": "Cut Tomatoes",
+  "file": "Cut tomatoes.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cut tomatoes.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cut tomatoes.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "household_props_tissue_box",
+  "label": "Tissue Box",
+  "file": "Tissue Box.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Tissue Box.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tissue Box.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

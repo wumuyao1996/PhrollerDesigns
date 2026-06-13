@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_wall_modular",
+  "title": "Wall Modular",
+  "label": "Wall Modular",
+  "file": "modular_dungeon_pack_wall_modular.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Wall Modular.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_wall_modular.glb"
+}

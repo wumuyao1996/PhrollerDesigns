@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_stove",
+  "label": "Kitchen Stove",
+  "file": "Kitchen Stove.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Stove.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Stove.glb",
+  "tags": [
+    "furniture"
+  ]
+}

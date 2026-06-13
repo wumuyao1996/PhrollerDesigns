@@ -1,0 +1,15 @@
+{
+  "id": "platformer_large_island",
+  "title": "Large Island",
+  "label": "Large Island",
+  "file": "platformer_large_island.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Large Island.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_large_island.glb"
+}

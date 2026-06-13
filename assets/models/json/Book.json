@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_book",
+  "label": "Book",
+  "file": "Book.json",
+  "author": "Quaternius",
+  "description": "Imported \"Book.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Book.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

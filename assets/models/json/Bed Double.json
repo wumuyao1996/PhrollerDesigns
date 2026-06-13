@@ -1,0 +1,12 @@
+{
+  "id": "furniture_bed_double",
+  "label": "Bed Double",
+  "file": "Bed Double.json",
+  "author": "Kenney",
+  "description": "Imported \"Bed Double.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bed Double.glb",
+  "tags": [
+    "furniture"
+  ]
+}

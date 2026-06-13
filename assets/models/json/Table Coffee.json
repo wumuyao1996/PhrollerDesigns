@@ -1,0 +1,12 @@
+{
+  "id": "furniture_table_coffee",
+  "label": "Table Coffee",
+  "file": "Table Coffee.json",
+  "author": "Kenney",
+  "description": "Imported \"Table Coffee.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Table Coffee.glb",
+  "tags": [
+    "furniture"
+  ]
+}

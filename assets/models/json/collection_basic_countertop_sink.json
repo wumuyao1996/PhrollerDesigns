@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_countertop_sink",
+  "title": "Countertop Sink",
+  "label": "Countertop Sink",
+  "file": "collection_basic_countertop_sink.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Countertop Sink.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_countertop_sink.glb"
+}

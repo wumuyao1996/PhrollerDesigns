@@ -1,0 +1,15 @@
+{
+  "id": "animals_wolf",
+  "title": "Wolf",
+  "label": "Wolf",
+  "file": "animals_wolf.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Wolf.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_wolf.glb"
+}

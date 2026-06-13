@@ -1,0 +1,15 @@
+{
+  "id": "food_chopsticks",
+  "title": "Chopsticks",
+  "label": "Chopsticks",
+  "file": "food_chopsticks.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Chopsticks.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_chopsticks.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_lure",
+  "label": "Lure",
+  "file": "Lure.json",
+  "author": "Quaternius",
+  "description": "Imported \"Lure.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lure.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_door",
+  "label": "Door",
+  "file": "Door.json",
+  "author": "Quaternius",
+  "description": "Imported \"Door.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Door.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

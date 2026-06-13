@@ -1,0 +1,16 @@
+{
+  "id": "animals_cute_beagle",
+  "title": "Beagle",
+  "label": "Beagle",
+  "file": "animals_cute_beagle.json",
+  "author": "madtrollstudio",
+  "description": "Loly-poly glb asset of Beagle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals",
+    "cute"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_cute_beagle.glb"
+}

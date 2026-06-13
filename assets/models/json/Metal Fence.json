@@ -1,0 +1,12 @@
+{
+  "id": "shooter_metal_fence",
+  "label": "Metal Fence",
+  "file": "Metal Fence.json",
+  "author": "Quaternius",
+  "description": "Imported \"Metal Fence.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Metal Fence.glb",
+  "tags": [
+    "shooter"
+  ]
+}

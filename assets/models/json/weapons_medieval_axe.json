@@ -1,0 +1,16 @@
+{
+  "id": "weapons_medieval_axe",
+  "title": "Axe",
+  "label": "Axe",
+  "file": "weapons_medieval_axe.json",
+  "author": "MiniPoly",
+  "description": "Loly-poly glb asset of Axe.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "medieval"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_medieval_axe.glb"
+}

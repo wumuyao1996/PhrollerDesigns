@@ -1,0 +1,12 @@
+{
+  "id": "furniture_doorway_open",
+  "label": "Doorway Open",
+  "file": "Doorway Open.json",
+  "author": "Kenney",
+  "description": "Imported \"Doorway Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Doorway Open.glb",
+  "tags": [
+    "furniture"
+  ]
+}

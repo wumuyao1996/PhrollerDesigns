@@ -1,0 +1,12 @@
+{
+  "id": "makeup_tweezer",
+  "label": "Tweezer",
+  "file": "Tweezer.json",
+  "author": "MilkAndBanana",
+  "description": "Imported \"Tweezer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tweezer.glb",
+  "tags": [
+    "makeup"
+  ]
+}

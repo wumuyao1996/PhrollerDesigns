@@ -1,0 +1,13 @@
+{
+  "id": "farm_buildings_small_barn",
+  "label": "Small Barn",
+  "file": "Small Barn.json",
+  "author": "Quaternius",
+  "description": "Imported \"Small Barn.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Small Barn.glb",
+  "tags": [
+    "farm",
+    "buildings"
+  ]
+}

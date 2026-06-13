@@ -1,0 +1,12 @@
+{
+  "id": "shooter_ak47",
+  "label": "Ak47",
+  "file": "Ak47.json",
+  "author": "Quaternius",
+  "description": "Imported \"Ak47.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ak47.glb",
+  "tags": [
+    "shooter"
+  ]
+}

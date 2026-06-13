@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_wodden_temple",
+  "title": "Wodden Temple",
+  "label": "Wodden Temple",
+  "file": "fantasy_rts_wodden_temple.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Wodden Temple.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_wodden_temple.glb"
+}

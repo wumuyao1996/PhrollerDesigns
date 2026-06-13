@@ -1,0 +1,13 @@
+{
+  "id": "household_props_safe",
+  "label": "Safe",
+  "file": "Safe.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Safe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Safe.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

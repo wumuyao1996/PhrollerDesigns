@@ -1,0 +1,13 @@
+{
+  "id": "household_props_candlestick",
+  "label": "Candlestick",
+  "file": "Candlestick.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Candlestick.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Candlestick.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

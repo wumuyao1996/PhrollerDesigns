@@ -1,0 +1,13 @@
+{
+  "id": "household_props_doll",
+  "label": "Doll",
+  "file": "Doll.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Doll.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Doll.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

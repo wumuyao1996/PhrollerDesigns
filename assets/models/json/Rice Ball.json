@@ -1,0 +1,12 @@
+{
+  "id": "food_rice_ball",
+  "label": "Rice Ball",
+  "file": "Rice Ball.json",
+  "author": "Kenney",
+  "description": "Imported \"Rice Ball.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rice Ball.glb",
+  "tags": [
+    "food"
+  ]
+}

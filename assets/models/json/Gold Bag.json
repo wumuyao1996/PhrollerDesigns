@@ -1,0 +1,12 @@
+{
+  "id": "pirate_gold_bag",
+  "label": "Gold Bag",
+  "file": "Gold Bag.json",
+  "author": "Quaternius",
+  "description": "Imported \"Gold Bag.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gold Bag.glb",
+  "tags": [
+    "pirate"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "outdoor_decor_props_bottle",
+  "title": "Bottle",
+  "label": "Bottle",
+  "file": "outdoor_decor_props_bottle.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Bottle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outdoor",
+    "decor",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outdoor_decor_props_bottle.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_ferris_wheel",
+  "label": "Ferris Wheel",
+  "file": "Ferris wheel.json",
+  "author": "Player11132",
+  "description": "Imported \"Ferris wheel.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ferris wheel.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

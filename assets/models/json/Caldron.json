@@ -1,0 +1,13 @@
+{
+  "id": "household_props_caldron",
+  "label": "Caldron",
+  "file": "Caldron.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Caldron.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Caldron.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

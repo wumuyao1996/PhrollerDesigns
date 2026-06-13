@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_sheriff_hat",
+  "title": "Sheriff Hat",
+  "label": "Sheriff Hat",
+  "file": "outlaws_sheriff_hat.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Sheriff Hat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_sheriff_hat.glb"
+}

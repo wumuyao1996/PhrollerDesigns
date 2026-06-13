@@ -1,0 +1,12 @@
+{
+  "id": "furniture_laptop",
+  "label": "Laptop",
+  "file": "Laptop.json",
+  "author": "Kenney",
+  "description": "Imported \"Laptop.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Laptop.glb",
+  "tags": [
+    "furniture"
+  ]
+}

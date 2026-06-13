@@ -1,0 +1,16 @@
+{
+  "id": "guns_modern_assault_rifle",
+  "title": "Assault Rifle",
+  "label": "Assault Rifle",
+  "file": "guns_modern_assault_rifle.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Assault Rifle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "guns",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/guns_modern_assault_rifle.glb"
+}

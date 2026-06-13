@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_star_coin",
+  "label": "Star Coin",
+  "file": "Star Coin.json",
+  "author": "Quaternius",
+  "description": "Imported \"Star Coin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Star Coin.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

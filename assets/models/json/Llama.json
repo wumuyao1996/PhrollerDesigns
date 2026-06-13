@@ -1,0 +1,13 @@
+{
+  "id": "farm_animal_llama",
+  "label": "Llama",
+  "file": "Llama.json",
+  "author": "Quaternius",
+  "description": "Imported \"Llama.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Llama.glb",
+  "tags": [
+    "farm",
+    "animal"
+  ]
+}

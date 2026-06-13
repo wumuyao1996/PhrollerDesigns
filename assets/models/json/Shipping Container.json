@@ -1,0 +1,12 @@
+{
+  "id": "shooter_shipping_container",
+  "label": "Shipping Container",
+  "file": "Shipping Container.json",
+  "author": "Quaternius",
+  "description": "Imported \"Shipping Container.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shipping Container.glb",
+  "tags": [
+    "shooter"
+  ]
+}

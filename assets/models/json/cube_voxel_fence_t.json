@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_fence_t",
+  "title": "Fence T",
+  "label": "Fence T",
+  "file": "cube_voxel_fence_t.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Fence T.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_fence_t.glb"
+}

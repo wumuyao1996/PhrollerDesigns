@@ -1,0 +1,13 @@
+{
+  "id": "household_props_dumbbell",
+  "label": "Dumbbell",
+  "file": "Dumbbell.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Dumbbell.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dumbbell.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

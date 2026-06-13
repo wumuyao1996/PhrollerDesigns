@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_meat_mallet",
+  "title": "Meat Mallet",
+  "label": "Meat Mallet",
+  "file": "cooking_assets_meat_mallet.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Meat Mallet.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_meat_mallet.glb"
+}

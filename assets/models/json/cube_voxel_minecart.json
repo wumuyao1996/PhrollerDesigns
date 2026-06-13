@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_minecart",
+  "title": "Minecart",
+  "label": "Minecart",
+  "file": "cube_voxel_minecart.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Minecart.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_minecart.glb"
+}

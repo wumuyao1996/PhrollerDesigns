@@ -1,0 +1,15 @@
+{
+  "id": "vrc_wall_socket",
+  "title": "Wall Socket",
+  "label": "Wall Socket",
+  "file": "vrc_wall_socket.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Wall Socket.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_wall_socket.glb"
+}

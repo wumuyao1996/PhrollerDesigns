@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_market_stalls_compact",
+  "title": "Market Stalls Compact",
+  "label": "Market Stalls Compact",
+  "file": "fantasy_rts_market_stalls_compact.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Market Stalls Compact.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_market_stalls_compact.glb"
+}

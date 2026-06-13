@@ -1,0 +1,12 @@
+{
+  "id": "shooter_barrier_fixed",
+  "label": "Barrier Fixed",
+  "file": "Barrier Fixed.json",
+  "author": "Quaternius",
+  "description": "Imported \"Barrier Fixed.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barrier Fixed.glb",
+  "tags": [
+    "shooter"
+  ]
+}

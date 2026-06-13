@@ -1,0 +1,15 @@
+{
+  "id": "vrc_laptop",
+  "title": "Laptop",
+  "label": "Laptop",
+  "file": "vrc_laptop.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Laptop.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_laptop.glb"
+}

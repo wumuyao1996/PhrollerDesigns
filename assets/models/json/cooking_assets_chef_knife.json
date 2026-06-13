@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_chef_knife",
+  "title": "Chef Knife",
+  "label": "Chef Knife",
+  "file": "cooking_assets_chef_knife.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Chef Knife.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_chef_knife.glb"
+}

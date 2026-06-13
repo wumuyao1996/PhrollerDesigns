@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_chair_stool",
+  "label": "Chair Stool",
+  "file": "Chair Stool.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Chair Stool.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chair Stool.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

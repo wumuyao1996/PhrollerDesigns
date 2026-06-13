@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_monkroose",
+  "label": "Monkroose",
+  "file": "Monkroose.json",
+  "author": "Quaternius",
+  "description": "Imported \"Monkroose.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Monkroose.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

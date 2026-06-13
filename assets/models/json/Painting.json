@@ -1,0 +1,13 @@
+{
+  "id": "household_props_painting",
+  "label": "Painting",
+  "file": "Painting.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Painting.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Painting.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

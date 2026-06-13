@@ -1,0 +1,13 @@
+{
+  "id": "household_props_jar",
+  "label": "Jar",
+  "file": "Jar.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Jar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Jar.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

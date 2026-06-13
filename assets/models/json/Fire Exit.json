@@ -1,0 +1,12 @@
+{
+  "id": "city_fire_exit",
+  "label": "Fire Exit",
+  "file": "Fire Exit.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Fire Exit.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fire Exit.glb",
+  "tags": [
+    "city"
+  ]
+}

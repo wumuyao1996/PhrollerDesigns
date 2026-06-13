@@ -1,0 +1,16 @@
+{
+  "id": "modular_men_king",
+  "title": "King",
+  "label": "King",
+  "file": "modular_men_king.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of King.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "men"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_men_king.glb"
+}

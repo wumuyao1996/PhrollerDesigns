@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_blue_tang",
+  "label": "Blue Tang",
+  "file": "Blue Tang.json",
+  "author": "Quaternius",
+  "description": "Imported \"Blue Tang.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Blue Tang.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

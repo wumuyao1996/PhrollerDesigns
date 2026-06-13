@@ -1,0 +1,16 @@
+{
+  "id": "weapons_medieval_devils_axe",
+  "title": "Devils Axe",
+  "label": "Devils Axe",
+  "file": "weapons_medieval_devils_axe.json",
+  "author": "MiniPoly",
+  "description": "Loly-poly glb asset of Devils Axe.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "medieval"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_medieval_devils_axe.glb"
+}

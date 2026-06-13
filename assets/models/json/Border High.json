@@ -1,0 +1,12 @@
+{
+  "id": "building_border_high",
+  "label": "Border High",
+  "file": "Border High.json",
+  "author": "Kenney",
+  "description": "Imported \"Border High.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Border High.glb",
+  "tags": [
+    "building"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_ghost_skull",
+  "label": "Ghost Skull",
+  "file": "Ghost Skull.json",
+  "author": "Quaternius",
+  "description": "Imported \"Ghost Skull.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ghost Skull.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

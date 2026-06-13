@@ -1,0 +1,12 @@
+{
+  "id": "city_bench",
+  "label": "Bench",
+  "file": "Bench.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Bench.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bench.glb",
+  "tags": [
+    "city"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_crypt",
+  "label": "Crypt",
+  "file": "Crypt.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Crypt.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crypt.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_rolling_pin",
+  "label": "Rolling Pin",
+  "file": "Rolling Pin.json",
+  "author": "Kenney",
+  "description": "Imported \"Rolling Pin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rolling Pin.glb",
+  "tags": [
+    "food"
+  ]
+}

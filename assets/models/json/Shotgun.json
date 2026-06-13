@@ -1,0 +1,12 @@
+{
+  "id": "pirate_shotgun",
+  "label": "Shotgun",
+  "file": "Shotgun.json",
+  "author": "Quaternius",
+  "description": "Imported \"Shotgun.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shotgun.glb",
+  "tags": [
+    "pirate"
+  ]
+}

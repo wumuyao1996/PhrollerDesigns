@@ -1,0 +1,16 @@
+{
+  "id": "pretty_park_tree_large",
+  "title": "Tree Large",
+  "label": "Tree Large",
+  "file": "pretty_park_tree_large.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Tree Large.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "pretty",
+    "park"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/pretty_park_tree_large.glb"
+}

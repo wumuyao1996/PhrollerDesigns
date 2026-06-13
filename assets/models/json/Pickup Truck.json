@@ -1,0 +1,12 @@
+{
+  "id": "city_pickup_truck",
+  "label": "Pickup Truck",
+  "file": "Pickup Truck.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Pickup Truck.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pickup Truck.glb",
+  "tags": [
+    "city"
+  ]
+}

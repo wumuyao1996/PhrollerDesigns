@@ -1,0 +1,13 @@
+{
+  "id": "homely_house_gate_single",
+  "label": "Gate Single",
+  "file": "Gate Single.json",
+  "author": "Isa Lousberg",
+  "description": "Imported \"Gate Single.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gate Single.glb",
+  "tags": [
+    "homely",
+    "house"
+  ]
+}

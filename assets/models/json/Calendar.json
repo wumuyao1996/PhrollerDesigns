@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_calendar",
+  "label": "Calendar",
+  "file": "Calendar.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Calendar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Calendar.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_analog_clock",
+  "label": "Analog Clock",
+  "file": "Analog clock.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Analog clock.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Analog clock.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

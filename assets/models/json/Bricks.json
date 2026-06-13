@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_bricks",
+  "label": "Bricks",
+  "file": "Bricks.json",
+  "author": "dotRianne",
+  "description": "Imported \"Bricks.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bricks.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "household_props_toilet",
+  "label": "Toilet",
+  "file": "Toilet.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Toilet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Toilet.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

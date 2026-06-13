@@ -1,0 +1,12 @@
+{
+  "id": "food_chocolate",
+  "label": "Chocolate",
+  "file": "Chocolate.json",
+  "author": "Kenney",
+  "description": "Imported \"Chocolate.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chocolate.glb",
+  "tags": [
+    "food"
+  ]
+}

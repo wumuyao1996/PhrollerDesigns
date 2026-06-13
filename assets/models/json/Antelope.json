@@ -1,0 +1,12 @@
+{
+  "id": "animals_antelope",
+  "label": "Antelope",
+  "file": "Antelope.json",
+  "author": "molochdadev",
+  "description": "Imported \"Antelope.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Antelope.glb",
+  "tags": [
+    "animals"
+  ]
+}

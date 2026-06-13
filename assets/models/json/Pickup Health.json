@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_pickup_health",
+  "label": "Pickup Health",
+  "file": "Pickup Health.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pickup Health.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pickup Health.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

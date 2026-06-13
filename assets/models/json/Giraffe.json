@@ -1,0 +1,12 @@
+{
+  "id": "animals_giraffe",
+  "label": "Giraffe",
+  "file": "Giraffe.json",
+  "author": "molochdadev",
+  "description": "Imported \"Giraffe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Giraffe.glb",
+  "tags": [
+    "animals"
+  ]
+}

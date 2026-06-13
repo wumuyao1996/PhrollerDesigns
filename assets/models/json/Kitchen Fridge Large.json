@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_fridge_large",
+  "label": "Kitchen Fridge Large",
+  "file": "Kitchen Fridge Large.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Fridge Large.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Fridge Large.glb",
+  "tags": [
+    "furniture"
+  ]
+}

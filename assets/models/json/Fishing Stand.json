@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_fishing_stand",
+  "label": "Fishing Stand",
+  "file": "Fishing Stand.json",
+  "author": "Kenney",
+  "description": "Imported \"Fishing Stand.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fishing Stand.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

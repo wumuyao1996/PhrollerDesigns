@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_support",
+  "label": "Support",
+  "file": "Support.json",
+  "author": "Quaternius",
+  "description": "Imported \"Support.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Support.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_ambulance",
+  "label": "Ambulance",
+  "file": "Ambulance.json",
+  "author": "Player11132",
+  "description": "Imported \"Ambulance.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ambulance.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

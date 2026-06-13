@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_stock_pot",
+  "title": "Stock Pot",
+  "label": "Stock Pot",
+  "file": "cooking_assets_stock_pot.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Stock Pot.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_stock_pot.glb"
+}

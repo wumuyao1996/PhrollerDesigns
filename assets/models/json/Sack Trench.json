@@ -1,0 +1,12 @@
+{
+  "id": "shooter_sack_trench",
+  "label": "Sack Trench",
+  "file": "Sack Trench.json",
+  "author": "Quaternius",
+  "description": "Imported \"Sack Trench.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sack Trench.glb",
+  "tags": [
+    "shooter"
+  ]
+}

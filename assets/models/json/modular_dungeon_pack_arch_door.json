@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_arch_door",
+  "title": "Arch Door",
+  "label": "Arch Door",
+  "file": "modular_dungeon_pack_arch_door.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Arch Door.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_arch_door.glb"
+}

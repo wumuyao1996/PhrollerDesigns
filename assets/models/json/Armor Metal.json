@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_armor_metal",
+  "label": "Armor Metal",
+  "file": "Armor Metal.json",
+  "author": "Quaternius",
+  "description": "Imported \"Armor Metal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Armor Metal.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_tall_grass",
+  "label": "Tall Grass",
+  "file": "Tall Grass.json",
+  "author": "Quaternius",
+  "description": "Imported \"Tall Grass.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tall Grass.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "modular_sushi_restaurant_salmon_nigiri",
+  "title": "Salmon Nigiri",
+  "label": "Salmon Nigiri",
+  "file": "modular_sushi_restaurant_salmon_nigiri.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Salmon Nigiri.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "sushi",
+    "restaurant"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_sushi_restaurant_salmon_nigiri.glb"
+}

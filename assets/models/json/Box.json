@@ -1,0 +1,12 @@
+{
+  "id": "city_box",
+  "label": "Box",
+  "file": "Box.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Box.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Box.glb",
+  "tags": [
+    "city"
+  ]
+}

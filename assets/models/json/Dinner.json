@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_dinner",
+  "label": "Dinner",
+  "file": "Dinner.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Dinner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dinner.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

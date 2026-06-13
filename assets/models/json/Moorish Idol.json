@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_moorish_idol",
+  "label": "Moorish Idol",
+  "file": "Moorish Idol.json",
+  "author": "Quaternius",
+  "description": "Imported \"Moorish Idol.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Moorish Idol.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

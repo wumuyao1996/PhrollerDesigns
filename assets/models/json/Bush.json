@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_bush",
+  "label": "Bush",
+  "file": "Bush.json",
+  "author": "Quaternius",
+  "description": "Imported \"Bush.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bush.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

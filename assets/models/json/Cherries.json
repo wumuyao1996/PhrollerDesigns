@@ -1,0 +1,12 @@
+{
+  "id": "food_cherries",
+  "label": "Cherries",
+  "file": "Cherries.json",
+  "author": "Kenney",
+  "description": "Imported \"Cherries.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cherries.glb",
+  "tags": [
+    "food"
+  ]
+}

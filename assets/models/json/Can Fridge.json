@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_can_fridge",
+  "label": "Can Fridge",
+  "file": "Can Fridge.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Can Fridge.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Can Fridge.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

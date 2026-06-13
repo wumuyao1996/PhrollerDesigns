@@ -1,0 +1,12 @@
+{
+  "id": "food_cheese_slicer",
+  "label": "Cheese Slicer",
+  "file": "Cheese Slicer.json",
+  "author": "Kenney",
+  "description": "Imported \"Cheese Slicer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cheese Slicer.glb",
+  "tags": [
+    "food"
+  ]
+}

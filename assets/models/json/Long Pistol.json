@@ -1,0 +1,14 @@
+{
+  "id": "sci_fi_gun_shooter_long_pistol",
+  "label": "Long Pistol",
+  "file": "Long Pistol.json",
+  "author": "Quaternius",
+  "description": "Imported \"Long Pistol.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Long Pistol.glb",
+  "tags": [
+    "sci-fi",
+    "gun",
+    "shooter"
+  ]
+}

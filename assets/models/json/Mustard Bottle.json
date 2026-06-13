@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_mustard_bottle",
+  "label": "Mustard Bottle",
+  "file": "Mustard Bottle.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Mustard Bottle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mustard Bottle.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

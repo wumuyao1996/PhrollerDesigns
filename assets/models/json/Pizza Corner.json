@@ -1,0 +1,12 @@
+{
+  "id": "city_pizza_corner",
+  "label": "Pizza Corner",
+  "file": "Pizza Corner.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Pizza Corner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pizza Corner.glb",
+  "tags": [
+    "city"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shooter_trash_container_open",
+  "label": "Trash Container Open",
+  "file": "Trash Container Open.json",
+  "author": "Quaternius",
+  "description": "Imported \"Trash Container Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trash Container Open.glb",
+  "tags": [
+    "shooter"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_parchment",
+  "label": "Parchment",
+  "file": "Parchment.json",
+  "author": "Quaternius",
+  "description": "Imported \"Parchment.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Parchment.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

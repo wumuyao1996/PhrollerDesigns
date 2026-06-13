@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_armored_catfish",
+  "label": "Armored Catfish",
+  "file": "Armored Catfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Armored Catfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Armored Catfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_blender",
+  "label": "Kitchen Blender",
+  "file": "Kitchen Blender.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Blender.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Blender.glb",
+  "tags": [
+    "furniture"
+  ]
+}

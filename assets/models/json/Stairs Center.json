@@ -1,0 +1,12 @@
+{
+  "id": "building_stairs_center",
+  "label": "Stairs Center",
+  "file": "Stairs Center.json",
+  "author": "Kenney",
+  "description": "Imported \"Stairs Center.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stairs Center.glb",
+  "tags": [
+    "building"
+  ]
+}

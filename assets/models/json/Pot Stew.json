@@ -1,0 +1,12 @@
+{
+  "id": "food_pot_stew",
+  "label": "Pot Stew",
+  "file": "Pot Stew.json",
+  "author": "Kenney",
+  "description": "Imported \"Pot Stew.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pot Stew.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "women_modular_witch",
+  "label": "Witch",
+  "file": "Witch.json",
+  "author": "Quaternius",
+  "description": "Imported \"Witch.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Witch.glb",
+  "tags": [
+    "women",
+    "modular"
+  ]
+}

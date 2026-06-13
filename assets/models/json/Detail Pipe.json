@@ -1,0 +1,12 @@
+{
+  "id": "building_detail_pipe",
+  "label": "Detail Pipe",
+  "file": "Detail Pipe.json",
+  "author": "Kenney",
+  "description": "Imported \"Detail Pipe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Detail Pipe.glb",
+  "tags": [
+    "building"
+  ]
+}

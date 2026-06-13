@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_piranha",
+  "label": "Piranha",
+  "file": "Piranha.json",
+  "author": "Quaternius",
+  "description": "Imported \"Piranha.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Piranha.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

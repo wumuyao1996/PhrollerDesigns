@@ -1,0 +1,13 @@
+{
+  "id": "fps_shooter_m939_truck",
+  "label": "M939 Truck",
+  "file": "M939 Truck.json",
+  "author": "J-Toastie",
+  "description": "Imported \"M939 Truck.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/M939 Truck.glb",
+  "tags": [
+    "fps",
+    "shooter"
+  ]
+}

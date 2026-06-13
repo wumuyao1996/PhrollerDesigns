@@ -1,0 +1,13 @@
+{
+  "id": "military_vehicles_ambulance_car",
+  "label": "Ambulance Car",
+  "file": "Ambulance Car.json",
+  "author": "Zsky",
+  "description": "Imported \"Ambulance Car.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ambulance Car.glb",
+  "tags": [
+    "military",
+    "vehicles"
+  ]
+}

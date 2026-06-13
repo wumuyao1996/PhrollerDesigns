@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_dishrack",
+  "label": "Dishrack",
+  "file": "Dishrack.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Dishrack.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dishrack.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

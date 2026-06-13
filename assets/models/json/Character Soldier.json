@@ -1,0 +1,12 @@
+{
+  "id": "shooter_character_soldier",
+  "label": "Character Soldier",
+  "file": "Character Soldier.json",
+  "author": "Quaternius",
+  "description": "Imported \"Character Soldier.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Character Soldier.glb",
+  "tags": [
+    "shooter"
+  ]
+}

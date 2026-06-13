@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_blobfish",
+  "label": "Blobfish",
+  "file": "Blobfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Blobfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Blobfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

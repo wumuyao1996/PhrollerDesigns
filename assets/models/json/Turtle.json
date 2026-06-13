@@ -1,0 +1,12 @@
+{
+  "id": "animals_turtle",
+  "label": "Turtle",
+  "file": "Turtle.json",
+  "author": "molochdadev",
+  "description": "Imported \"Turtle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Turtle.glb",
+  "tags": [
+    "animals"
+  ]
+}

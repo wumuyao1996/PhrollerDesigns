@@ -1,0 +1,12 @@
+{
+  "id": "bottles_champagne_bottle",
+  "label": "Champagne Bottle",
+  "file": "Champagne Bottle.json",
+  "author": "MiniPoly",
+  "description": "Imported \"Champagne Bottle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Champagne Bottle.glb",
+  "tags": [
+    "bottles"
+  ]
+}

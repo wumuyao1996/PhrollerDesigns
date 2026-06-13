@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_pot_a",
+  "label": "Pot A",
+  "file": "Pot A.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Pot A.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pot A.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

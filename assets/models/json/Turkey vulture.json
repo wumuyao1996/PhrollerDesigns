@@ -1,0 +1,12 @@
+{
+  "id": "animals_turkey_vulture",
+  "label": "Turkey Vulture",
+  "file": "Turkey vulture.json",
+  "author": "molochdadev",
+  "description": "Imported \"Turkey vulture.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Turkey vulture.glb",
+  "tags": [
+    "animals"
+  ]
+}

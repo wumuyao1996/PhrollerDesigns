@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_cleaver",
+  "title": "Cleaver",
+  "label": "Cleaver",
+  "file": "cooking_assets_cleaver.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Cleaver.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_cleaver.glb"
+}

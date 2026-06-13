@@ -1,0 +1,12 @@
+{
+  "id": "furniture_speaker",
+  "label": "Speaker",
+  "file": "Speaker.json",
+  "author": "Kenney",
+  "description": "Imported \"Speaker.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Speaker.glb",
+  "tags": [
+    "furniture"
+  ]
+}

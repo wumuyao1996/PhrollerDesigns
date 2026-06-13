@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_katana",
+  "title": "Katana",
+  "label": "Katana",
+  "file": "weapons_zombie_modern_katana.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Katana.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_katana.glb"
+}

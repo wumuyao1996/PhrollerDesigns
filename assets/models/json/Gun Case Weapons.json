@@ -1,0 +1,13 @@
+{
+  "id": "fps_shooter_gun_case_weapons",
+  "label": "Gun Case Weapons",
+  "file": "Gun Case Weapons.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Gun Case Weapons.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gun Case Weapons.glb",
+  "tags": [
+    "fps",
+    "shooter"
+  ]
+}

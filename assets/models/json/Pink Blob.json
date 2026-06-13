@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_pink_blob",
+  "label": "Pink Blob",
+  "file": "Pink Blob.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pink Blob.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pink Blob.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

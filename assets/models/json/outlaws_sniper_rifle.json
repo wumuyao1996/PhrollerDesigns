@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_sniper_rifle",
+  "title": "Sniper Rifle",
+  "label": "Sniper Rifle",
+  "file": "outlaws_sniper_rifle.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Sniper Rifle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_sniper_rifle.glb"
+}

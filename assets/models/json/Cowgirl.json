@@ -1,0 +1,12 @@
+{
+  "id": "characters_cowgirl",
+  "label": "Cowgirl",
+  "file": "Cowgirl.json",
+  "author": "mastjie",
+  "description": "Imported \"Cowgirl.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cowgirl.glb",
+  "tags": [
+    "characters"
+  ]
+}

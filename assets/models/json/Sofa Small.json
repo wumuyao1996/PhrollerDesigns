@@ -1,0 +1,12 @@
+{
+  "id": "shooter_sofa_small",
+  "label": "Sofa Small",
+  "file": "Sofa Small.json",
+  "author": "Quaternius",
+  "description": "Imported \"Sofa Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sofa Small.glb",
+  "tags": [
+    "shooter"
+  ]
+}

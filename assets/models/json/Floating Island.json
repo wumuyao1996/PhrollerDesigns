@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_floating_island",
+  "label": "Floating Island",
+  "file": "Floating Island.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Floating Island.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floating Island.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

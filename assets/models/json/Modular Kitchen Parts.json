@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_modular_kitchen_parts",
+  "label": "Modular Kitchen Parts",
+  "file": "Modular Kitchen Parts.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Modular Kitchen Parts.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Modular Kitchen Parts.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

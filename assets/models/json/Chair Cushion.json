@@ -1,0 +1,12 @@
+{
+  "id": "furniture_chair_cushion",
+  "label": "Chair Cushion",
+  "file": "Chair Cushion.json",
+  "author": "Kenney",
+  "description": "Imported \"Chair Cushion.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chair Cushion.glb",
+  "tags": [
+    "furniture"
+  ]
+}

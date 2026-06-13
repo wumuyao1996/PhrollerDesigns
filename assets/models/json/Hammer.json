@@ -1,0 +1,13 @@
+{
+  "id": "household_props_hammer",
+  "label": "Hammer",
+  "file": "Hammer.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Hammer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Hammer.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

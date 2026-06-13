@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_cat",
+  "label": "Cat",
+  "file": "Cat.json",
+  "author": "Quaternius",
+  "description": "Imported \"Cat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cat.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

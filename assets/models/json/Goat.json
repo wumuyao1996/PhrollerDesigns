@@ -1,0 +1,12 @@
+{
+  "id": "animals_goat",
+  "label": "Goat",
+  "file": "Goat.json",
+  "author": "molochdadev",
+  "description": "Imported \"Goat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Goat.glb",
+  "tags": [
+    "animals"
+  ]
+}

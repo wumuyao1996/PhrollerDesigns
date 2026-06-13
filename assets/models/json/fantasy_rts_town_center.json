@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_town_center",
+  "title": "Town Center",
+  "label": "Town Center",
+  "file": "fantasy_rts_town_center.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Town Center.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_town_center.glb"
+}

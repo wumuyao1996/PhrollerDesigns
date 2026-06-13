@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_burger_bun_top",
+  "label": "Burger Bun Top",
+  "file": "Burger bun top.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Burger bun top.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Burger bun top.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

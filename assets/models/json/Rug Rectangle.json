@@ -1,0 +1,12 @@
+{
+  "id": "furniture_rug_rectangle",
+  "label": "Rug Rectangle",
+  "file": "Rug Rectangle.json",
+  "author": "Kenney",
+  "description": "Imported \"Rug Rectangle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rug Rectangle.glb",
+  "tags": [
+    "furniture"
+  ]
+}

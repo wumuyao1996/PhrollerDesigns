@@ -1,0 +1,16 @@
+{
+  "id": "platformer_modular_spikes",
+  "title": "Spikes",
+  "label": "Spikes",
+  "file": "platformer_modular_spikes.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Spikes.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_modular_spikes.glb"
+}

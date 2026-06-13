@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_pillar_b",
+  "label": "Pillar B",
+  "file": "Pillar B.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Pillar B.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pillar B.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

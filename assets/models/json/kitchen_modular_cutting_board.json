@@ -1,0 +1,16 @@
+{
+  "id": "kitchen_modular_cutting_board",
+  "title": "Cutting Board",
+  "label": "Cutting Board",
+  "file": "kitchen_modular_cutting_board.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Cutting Board.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "kitchen",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/kitchen_modular_cutting_board.glb"
+}

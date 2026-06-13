@@ -1,0 +1,12 @@
+{
+  "id": "shooter_wood_planks",
+  "label": "Wood Planks",
+  "file": "Wood Planks.json",
+  "author": "Quaternius",
+  "description": "Imported \"Wood Planks.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wood Planks.glb",
+  "tags": [
+    "shooter"
+  ]
+}

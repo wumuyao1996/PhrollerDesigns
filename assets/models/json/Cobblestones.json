@@ -1,0 +1,13 @@
+{
+  "id": "homely_house_cobblestones",
+  "label": "Cobblestones",
+  "file": "Cobblestones.json",
+  "author": "Isa Lousberg",
+  "description": "Imported \"Cobblestones.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cobblestones.glb",
+  "tags": [
+    "homely",
+    "house"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_mugs",
+  "label": "Mugs",
+  "file": "Mugs.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Mugs.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mugs.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

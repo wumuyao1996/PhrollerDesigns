@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_open_backpack",
+  "label": "Open Backpack",
+  "file": "Open Backpack.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Open Backpack.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Open Backpack.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

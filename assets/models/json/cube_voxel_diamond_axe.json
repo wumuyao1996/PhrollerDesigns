@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_diamond_axe",
+  "title": "Diamond Axe",
+  "label": "Diamond Axe",
+  "file": "cube_voxel_diamond_axe.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Diamond Axe.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_diamond_axe.glb"
+}

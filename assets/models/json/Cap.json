@@ -1,0 +1,12 @@
+{
+  "id": "cosmetic_cap",
+  "label": "Cap",
+  "file": "Cap.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Cap.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cap.glb",
+  "tags": [
+    "cosmetic"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_ammo_grenade_launcher",
+  "title": "Ammo Grenade Launcher",
+  "label": "Ammo Grenade Launcher",
+  "file": "weapons_zombie_modern_ammo_grenade_launcher.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Ammo Grenade Launcher.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_ammo_grenade_launcher.glb"
+}

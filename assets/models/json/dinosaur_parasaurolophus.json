@@ -1,0 +1,15 @@
+{
+  "id": "dinosaur_parasaurolophus",
+  "title": "Parasaurolophus",
+  "label": "Parasaurolophus",
+  "file": "dinosaur_parasaurolophus.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Parasaurolophus.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "dinosaur"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/dinosaur_parasaurolophus.glb"
+}

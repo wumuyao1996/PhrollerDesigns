@@ -1,0 +1,12 @@
+{
+  "id": "food_utensil_fork",
+  "label": "Utensil Fork",
+  "file": "Utensil Fork.json",
+  "author": "Kenney",
+  "description": "Imported \"Utensil Fork.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Utensil Fork.glb",
+  "tags": [
+    "food"
+  ]
+}

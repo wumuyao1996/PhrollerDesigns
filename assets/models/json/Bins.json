@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_bins",
+  "label": "Bins",
+  "file": "Bins.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Bins.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bins.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

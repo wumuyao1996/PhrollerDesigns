@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_collectible_gear",
+  "label": "Collectible Gear",
+  "file": "Collectible Gear.json",
+  "author": "Quaternius",
+  "description": "Imported \"Collectible Gear.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Collectible Gear.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_shield",
+  "label": "Shield",
+  "file": "Shield.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Shield.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shield.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

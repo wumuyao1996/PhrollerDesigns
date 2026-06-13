@@ -1,0 +1,16 @@
+{
+  "id": "sci_fi_gun_scifi_ar",
+  "title": "Scifi AR",
+  "label": "Scifi AR",
+  "file": "sci_fi_gun_scifi_ar.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Scifi AR.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "sci-fi",
+    "gun"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/sci_fi_gun_scifi_ar.glb"
+}

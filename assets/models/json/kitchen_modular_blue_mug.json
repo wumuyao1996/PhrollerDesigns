@@ -1,0 +1,16 @@
+{
+  "id": "kitchen_modular_blue_mug",
+  "title": "Blue Mug",
+  "label": "Blue Mug",
+  "file": "kitchen_modular_blue_mug.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Blue Mug.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "kitchen",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/kitchen_modular_blue_mug.glb"
+}

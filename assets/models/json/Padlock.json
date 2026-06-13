@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_padlock",
+  "label": "Padlock",
+  "file": "Padlock.json",
+  "author": "Quaternius",
+  "description": "Imported \"Padlock.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Padlock.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

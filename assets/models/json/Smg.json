@@ -1,0 +1,12 @@
+{
+  "id": "shooter_smg",
+  "label": "Smg",
+  "file": "Smg.json",
+  "author": "Quaternius",
+  "description": "Imported \"Smg.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Smg.glb",
+  "tags": [
+    "shooter"
+  ]
+}

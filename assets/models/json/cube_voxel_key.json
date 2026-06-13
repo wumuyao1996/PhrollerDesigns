@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_key",
+  "title": "Key",
+  "label": "Key",
+  "file": "cube_voxel_key.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Key.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_key.glb"
+}

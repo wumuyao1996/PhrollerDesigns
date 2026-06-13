@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_cooked_vegie_burger",
+  "label": "Cooked Vegie Burger",
+  "file": "Cooked Vegie burger.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cooked Vegie burger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cooked Vegie burger.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_fish_bone",
+  "label": "Fish Bone",
+  "file": "Fish Bone.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fish Bone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fish Bone.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

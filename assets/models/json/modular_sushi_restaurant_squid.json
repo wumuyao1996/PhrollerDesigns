@@ -1,0 +1,17 @@
+{
+  "id": "modular_sushi_restaurant_squid",
+  "title": "Squid",
+  "label": "Squid",
+  "file": "modular_sushi_restaurant_squid.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Squid.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "sushi",
+    "restaurant"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_sushi_restaurant_squid.glb"
+}

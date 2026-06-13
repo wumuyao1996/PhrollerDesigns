@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_pistol_ammo",
+  "title": "Pistol Ammo",
+  "label": "Pistol Ammo",
+  "file": "weapons_zombie_modern_pistol_ammo.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Pistol Ammo.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_pistol_ammo.glb"
+}

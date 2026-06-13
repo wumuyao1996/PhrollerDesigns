@@ -1,0 +1,12 @@
+{
+  "id": "food_shaker_salt",
+  "label": "Shaker Salt",
+  "file": "Shaker Salt.json",
+  "author": "Kenney",
+  "description": "Imported \"Shaker Salt.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shaker Salt.glb",
+  "tags": [
+    "food"
+  ]
+}

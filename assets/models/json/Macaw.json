@@ -1,0 +1,12 @@
+{
+  "id": "animals_macaw",
+  "label": "Macaw",
+  "file": "Macaw.json",
+  "author": "molochdadev",
+  "description": "Imported \"Macaw.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Macaw.glb",
+  "tags": [
+    "animals"
+  ]
+}

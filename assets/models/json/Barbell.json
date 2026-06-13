@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_barbell",
+  "label": "Barbell",
+  "file": "Barbell.json",
+  "author": "Zsky",
+  "description": "Imported \"Barbell.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barbell.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

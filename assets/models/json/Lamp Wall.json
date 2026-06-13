@@ -1,0 +1,12 @@
+{
+  "id": "furniture_lamp_wall",
+  "label": "Lamp Wall",
+  "file": "Lamp Wall.json",
+  "author": "Kenney",
+  "description": "Imported \"Lamp Wall.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lamp Wall.glb",
+  "tags": [
+    "furniture"
+  ]
+}

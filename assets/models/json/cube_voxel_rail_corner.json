@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_rail_corner",
+  "title": "Rail Corner",
+  "label": "Rail Corner",
+  "file": "cube_voxel_rail_corner.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Rail Corner.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_rail_corner.glb"
+}

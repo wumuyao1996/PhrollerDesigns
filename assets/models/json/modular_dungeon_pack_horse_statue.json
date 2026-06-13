@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_horse_statue",
+  "title": "Horse Statue",
+  "label": "Horse Statue",
+  "file": "modular_dungeon_pack_horse_statue.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Horse Statue.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_horse_statue.glb"
+}

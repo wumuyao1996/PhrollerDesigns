@@ -1,0 +1,12 @@
+{
+  "id": "pirate_coins",
+  "label": "Coins",
+  "file": "Coins.json",
+  "author": "Quaternius",
+  "description": "Imported \"Coins.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coins.glb",
+  "tags": [
+    "pirate"
+  ]
+}

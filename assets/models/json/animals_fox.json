@@ -1,0 +1,15 @@
+{
+  "id": "animals_fox",
+  "title": "Fox",
+  "label": "Fox",
+  "file": "animals_fox.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Fox.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_fox.glb"
+}

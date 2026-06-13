@@ -1,0 +1,15 @@
+{
+  "id": "vrc_pencil",
+  "title": "Pencil",
+  "label": "Pencil",
+  "file": "vrc_pencil.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Pencil.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_pencil.glb"
+}

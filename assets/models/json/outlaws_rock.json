@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_rock",
+  "title": "Rock",
+  "label": "Rock",
+  "file": "outlaws_rock.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Rock.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_rock.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "platformer_modular_small_bridge",
+  "title": "Small Bridge",
+  "label": "Small Bridge",
+  "file": "platformer_modular_small_bridge.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Small Bridge.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_modular_small_bridge.glb"
+}

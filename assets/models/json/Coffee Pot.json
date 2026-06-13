@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_coffee_pot",
+  "label": "Coffee Pot",
+  "file": "Coffee Pot.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Coffee Pot.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coffee Pot.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

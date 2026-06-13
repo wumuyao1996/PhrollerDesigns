@@ -1,0 +1,12 @@
+{
+  "id": "furniture_stairs_open",
+  "label": "Stairs Open",
+  "file": "Stairs Open.json",
+  "author": "Kenney",
+  "description": "Imported \"Stairs Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stairs Open.glb",
+  "tags": [
+    "furniture"
+  ]
+}

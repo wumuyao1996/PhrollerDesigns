@@ -1,0 +1,15 @@
+{
+  "id": "food_ice_cream",
+  "title": "Ice Cream",
+  "label": "Ice Cream",
+  "file": "food_ice_cream.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Ice Cream.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_ice_cream.glb"
+}

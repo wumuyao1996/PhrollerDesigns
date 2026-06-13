@@ -1,0 +1,16 @@
+{
+  "id": "pipe_modular_curved_pipe",
+  "title": "Curved Pipe",
+  "label": "Curved Pipe",
+  "file": "pipe_modular_curved_pipe.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Curved Pipe.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "pipe",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/pipe_modular_curved_pipe.glb"
+}

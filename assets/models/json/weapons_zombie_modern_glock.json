@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_glock",
+  "title": "Glock",
+  "label": "Glock",
+  "file": "weapons_zombie_modern_glock.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Glock.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_glock.glb"
+}

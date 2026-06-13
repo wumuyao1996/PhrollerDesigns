@@ -1,0 +1,17 @@
+{
+  "id": "city_modern_collection_building",
+  "title": "Building",
+  "label": "Building",
+  "file": "city_modern_collection_building.json",
+  "author": "dreamdev",
+  "description": "Loly-poly glb asset of Building.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "modern",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_modern_collection_building.glb"
+}

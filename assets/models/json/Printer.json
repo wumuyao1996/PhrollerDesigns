@@ -1,0 +1,13 @@
+{
+  "id": "household_props_printer",
+  "label": "Printer",
+  "file": "Printer.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Printer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Printer.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

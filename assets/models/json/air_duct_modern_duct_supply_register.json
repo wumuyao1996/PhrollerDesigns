@@ -1,0 +1,16 @@
+{
+  "id": "air_duct_modern_duct_supply_register",
+  "title": "Duct Supply Register",
+  "label": "Duct Supply Register",
+  "file": "air_duct_modern_duct_supply_register.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Duct Supply Register.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "air duct",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/air_duct_modern_duct_supply_register.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_mountain",
+  "title": "Mountain",
+  "label": "Mountain",
+  "file": "fantasy_rts_mountain.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Mountain.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_mountain.glb"
+}

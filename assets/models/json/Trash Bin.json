@@ -1,0 +1,13 @@
+{
+  "id": "household_props_trash_bin",
+  "label": "Trash Bin",
+  "file": "Trash Bin.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Trash Bin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trash Bin.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

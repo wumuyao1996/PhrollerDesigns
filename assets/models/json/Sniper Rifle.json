@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_sniper_rifle",
+  "label": "Sniper Rifle",
+  "file": "Sniper Rifle.json",
+  "author": "Zsky",
+  "description": "Imported \"Sniper Rifle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sniper Rifle.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

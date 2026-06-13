@@ -1,0 +1,14 @@
+{
+  "id": "random_collection_modern_zombie",
+  "label": "Zombie",
+  "file": "Zombie.json",
+  "author": "dook",
+  "description": "Imported \"Zombie.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Zombie.glb",
+  "tags": [
+    "random",
+    "collection",
+    "modern"
+  ]
+}

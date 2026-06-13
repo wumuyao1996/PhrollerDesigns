@@ -1,0 +1,12 @@
+{
+  "id": "animals_arabian_wildcat",
+  "label": "Arabian Wildcat",
+  "file": "Arabian wildcat.json",
+  "author": "molochdadev",
+  "description": "Imported \"Arabian wildcat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Arabian wildcat.glb",
+  "tags": [
+    "animals"
+  ]
+}

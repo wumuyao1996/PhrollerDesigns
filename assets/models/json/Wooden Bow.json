@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_wooden_bow",
+  "label": "Wooden Bow",
+  "file": "Wooden Bow.json",
+  "author": "Quaternius",
+  "description": "Imported \"Wooden Bow.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wooden Bow.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

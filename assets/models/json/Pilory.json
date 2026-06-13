@@ -1,0 +1,13 @@
+{
+  "id": "medieval_torture_pilory",
+  "label": "Pilory",
+  "file": "Pilory.json",
+  "author": "iPoly3D",
+  "description": "Imported \"Pilory.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pilory.glb",
+  "tags": [
+    "medieval",
+    "torture"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "christmas_santa",
+  "label": "Santa",
+  "file": "Santa.json",
+  "author": "MiniPoly",
+  "description": "Imported \"Santa.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Santa.glb",
+  "tags": [
+    "christmas"
+  ]
+}

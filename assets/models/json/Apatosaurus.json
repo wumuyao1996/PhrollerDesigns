@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_apatosaurus",
+  "label": "Apatosaurus",
+  "file": "Apatosaurus.json",
+  "author": "dotRianne",
+  "description": "Imported \"Apatosaurus.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Apatosaurus.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

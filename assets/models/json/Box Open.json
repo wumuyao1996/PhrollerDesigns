@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_box_open",
+  "label": "Box Open",
+  "file": "Box Open.json",
+  "author": "Kenney",
+  "description": "Imported \"Box Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Box Open.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

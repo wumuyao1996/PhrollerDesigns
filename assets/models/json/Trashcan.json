@@ -1,0 +1,12 @@
+{
+  "id": "furniture_trashcan",
+  "label": "Trashcan",
+  "file": "Trashcan.json",
+  "author": "Kenney",
+  "description": "Imported \"Trashcan.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trashcan.glb",
+  "tags": [
+    "furniture"
+  ]
+}

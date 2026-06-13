@@ -1,0 +1,12 @@
+{
+  "id": "food_wine_red",
+  "label": "Wine Red",
+  "file": "Wine Red.json",
+  "author": "Kenney",
+  "description": "Imported \"Wine Red.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wine Red.glb",
+  "tags": [
+    "food"
+  ]
+}

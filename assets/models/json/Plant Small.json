@@ -1,0 +1,12 @@
+{
+  "id": "furniture_plant_small",
+  "label": "Plant Small",
+  "file": "Plant Small.json",
+  "author": "Kenney",
+  "description": "Imported \"Plant Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Plant Small.glb",
+  "tags": [
+    "furniture"
+  ]
+}

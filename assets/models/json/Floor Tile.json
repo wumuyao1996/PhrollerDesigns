@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_floor_tile",
+  "label": "Floor Tile",
+  "file": "Floor Tile.json",
+  "author": "dotRianne",
+  "description": "Imported \"Floor Tile.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor Tile.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

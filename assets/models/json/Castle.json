@@ -1,0 +1,12 @@
+{
+  "id": "architecture_castle",
+  "label": "Castle",
+  "file": "Castle.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Castle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Castle.glb",
+  "tags": [
+    "architecture"
+  ]
+}

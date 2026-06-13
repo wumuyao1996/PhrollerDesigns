@@ -1,0 +1,17 @@
+{
+  "id": "space_modular_sci_fi_pickup_jar",
+  "title": "Pickup Jar",
+  "label": "Pickup Jar",
+  "file": "space_modular_sci_fi_pickup_jar.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Pickup Jar.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "space",
+    "modular",
+    "sci-fi"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/space_modular_sci_fi_pickup_jar.glb"
+}

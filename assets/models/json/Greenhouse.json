@@ -1,0 +1,12 @@
+{
+  "id": "city_greenhouse",
+  "label": "Greenhouse",
+  "file": "Greenhouse.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Greenhouse.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Greenhouse.glb",
+  "tags": [
+    "city"
+  ]
+}

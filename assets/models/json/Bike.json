@@ -1,0 +1,13 @@
+{
+  "id": "military_vehicles_bike",
+  "label": "Bike",
+  "file": "Bike.json",
+  "author": "Zsky",
+  "description": "Imported \"Bike.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bike.glb",
+  "tags": [
+    "military",
+    "vehicles"
+  ]
+}

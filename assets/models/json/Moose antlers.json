@@ -1,0 +1,12 @@
+{
+  "id": "animals_moose_antlers",
+  "label": "Moose Antlers",
+  "file": "Moose antlers.json",
+  "author": "molochdadev",
+  "description": "Imported \"Moose antlers.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Moose antlers.glb",
+  "tags": [
+    "animals"
+  ]
+}

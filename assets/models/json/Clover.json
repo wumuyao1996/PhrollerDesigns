@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_clover",
+  "label": "Clover",
+  "file": "Clover.json",
+  "author": "Quaternius",
+  "description": "Imported \"Clover.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Clover.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

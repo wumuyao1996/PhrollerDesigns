@@ -1,0 +1,16 @@
+{
+  "id": "tposing_avatars_jam_character",
+  "title": "Jam Character",
+  "label": "Jam Character",
+  "file": "tposing_avatars_jam_character.json",
+  "author": "Polygonal Mind",
+  "description": "Loly-poly glb asset of Jam Character.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "tposing",
+    "avatars"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/tposing_avatars_jam_character.glb"
+}

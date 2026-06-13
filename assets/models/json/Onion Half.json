@@ -1,0 +1,12 @@
+{
+  "id": "food_onion_half",
+  "label": "Onion Half",
+  "file": "Onion Half.json",
+  "author": "Kenney",
+  "description": "Imported \"Onion Half.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Onion Half.glb",
+  "tags": [
+    "food"
+  ]
+}

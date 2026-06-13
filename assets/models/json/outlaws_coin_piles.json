@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_coin_piles",
+  "title": "Coin Piles",
+  "label": "Coin Piles",
+  "file": "outlaws_coin_piles.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Coin Piles.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_coin_piles.glb"
+}

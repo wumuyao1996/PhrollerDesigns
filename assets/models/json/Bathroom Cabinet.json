@@ -1,0 +1,12 @@
+{
+  "id": "furniture_bathroom_cabinet",
+  "label": "Bathroom Cabinet",
+  "file": "Bathroom Cabinet.json",
+  "author": "Kenney",
+  "description": "Imported \"Bathroom Cabinet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bathroom Cabinet.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shooter_debris_pile",
+  "label": "Debris Pile",
+  "file": "Debris Pile.json",
+  "author": "Quaternius",
+  "description": "Imported \"Debris Pile.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Debris Pile.glb",
+  "tags": [
+    "shooter"
+  ]
+}

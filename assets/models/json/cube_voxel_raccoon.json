@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_raccoon",
+  "title": "Raccoon",
+  "label": "Raccoon",
+  "file": "cube_voxel_raccoon.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Raccoon.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_raccoon.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_flare_gun",
+  "title": "Flare Gun",
+  "label": "Flare Gun",
+  "file": "survival_collection_flare_gun.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Flare Gun.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_flare_gun.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "farm_buildings_open_barn",
+  "label": "Open Barn",
+  "file": "Open Barn.json",
+  "author": "Quaternius",
+  "description": "Imported \"Open Barn.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Open Barn.glb",
+  "tags": [
+    "farm",
+    "buildings"
+  ]
+}

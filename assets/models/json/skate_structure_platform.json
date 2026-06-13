@@ -1,0 +1,15 @@
+{
+  "id": "skate_structure_platform",
+  "title": "Structure Platform",
+  "label": "Structure Platform",
+  "file": "skate_structure_platform.json",
+  "author": "Kenney",
+  "description": "Loly-poly glb asset of Structure Platform.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "skate"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/skate_structure_platform.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_geometric_coaster",
+  "title": "Geometric Coaster",
+  "label": "Geometric Coaster",
+  "file": "collection_basic_geometric_coaster.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Geometric Coaster.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_geometric_coaster.glb"
+}

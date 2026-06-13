@@ -1,0 +1,12 @@
+{
+  "id": "pirate_gold_ore",
+  "label": "Gold Ore",
+  "file": "Gold ore.json",
+  "author": "Quaternius",
+  "description": "Imported \"Gold ore.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gold ore.glb",
+  "tags": [
+    "pirate"
+  ]
+}

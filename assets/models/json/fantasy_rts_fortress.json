@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_fortress",
+  "title": "Fortress",
+  "label": "Fortress",
+  "file": "fantasy_rts_fortress.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Fortress.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_fortress.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "furniture_cabinet_bed",
+  "label": "Cabinet Bed",
+  "file": "Cabinet Bed.json",
+  "author": "Kenney",
+  "description": "Imported \"Cabinet Bed.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cabinet Bed.glb",
+  "tags": [
+    "furniture"
+  ]
+}

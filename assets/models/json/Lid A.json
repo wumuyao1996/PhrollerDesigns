@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_lid_a",
+  "label": "Lid A",
+  "file": "Lid A.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lid A.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lid A.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

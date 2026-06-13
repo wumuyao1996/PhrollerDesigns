@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_vanity",
+  "label": "Vanity",
+  "file": "Vanity.json",
+  "author": "dotRianne",
+  "description": "Imported \"Vanity.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Vanity.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

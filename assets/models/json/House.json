@@ -1,0 +1,12 @@
+{
+  "id": "pirate_house",
+  "label": "House",
+  "file": "House.json",
+  "author": "Quaternius",
+  "description": "Imported \"House.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/House.glb",
+  "tags": [
+    "pirate"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shooter_gas_can",
+  "label": "Gas Can",
+  "file": "Gas Can.json",
+  "author": "Quaternius",
+  "description": "Imported \"Gas Can.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gas Can.glb",
+  "tags": [
+    "shooter"
+  ]
+}

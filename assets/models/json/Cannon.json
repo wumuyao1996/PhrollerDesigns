@@ -1,0 +1,12 @@
+{
+  "id": "pirate_cannon",
+  "label": "Cannon",
+  "file": "Cannon.json",
+  "author": "Quaternius",
+  "description": "Imported \"Cannon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cannon.glb",
+  "tags": [
+    "pirate"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_radio",
+  "title": "Radio",
+  "label": "Radio",
+  "file": "survival_collection_radio.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Radio.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_radio.glb"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "animals_donkey",
+  "title": "Donkey",
+  "label": "Donkey",
+  "file": "animals_donkey.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Donkey.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_donkey.glb"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "platformer_tree",
+  "title": "Tree",
+  "label": "Tree",
+  "file": "platformer_tree.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Tree.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_tree.glb"
+}

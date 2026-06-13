@@ -1,0 +1,12 @@
+{
+  "id": "animals_lizard",
+  "label": "Lizard",
+  "file": "Lizard.json",
+  "author": "molochdadev",
+  "description": "Imported \"Lizard.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lizard.glb",
+  "tags": [
+    "animals"
+  ]
+}

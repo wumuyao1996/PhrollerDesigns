@@ -1,0 +1,16 @@
+{
+  "id": "concert_modular_mic",
+  "title": "Mic",
+  "label": "Mic",
+  "file": "concert_modular_mic.json",
+  "author": "iPoly3D",
+  "description": "Loly-poly glb asset of Mic.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "concert",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/concert_modular_mic.glb"
+}

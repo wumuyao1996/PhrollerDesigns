@@ -1,0 +1,16 @@
+{
+  "id": "guns_modern_scope",
+  "title": "Scope",
+  "label": "Scope",
+  "file": "guns_modern_scope.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Scope.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "guns",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/guns_modern_scope.glb"
+}

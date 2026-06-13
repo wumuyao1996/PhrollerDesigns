@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_blue_demon",
+  "label": "Blue Demon",
+  "file": "Blue Demon.json",
+  "author": "Quaternius",
+  "description": "Imported \"Blue Demon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Blue Demon.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

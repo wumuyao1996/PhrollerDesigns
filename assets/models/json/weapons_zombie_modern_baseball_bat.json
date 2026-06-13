@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_baseball_bat",
+  "title": "Baseball Bat",
+  "label": "Baseball Bat",
+  "file": "weapons_zombie_modern_baseball_bat.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Baseball Bat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_baseball_bat.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_coyote",
+  "label": "Coyote",
+  "file": "Coyote.json",
+  "author": "molochdadev",
+  "description": "Imported \"Coyote.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coyote.glb",
+  "tags": [
+    "animals"
+  ]
+}

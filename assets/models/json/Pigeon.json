@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_pigeon",
+  "label": "Pigeon",
+  "file": "Pigeon.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pigeon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pigeon.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

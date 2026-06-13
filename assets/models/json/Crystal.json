@@ -1,0 +1,12 @@
+{
+  "id": "crystal_crystal",
+  "label": "Crystal",
+  "file": "Crystal.json",
+  "author": "iPoly3D",
+  "description": "Imported \"Crystal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crystal.glb",
+  "tags": [
+    "crystal"
+  ]
+}

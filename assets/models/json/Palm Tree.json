@@ -1,0 +1,12 @@
+{
+  "id": "pirate_palm_tree",
+  "label": "Palm Tree",
+  "file": "Palm Tree.json",
+  "author": "Quaternius",
+  "description": "Imported \"Palm Tree.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Palm Tree.glb",
+  "tags": [
+    "pirate"
+  ]
+}

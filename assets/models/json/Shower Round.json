@@ -1,0 +1,12 @@
+{
+  "id": "furniture_shower_round",
+  "label": "Shower Round",
+  "file": "Shower Round.json",
+  "author": "Kenney",
+  "description": "Imported \"Shower Round.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shower Round.glb",
+  "tags": [
+    "furniture"
+  ]
+}

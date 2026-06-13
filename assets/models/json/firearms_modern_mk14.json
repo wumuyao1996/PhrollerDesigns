@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_mk14",
+  "title": "MK14",
+  "label": "MK14",
+  "file": "firearms_modern_mk14.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of MK14.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_mk14.glb"
+}

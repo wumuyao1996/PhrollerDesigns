@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_banner",
+  "label": "Banner",
+  "file": "Banner.json",
+  "author": "Player11132",
+  "description": "Imported \"Banner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Banner.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

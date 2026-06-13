@@ -1,0 +1,12 @@
+{
+  "id": "food_grapes",
+  "label": "Grapes",
+  "file": "Grapes.json",
+  "author": "Kenney",
+  "description": "Imported \"Grapes.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Grapes.glb",
+  "tags": [
+    "food"
+  ]
+}

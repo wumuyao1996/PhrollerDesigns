@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_space_platform",
+  "label": "Space Platform",
+  "file": "Space Platform.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Space Platform.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Space Platform.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

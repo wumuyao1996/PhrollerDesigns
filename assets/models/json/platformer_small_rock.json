@@ -1,0 +1,15 @@
+{
+  "id": "platformer_small_rock",
+  "title": "Small Rock",
+  "label": "Small Rock",
+  "file": "platformer_small_rock.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Small Rock.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_small_rock.glb"
+}

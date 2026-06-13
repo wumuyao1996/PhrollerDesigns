@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_countertop",
+  "title": "Countertop",
+  "label": "Countertop",
+  "file": "collection_basic_countertop.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Countertop.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_countertop.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "platformer_modular_hazard_spike_trap",
+  "title": "Hazard Spike Trap",
+  "label": "Hazard Spike Trap",
+  "file": "platformer_modular_hazard_spike_trap.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Hazard Spike Trap.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_modular_hazard_spike_trap.glb"
+}

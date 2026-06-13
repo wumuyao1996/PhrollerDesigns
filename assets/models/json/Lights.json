@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_lights",
+  "label": "Lights",
+  "file": "Lights.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lights.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lights.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

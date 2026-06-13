@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_cloche",
+  "title": "Cloche",
+  "label": "Cloche",
+  "file": "cooking_assets_cloche.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Cloche.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_cloche.glb"
+}

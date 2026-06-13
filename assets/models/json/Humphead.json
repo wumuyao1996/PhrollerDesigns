@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_humphead",
+  "label": "Humphead",
+  "file": "Humphead.json",
+  "author": "Quaternius",
+  "description": "Imported \"Humphead.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Humphead.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

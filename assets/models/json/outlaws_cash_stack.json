@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_cash_stack",
+  "title": "Cash Stack",
+  "label": "Cash Stack",
+  "file": "outlaws_cash_stack.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Cash Stack.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_cash_stack.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_archery_building",
+  "title": "Archery Building",
+  "label": "Archery Building",
+  "file": "fantasy_rts_archery_building.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Archery Building.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_archery_building.glb"
+}

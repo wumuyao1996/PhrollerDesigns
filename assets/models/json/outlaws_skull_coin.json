@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_skull_coin",
+  "title": "Skull Coin",
+  "label": "Skull Coin",
+  "file": "outlaws_skull_coin.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Skull Coin.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_skull_coin.glb"
+}

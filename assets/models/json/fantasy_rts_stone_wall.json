@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_stone_wall",
+  "title": "Stone Wall",
+  "label": "Stone Wall",
+  "file": "fantasy_rts_stone_wall.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Stone Wall.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_stone_wall.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_bunny",
+  "label": "Bunny",
+  "file": "Bunny.json",
+  "author": "Quaternius",
+  "description": "Imported \"Bunny.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bunny.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

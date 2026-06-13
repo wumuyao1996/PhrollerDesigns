@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_dog",
+  "title": "Dog",
+  "label": "Dog",
+  "file": "cube_voxel_dog.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Dog.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_dog.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_apple",
+  "label": "Apple",
+  "file": "Apple.json",
+  "author": "Kenney",
+  "description": "Imported \"Apple.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Apple.glb",
+  "tags": [
+    "food"
+  ]
+}

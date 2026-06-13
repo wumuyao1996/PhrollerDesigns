@@ -1,0 +1,12 @@
+{
+  "id": "shooter_sniper",
+  "label": "Sniper",
+  "file": "Sniper.json",
+  "author": "Quaternius",
+  "description": "Imported \"Sniper.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sniper.glb",
+  "tags": [
+    "shooter"
+  ]
+}

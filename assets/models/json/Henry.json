@@ -1,0 +1,12 @@
+{
+  "id": "pirate_henry",
+  "label": "Henry",
+  "file": "Henry.json",
+  "author": "Quaternius",
+  "description": "Imported \"Henry.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Henry.glb",
+  "tags": [
+    "pirate"
+  ]
+}

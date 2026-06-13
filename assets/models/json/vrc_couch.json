@@ -1,0 +1,15 @@
+{
+  "id": "vrc_couch",
+  "title": "Couch",
+  "label": "Couch",
+  "file": "vrc_couch.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Couch.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_couch.glb"
+}

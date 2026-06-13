@@ -1,0 +1,13 @@
+{
+  "id": "household_props_wall_corkboard",
+  "label": "Wall Corkboard",
+  "file": "Wall Corkboard.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Wall Corkboard.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Corkboard.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

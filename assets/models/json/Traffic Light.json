@@ -1,0 +1,12 @@
+{
+  "id": "city_traffic_light",
+  "label": "Traffic Light",
+  "file": "Traffic Light.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Traffic Light.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Traffic Light.glb",
+  "tags": [
+    "city"
+  ]
+}

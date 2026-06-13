@@ -1,0 +1,12 @@
+{
+  "id": "city_police_car",
+  "label": "Police Car",
+  "file": "Police Car.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Police Car.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Police Car.glb",
+  "tags": [
+    "city"
+  ]
+}

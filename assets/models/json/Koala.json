@@ -1,0 +1,12 @@
+{
+  "id": "animals_koala",
+  "label": "Koala",
+  "file": "Koala.json",
+  "author": "molochdadev",
+  "description": "Imported \"Koala.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Koala.glb",
+  "tags": [
+    "animals"
+  ]
+}

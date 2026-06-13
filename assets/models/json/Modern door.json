@@ -1,0 +1,12 @@
+{
+  "id": "building_modern_door",
+  "label": "Modern Door",
+  "file": "Modern door.json",
+  "author": "Kenney",
+  "description": "Imported \"Modern door.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Modern door.glb",
+  "tags": [
+    "building"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_squidle",
+  "label": "Squidle",
+  "file": "Squidle.json",
+  "author": "Quaternius",
+  "description": "Imported \"Squidle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Squidle.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

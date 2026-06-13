@@ -1,0 +1,12 @@
+{
+  "id": "shooter_short_cannon",
+  "label": "Short Cannon",
+  "file": "Short Cannon.json",
+  "author": "Quaternius",
+  "description": "Imported \"Short Cannon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Short Cannon.glb",
+  "tags": [
+    "shooter"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_sticky_notes",
+  "title": "Sticky Notes",
+  "label": "Sticky Notes",
+  "file": "office_modular_sticky_notes.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Sticky Notes.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_sticky_notes.glb"
+}

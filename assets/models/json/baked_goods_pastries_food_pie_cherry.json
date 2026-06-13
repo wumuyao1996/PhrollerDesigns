@@ -1,0 +1,17 @@
+{
+  "id": "baked_goods_pastries_food_pie_cherry",
+  "title": "Pie Cherry",
+  "label": "Pie Cherry",
+  "file": "baked_goods_pastries_food_pie_cherry.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Pie Cherry.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "baked goods",
+    "pastries",
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/baked_goods_pastries_food_pie_cherry.glb"
+}

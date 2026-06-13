@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_cutting_board",
+  "label": "Cutting Board",
+  "file": "Cutting Board.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cutting Board.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cutting Board.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

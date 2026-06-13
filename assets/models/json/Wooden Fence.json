@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_wooden_fence",
+  "label": "Wooden Fence",
+  "file": "Wooden Fence.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Wooden Fence.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wooden Fence.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

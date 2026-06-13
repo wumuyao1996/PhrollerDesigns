@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_raw_ham",
+  "label": "Raw Ham",
+  "file": "Raw ham.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Raw ham.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Raw ham.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

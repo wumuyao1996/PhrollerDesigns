@@ -1,0 +1,12 @@
+{
+  "id": "shooter_revolver_small",
+  "label": "Revolver Small",
+  "file": "Revolver Small.json",
+  "author": "Quaternius",
+  "description": "Imported \"Revolver Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Revolver Small.glb",
+  "tags": [
+    "shooter"
+  ]
+}

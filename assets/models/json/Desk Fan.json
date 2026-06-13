@@ -1,0 +1,13 @@
+{
+  "id": "household_props_desk_fan",
+  "label": "Desk Fan",
+  "file": "Desk Fan.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Desk Fan.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Desk Fan.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

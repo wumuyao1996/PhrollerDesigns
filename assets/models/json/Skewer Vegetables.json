@@ -1,0 +1,12 @@
+{
+  "id": "food_skewer_vegetables",
+  "label": "Skewer Vegetables",
+  "file": "Skewer Vegetables.json",
+  "author": "Kenney",
+  "description": "Imported \"Skewer Vegetables.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Skewer Vegetables.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "random_fantasy_props_armor",
+  "label": "Armor",
+  "file": "Armor.json",
+  "author": "CreativeTechLab",
+  "description": "Imported \"Armor.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Armor.glb",
+  "tags": [
+    "random",
+    "fantasy",
+    "props"
+  ]
+}

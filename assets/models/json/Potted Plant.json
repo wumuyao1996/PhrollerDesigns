@@ -1,0 +1,13 @@
+{
+  "id": "household_props_potted_plant",
+  "label": "Potted Plant",
+  "file": "Potted Plant.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Potted Plant.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Potted Plant.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

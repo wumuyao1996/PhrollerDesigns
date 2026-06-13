@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_stove_hood",
+  "label": "Kitchen Stove Hood",
+  "file": "Kitchen Stove Hood.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Stove Hood.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Stove Hood.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tree_multiple_pine_tree",
+  "title": "Pine Tree",
+  "label": "Pine Tree",
+  "file": "tree_multiple_pine_tree.json",
+  "author": "NicolasBrueckner",
+  "description": "Loly-poly glb asset of Pine Tree.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "tree",
+    "multiple"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/tree_multiple_pine_tree.glb"
+}

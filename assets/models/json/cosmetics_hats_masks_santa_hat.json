@@ -1,0 +1,17 @@
+{
+  "id": "cosmetics_hats_masks_santa_hat",
+  "title": "Santa Hat",
+  "label": "Santa Hat",
+  "file": "cosmetics_hats_masks_santa_hat.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Santa Hat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cosmetics",
+    "hats",
+    "masks"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cosmetics_hats_masks_santa_hat.glb"
+}

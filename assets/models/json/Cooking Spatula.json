@@ -1,0 +1,12 @@
+{
+  "id": "food_cooking_spatula",
+  "label": "Cooking Spatula",
+  "file": "Cooking Spatula.json",
+  "author": "Kenney",
+  "description": "Imported \"Cooking Spatula.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cooking Spatula.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_stapler",
+  "title": "Stapler",
+  "label": "Stapler",
+  "file": "office_modular_stapler.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Stapler.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_stapler.glb"
+}

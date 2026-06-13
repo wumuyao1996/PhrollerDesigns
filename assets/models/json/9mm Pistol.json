@@ -1,0 +1,14 @@
+{
+  "id": "random_collection_modern_9mm_pistol",
+  "label": "9mm Pistol",
+  "file": "9mm Pistol.json",
+  "author": "dook",
+  "description": "Imported \"9mm Pistol.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/9mm Pistol.glb",
+  "tags": [
+    "random",
+    "collection",
+    "modern"
+  ]
+}

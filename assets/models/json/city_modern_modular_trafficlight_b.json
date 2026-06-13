@@ -1,0 +1,17 @@
+{
+  "id": "city_modern_modular_trafficlight_b",
+  "title": "Trafficlight B",
+  "label": "Trafficlight B",
+  "file": "city_modern_modular_trafficlight_b.json",
+  "author": "Kay Lousberg",
+  "description": "Loly-poly glb asset of Trafficlight B.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "modern",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_modern_modular_trafficlight_b.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_lionfish",
+  "label": "Lionfish",
+  "file": "Lionfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Lionfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lionfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

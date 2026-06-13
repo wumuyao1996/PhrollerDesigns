@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_fern",
+  "label": "Fern",
+  "file": "Fern.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fern.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fern.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_nissan_gtr",
+  "label": "Nissan GTR",
+  "file": "Nissan GTR.json",
+  "author": "Player11132",
+  "description": "Imported \"Nissan GTR.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Nissan GTR.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

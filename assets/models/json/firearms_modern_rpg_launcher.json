@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_rpg_launcher",
+  "title": "RPG Launcher",
+  "label": "RPG Launcher",
+  "file": "firearms_modern_rpg_launcher.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of RPG Launcher.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_rpg_launcher.glb"
+}

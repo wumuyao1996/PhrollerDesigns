@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_red_snapper",
+  "label": "Red Snapper",
+  "file": "Red Snapper.json",
+  "author": "Quaternius",
+  "description": "Imported \"Red Snapper.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Red Snapper.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

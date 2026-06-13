@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_orc",
+  "label": "Orc",
+  "file": "Orc.json",
+  "author": "Quaternius",
+  "description": "Imported \"Orc.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Orc.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

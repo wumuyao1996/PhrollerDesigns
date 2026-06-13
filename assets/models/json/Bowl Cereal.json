@@ -1,0 +1,12 @@
+{
+  "id": "food_bowl_cereal",
+  "label": "Bowl Cereal",
+  "file": "Bowl Cereal.json",
+  "author": "Kenney",
+  "description": "Imported \"Bowl Cereal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bowl Cereal.glb",
+  "tags": [
+    "food"
+  ]
+}

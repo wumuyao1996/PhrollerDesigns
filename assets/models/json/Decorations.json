@@ -1,0 +1,12 @@
+{
+  "id": "christmas_decorations",
+  "label": "Decorations",
+  "file": "Decorations.json",
+  "author": "MiniPoly",
+  "description": "Imported \"Decorations.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Decorations.glb",
+  "tags": [
+    "christmas"
+  ]
+}

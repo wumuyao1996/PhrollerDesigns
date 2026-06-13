@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_cupcake",
+  "label": "Cupcake",
+  "file": "Cupcake.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Cupcake.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cupcake.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

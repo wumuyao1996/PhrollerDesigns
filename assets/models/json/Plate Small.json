@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_plate_small",
+  "label": "Plate Small",
+  "file": "Plate Small.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Plate Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Plate Small.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

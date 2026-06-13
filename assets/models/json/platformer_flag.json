@@ -1,0 +1,15 @@
+{
+  "id": "platformer_flag",
+  "title": "Flag",
+  "label": "Flag",
+  "file": "platformer_flag.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Flag.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_flag.glb"
+}

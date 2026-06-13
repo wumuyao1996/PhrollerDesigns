@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_wooden_encampment",
+  "title": "Wooden Encampment",
+  "label": "Wooden Encampment",
+  "file": "fantasy_rts_wooden_encampment.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Wooden Encampment.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_wooden_encampment.glb"
+}

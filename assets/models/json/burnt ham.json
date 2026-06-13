@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_burnt_ham",
+  "label": "Burnt Ham",
+  "file": "burnt ham.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"burnt ham.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/burnt ham.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

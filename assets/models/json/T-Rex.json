@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_t_rex",
+  "label": "T Rex",
+  "file": "T-Rex.json",
+  "author": "dotRianne",
+  "description": "Imported \"T-Rex.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/T-Rex.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

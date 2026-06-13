@@ -1,0 +1,15 @@
+{
+  "id": "dinosaur_velociraptor",
+  "title": "Velociraptor",
+  "label": "Velociraptor",
+  "file": "dinosaur_velociraptor.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Velociraptor.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "dinosaur"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/dinosaur_velociraptor.glb"
+}

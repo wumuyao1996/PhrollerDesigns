@@ -1,0 +1,12 @@
+{
+  "id": "shooter_container_small",
+  "label": "Container Small",
+  "file": "Container Small.json",
+  "author": "Quaternius",
+  "description": "Imported \"Container Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Container Small.glb",
+  "tags": [
+    "shooter"
+  ]
+}

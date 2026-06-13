@@ -1,0 +1,13 @@
+{
+  "id": "household_props_screwdriver",
+  "label": "Screwdriver",
+  "file": "Screwdriver.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Screwdriver.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Screwdriver.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

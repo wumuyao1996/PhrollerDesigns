@@ -1,0 +1,12 @@
+{
+  "id": "food_utensil_spoon",
+  "label": "Utensil Spoon",
+  "file": "Utensil Spoon.json",
+  "author": "Kenney",
+  "description": "Imported \"Utensil Spoon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Utensil Spoon.glb",
+  "tags": [
+    "food"
+  ]
+}

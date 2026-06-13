@@ -1,0 +1,13 @@
+{
+  "id": "women_modular_punk",
+  "label": "Punk",
+  "file": "Punk.json",
+  "author": "Quaternius",
+  "description": "Imported \"Punk.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Punk.glb",
+  "tags": [
+    "women",
+    "modular"
+  ]
+}

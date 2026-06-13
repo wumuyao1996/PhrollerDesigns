@@ -1,0 +1,12 @@
+{
+  "id": "shooter_pallet_broken",
+  "label": "Pallet Broken",
+  "file": "Pallet Broken.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pallet Broken.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pallet Broken.glb",
+  "tags": [
+    "shooter"
+  ]
+}

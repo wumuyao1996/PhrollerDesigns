@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_hunters_knife",
+  "title": "Hunters Knife",
+  "label": "Hunters Knife",
+  "file": "weapons_zombie_modern_hunters_knife.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Hunters Knife.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_hunters_knife.glb"
+}

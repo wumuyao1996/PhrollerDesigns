@@ -1,0 +1,12 @@
+{
+  "id": "food_steamer",
+  "label": "Steamer",
+  "file": "Steamer.json",
+  "author": "Kenney",
+  "description": "Imported \"Steamer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Steamer.glb",
+  "tags": [
+    "food"
+  ]
+}

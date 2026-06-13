@@ -1,0 +1,12 @@
+{
+  "id": "animals_ant",
+  "label": "Ant",
+  "file": "Ant.json",
+  "author": "molochdadev",
+  "description": "Imported \"Ant.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ant.glb",
+  "tags": [
+    "animals"
+  ]
+}

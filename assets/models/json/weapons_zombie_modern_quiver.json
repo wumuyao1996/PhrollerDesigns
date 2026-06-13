@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_quiver",
+  "title": "Quiver",
+  "label": "Quiver",
+  "file": "weapons_zombie_modern_quiver.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Quiver.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_quiver.glb"
+}

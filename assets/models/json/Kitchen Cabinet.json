@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_cabinet",
+  "label": "Kitchen Cabinet",
+  "file": "Kitchen Cabinet.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Cabinet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Cabinet.glb",
+  "tags": [
+    "furniture"
+  ]
+}

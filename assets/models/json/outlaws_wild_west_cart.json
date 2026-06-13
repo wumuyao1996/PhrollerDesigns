@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_wild_west_cart",
+  "title": "Wild West Cart",
+  "label": "Wild West Cart",
+  "file": "outlaws_wild_west_cart.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Wild West Cart.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_wild_west_cart.glb"
+}

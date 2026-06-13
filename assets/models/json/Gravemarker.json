@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_gravemarker",
+  "label": "Gravemarker",
+  "file": "Gravemarker.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Gravemarker.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gravemarker.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

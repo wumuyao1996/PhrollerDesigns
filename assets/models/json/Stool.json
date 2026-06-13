@@ -1,0 +1,13 @@
+{
+  "id": "household_props_stool",
+  "label": "Stool",
+  "file": "Stool.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Stool.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stool.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

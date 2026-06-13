@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_pickup_tank",
+  "label": "Pickup Tank",
+  "file": "Pickup Tank.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pickup Tank.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pickup Tank.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

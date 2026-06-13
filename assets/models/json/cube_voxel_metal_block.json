@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_metal_block",
+  "title": "Metal Block",
+  "label": "Metal Block",
+  "file": "cube_voxel_metal_block.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Metal Block.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_metal_block.glb"
+}

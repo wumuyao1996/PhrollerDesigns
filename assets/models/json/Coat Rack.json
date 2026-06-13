@@ -1,0 +1,13 @@
+{
+  "id": "household_props_coat_rack",
+  "label": "Coat Rack",
+  "file": "Coat Rack.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Coat Rack.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coat Rack.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

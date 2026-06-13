@@ -1,0 +1,17 @@
+{
+  "id": "outdoor_decor_props_fan",
+  "title": "Fan",
+  "label": "Fan",
+  "file": "outdoor_decor_props_fan.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Fan.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outdoor",
+    "decor",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outdoor_decor_props_fan.glb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_crown",
+  "label": "Crown",
+  "file": "Crown.json",
+  "author": "Quaternius",
+  "description": "Imported \"Crown.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crown.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

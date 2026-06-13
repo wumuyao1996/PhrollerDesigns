@@ -1,0 +1,13 @@
+{
+  "id": "military_vehicles_military_boat",
+  "label": "Military Boat",
+  "file": "Military Boat.json",
+  "author": "Zsky",
+  "description": "Imported \"Military Boat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Military Boat.glb",
+  "tags": [
+    "military",
+    "vehicles"
+  ]
+}

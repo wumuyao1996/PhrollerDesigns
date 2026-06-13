@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_planks",
+  "label": "Planks",
+  "file": "Planks.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Planks.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Planks.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

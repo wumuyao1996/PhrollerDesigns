@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_mirror",
+  "label": "Mirror",
+  "file": "Mirror.json",
+  "author": "Zsky",
+  "description": "Imported \"Mirror.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mirror.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

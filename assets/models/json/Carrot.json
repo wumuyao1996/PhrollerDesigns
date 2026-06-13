@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_carrot",
+  "label": "Carrot",
+  "file": "Carrot.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Carrot.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Carrot.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

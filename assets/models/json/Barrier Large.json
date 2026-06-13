@@ -1,0 +1,12 @@
+{
+  "id": "shooter_barrier_large",
+  "label": "Barrier Large",
+  "file": "Barrier Large.json",
+  "author": "Quaternius",
+  "description": "Imported \"Barrier Large.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barrier Large.glb",
+  "tags": [
+    "shooter"
+  ]
+}

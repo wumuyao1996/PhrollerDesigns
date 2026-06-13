@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_torch",
+  "title": "Torch",
+  "label": "Torch",
+  "file": "modular_dungeon_pack_torch.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Torch.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_torch.glb"
+}

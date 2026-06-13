@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_pickaxe_wood",
+  "title": "Pickaxe Wood",
+  "label": "Pickaxe Wood",
+  "file": "cube_voxel_pickaxe_wood.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Pickaxe Wood.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_pickaxe_wood.glb"
+}

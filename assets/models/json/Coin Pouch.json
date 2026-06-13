@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_coin_pouch",
+  "label": "Coin Pouch",
+  "file": "Coin Pouch.json",
+  "author": "Quaternius",
+  "description": "Imported \"Coin Pouch.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coin Pouch.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

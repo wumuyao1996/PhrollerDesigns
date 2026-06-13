@@ -1,0 +1,15 @@
+{
+  "id": "food_avocado",
+  "title": "Avocado",
+  "label": "Avocado",
+  "file": "food_avocado.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Avocado.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_avocado.glb"
+}

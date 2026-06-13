@@ -1,0 +1,12 @@
+{
+  "id": "pirate_fish_mackerel",
+  "label": "Fish Mackerel",
+  "file": "Fish Mackerel.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fish Mackerel.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fish Mackerel.glb",
+  "tags": [
+    "pirate"
+  ]
+}

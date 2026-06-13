@@ -1,0 +1,13 @@
+{
+  "id": "household_props_trophy",
+  "label": "Trophy",
+  "file": "Trophy.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Trophy.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trophy.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

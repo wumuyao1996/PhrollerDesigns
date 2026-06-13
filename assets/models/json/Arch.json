@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_arch",
+  "label": "Arch",
+  "file": "Arch.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Arch.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Arch.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "concert_modular_stage",
+  "title": "Stage",
+  "label": "Stage",
+  "file": "concert_modular_stage.json",
+  "author": "iPoly3D",
+  "description": "Loly-poly glb asset of Stage.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "concert",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/concert_modular_stage.glb"
+}

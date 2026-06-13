@@ -1,0 +1,13 @@
+{
+  "id": "household_props_watering_can",
+  "label": "Watering Can",
+  "file": "Watering Can.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Watering Can.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Watering Can.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

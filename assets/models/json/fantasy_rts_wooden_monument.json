@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_wooden_monument",
+  "title": "Wooden Monument",
+  "label": "Wooden Monument",
+  "file": "fantasy_rts_wooden_monument.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Wooden Monument.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_wooden_monument.glb"
+}

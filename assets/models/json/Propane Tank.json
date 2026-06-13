@@ -1,0 +1,13 @@
+{
+  "id": "household_props_propane_tank",
+  "label": "Propane Tank",
+  "file": "Propane Tank.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Propane Tank.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Propane Tank.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

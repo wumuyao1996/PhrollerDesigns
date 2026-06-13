@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_velociraptor",
+  "label": "Velociraptor",
+  "file": "Velociraptor.json",
+  "author": "dotRianne",
+  "description": "Imported \"Velociraptor.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Velociraptor.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

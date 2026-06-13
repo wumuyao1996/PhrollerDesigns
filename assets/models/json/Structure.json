@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_structure",
+  "label": "Structure",
+  "file": "Structure.json",
+  "author": "Kenney",
+  "description": "Imported \"Structure.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Structure.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

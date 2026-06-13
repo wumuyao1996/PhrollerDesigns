@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_fence",
+  "title": "Fence",
+  "label": "Fence",
+  "file": "outlaws_fence.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Fence.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_fence.glb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_slime_enemy",
+  "label": "Slime Enemy",
+  "file": "Slime Enemy.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Slime Enemy.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Slime Enemy.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

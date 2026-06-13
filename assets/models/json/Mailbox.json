@@ -1,0 +1,12 @@
+{
+  "id": "city_mailbox",
+  "label": "Mailbox",
+  "file": "Mailbox.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Mailbox.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mailbox.glb",
+  "tags": [
+    "city"
+  ]
+}

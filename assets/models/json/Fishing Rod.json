@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_fishing_rod",
+  "label": "Fishing Rod",
+  "file": "Fishing Rod.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fishing Rod.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fishing Rod.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

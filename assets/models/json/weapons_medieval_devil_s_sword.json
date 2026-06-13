@@ -1,0 +1,16 @@
+{
+  "id": "weapons_medieval_devil_s_sword",
+  "title": "Devil's Sword",
+  "label": "Devil's Sword",
+  "file": "weapons_medieval_devil_s_sword.json",
+  "author": "MiniPoly",
+  "description": "Loly-poly glb asset of Devil's Sword.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "medieval"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_medieval_devil_s_sword.glb"
+}

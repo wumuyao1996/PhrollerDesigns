@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_small_watch_tower",
+  "title": "Small Watch Tower",
+  "label": "Small Watch Tower",
+  "file": "fantasy_rts_small_watch_tower.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Small Watch Tower.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_small_watch_tower.glb"
+}

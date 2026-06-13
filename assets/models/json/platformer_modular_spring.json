@@ -1,0 +1,16 @@
+{
+  "id": "platformer_modular_spring",
+  "title": "Spring",
+  "label": "Spring",
+  "file": "platformer_modular_spring.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Spring.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_modular_spring.glb"
+}

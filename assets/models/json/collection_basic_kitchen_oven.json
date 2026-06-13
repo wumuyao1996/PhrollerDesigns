@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_kitchen_oven",
+  "title": "Kitchen Oven",
+  "label": "Kitchen Oven",
+  "file": "collection_basic_kitchen_oven.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Kitchen Oven.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_kitchen_oven.glb"
+}

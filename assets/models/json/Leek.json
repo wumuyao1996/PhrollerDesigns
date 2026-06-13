@@ -1,0 +1,12 @@
+{
+  "id": "food_leek",
+  "label": "Leek",
+  "file": "Leek.json",
+  "author": "Kenney",
+  "description": "Imported \"Leek.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Leek.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_pizza_cutter",
+  "label": "Pizza Cutter",
+  "file": "Pizza Cutter.json",
+  "author": "Kenney",
+  "description": "Imported \"Pizza Cutter.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pizza Cutter.glb",
+  "tags": [
+    "food"
+  ]
+}

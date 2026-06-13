@@ -1,0 +1,13 @@
+{
+  "id": "women_modular_medieval",
+  "label": "Medieval",
+  "file": "Medieval.json",
+  "author": "Quaternius",
+  "description": "Imported \"Medieval.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Medieval.glb",
+  "tags": [
+    "women",
+    "modular"
+  ]
+}

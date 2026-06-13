@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_sr1mp",
+  "title": "SR1MP",
+  "label": "SR1MP",
+  "file": "firearms_modern_sr1mp.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of SR1MP.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_sr1mp.glb"
+}

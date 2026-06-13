@@ -1,0 +1,12 @@
+{
+  "id": "food_beet",
+  "label": "Beet",
+  "file": "Beet.json",
+  "author": "Kenney",
+  "description": "Imported \"Beet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Beet.glb",
+  "tags": [
+    "food"
+  ]
+}

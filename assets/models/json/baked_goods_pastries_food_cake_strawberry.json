@@ -1,0 +1,17 @@
+{
+  "id": "baked_goods_pastries_food_cake_strawberry",
+  "title": "Cake Strawberry",
+  "label": "Cake Strawberry",
+  "file": "baked_goods_pastries_food_cake_strawberry.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Cake Strawberry.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "baked goods",
+    "pastries",
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/baked_goods_pastries_food_cake_strawberry.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "household_props_books",
+  "label": "Books",
+  "file": "Books.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Books.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Books.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

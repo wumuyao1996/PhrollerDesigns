@@ -1,0 +1,16 @@
+{
+  "id": "platformer_modular_cloud",
+  "title": "Cloud",
+  "label": "Cloud",
+  "file": "platformer_modular_cloud.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Cloud.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_modular_cloud.glb"
+}

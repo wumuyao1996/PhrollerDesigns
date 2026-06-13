@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_track_kit",
+  "label": "Track Kit",
+  "file": "Track Kit.json",
+  "author": "Player11132",
+  "description": "Imported \"Track Kit.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Track Kit.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

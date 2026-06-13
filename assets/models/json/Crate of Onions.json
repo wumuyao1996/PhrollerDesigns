@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_crate_of_onions",
+  "label": "Crate Of Onions",
+  "file": "Crate of Onions.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Crate of Onions.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crate of Onions.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

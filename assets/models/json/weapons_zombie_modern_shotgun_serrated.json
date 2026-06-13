@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_shotgun_serrated",
+  "title": "Shotgun Serrated",
+  "label": "Shotgun Serrated",
+  "file": "weapons_zombie_modern_shotgun_serrated.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Shotgun Serrated.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_shotgun_serrated.glb"
+}

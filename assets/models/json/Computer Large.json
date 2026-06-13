@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_computer_large",
+  "label": "Computer Large",
+  "file": "Computer Large.json",
+  "author": "Quaternius",
+  "description": "Imported \"Computer Large.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Computer Large.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

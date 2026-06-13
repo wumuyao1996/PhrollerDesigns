@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_p226",
+  "title": "P226",
+  "label": "P226",
+  "file": "firearms_modern_p226.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of P226.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_p226.glb"
+}

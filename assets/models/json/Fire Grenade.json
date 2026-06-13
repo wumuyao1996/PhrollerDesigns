@@ -1,0 +1,12 @@
+{
+  "id": "shooter_fire_grenade",
+  "label": "Fire Grenade",
+  "file": "Fire Grenade.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fire Grenade.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fire Grenade.glb",
+  "tags": [
+    "shooter"
+  ]
+}

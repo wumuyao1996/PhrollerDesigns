@@ -1,0 +1,13 @@
+{
+  "id": "household_props_dresser",
+  "label": "Dresser",
+  "file": "Dresser.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Dresser.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dresser.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

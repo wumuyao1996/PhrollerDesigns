@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_claymore",
+  "label": "Claymore",
+  "file": "Claymore.json",
+  "author": "Quaternius",
+  "description": "Imported \"Claymore.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Claymore.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

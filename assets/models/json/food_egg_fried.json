@@ -1,0 +1,15 @@
+{
+  "id": "food_egg_fried",
+  "title": "Egg Fried",
+  "label": "Egg Fried",
+  "file": "food_egg_fried.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Egg Fried.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_egg_fried.glb"
+}

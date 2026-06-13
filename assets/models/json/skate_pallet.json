@@ -1,0 +1,15 @@
+{
+  "id": "skate_pallet",
+  "title": "Pallet",
+  "label": "Pallet",
+  "file": "skate_pallet.json",
+  "author": "Kenney",
+  "description": "Loly-poly glb asset of Pallet.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "skate"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/skate_pallet.glb"
+}

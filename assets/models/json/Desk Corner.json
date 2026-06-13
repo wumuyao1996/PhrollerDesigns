@@ -1,0 +1,12 @@
+{
+  "id": "furniture_desk_corner",
+  "label": "Desk Corner",
+  "file": "Desk Corner.json",
+  "author": "Kenney",
+  "description": "Imported \"Desk Corner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Desk Corner.glb",
+  "tags": [
+    "furniture"
+  ]
+}

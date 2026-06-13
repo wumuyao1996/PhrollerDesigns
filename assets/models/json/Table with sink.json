@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_table_with_sink",
+  "label": "Table With Sink",
+  "file": "Table with sink.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Table with sink.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Table with sink.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

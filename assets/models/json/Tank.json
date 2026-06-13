@@ -1,0 +1,14 @@
+{
+  "id": "tank_warfare_modern_tank",
+  "label": "Tank",
+  "file": "Tank.json",
+  "author": "Quaternius",
+  "description": "Imported \"Tank.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tank.glb",
+  "tags": [
+    "tank",
+    "warfare",
+    "modern"
+  ]
+}

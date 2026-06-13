@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_kitchen_scale",
+  "label": "Kitchen Scale",
+  "file": "Kitchen Scale.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Kitchen Scale.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Scale.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "animals_cute_fox",
+  "title": "Fox",
+  "label": "Fox",
+  "file": "animals_cute_fox.json",
+  "author": "madtrollstudio",
+  "description": "Loly-poly glb asset of Fox.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals",
+    "cute"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_cute_fox.glb"
+}

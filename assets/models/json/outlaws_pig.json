@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_pig",
+  "title": "Pig",
+  "label": "Pig",
+  "file": "outlaws_pig.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Pig.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_pig.glb"
+}

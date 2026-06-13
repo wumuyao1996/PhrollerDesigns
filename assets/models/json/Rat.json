@@ -1,0 +1,12 @@
+{
+  "id": "enemies_rat",
+  "label": "Rat",
+  "file": "Rat.json",
+  "author": "Quaternius",
+  "description": "Imported \"Rat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rat.glb",
+  "tags": [
+    "enemies"
+  ]
+}

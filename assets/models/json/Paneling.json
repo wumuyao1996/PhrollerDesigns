@@ -1,0 +1,12 @@
+{
+  "id": "furniture_paneling",
+  "label": "Paneling",
+  "file": "Paneling.json",
+  "author": "Kenney",
+  "description": "Imported \"Paneling.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Paneling.glb",
+  "tags": [
+    "furniture"
+  ]
+}

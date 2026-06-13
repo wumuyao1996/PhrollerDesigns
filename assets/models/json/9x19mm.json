@@ -1,0 +1,13 @@
+{
+  "id": "fps_shooter_9x19mm",
+  "label": "9x19mm",
+  "file": "9x19mm.json",
+  "author": "J-Toastie",
+  "description": "Imported \"9x19mm.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/9x19mm.glb",
+  "tags": [
+    "fps",
+    "shooter"
+  ]
+}

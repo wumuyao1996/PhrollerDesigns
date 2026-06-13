@@ -1,0 +1,16 @@
+{
+  "id": "modular_platforming_flag",
+  "title": "Flag",
+  "label": "Flag",
+  "file": "modular_platforming_flag.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Flag.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "platforming"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_platforming_flag.glb"
+}

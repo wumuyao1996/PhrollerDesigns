@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_tool_hoe",
+  "label": "Tool Hoe",
+  "file": "Tool Hoe.json",
+  "author": "Kenney",
+  "description": "Imported \"Tool Hoe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tool Hoe.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

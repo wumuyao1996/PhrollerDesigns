@@ -1,0 +1,13 @@
+{
+  "id": "fps_shooter_fps_rig",
+  "label": "Fps Rig",
+  "file": "Fps Rig.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Fps Rig.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fps Rig.glb",
+  "tags": [
+    "fps",
+    "shooter"
+  ]
+}

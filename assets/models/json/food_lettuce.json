@@ -1,0 +1,15 @@
+{
+  "id": "food_lettuce",
+  "title": "Lettuce",
+  "label": "Lettuce",
+  "file": "food_lettuce.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Lettuce.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_lettuce.glb"
+}

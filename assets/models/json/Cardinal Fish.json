@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_cardinal_fish",
+  "label": "Cardinal Fish",
+  "file": "Cardinal Fish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Cardinal Fish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cardinal Fish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

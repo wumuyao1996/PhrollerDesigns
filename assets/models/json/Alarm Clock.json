@@ -1,0 +1,13 @@
+{
+  "id": "household_props_alarm_clock",
+  "label": "Alarm Clock",
+  "file": "Alarm Clock.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Alarm Clock.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Alarm Clock.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

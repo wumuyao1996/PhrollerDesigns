@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_triceratops",
+  "label": "Triceratops",
+  "file": "Triceratops.json",
+  "author": "dotRianne",
+  "description": "Imported \"Triceratops.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Triceratops.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

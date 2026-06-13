@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_top_hat",
+  "label": "Top Hat",
+  "file": "Top hat.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Top hat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Top hat.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

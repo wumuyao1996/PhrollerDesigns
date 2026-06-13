@@ -1,0 +1,12 @@
+{
+  "id": "pirate_sawmill",
+  "label": "Sawmill",
+  "file": "Sawmill.json",
+  "author": "Quaternius",
+  "description": "Imported \"Sawmill.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sawmill.glb",
+  "tags": [
+    "pirate"
+  ]
+}

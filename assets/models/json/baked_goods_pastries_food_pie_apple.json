@@ -1,0 +1,17 @@
+{
+  "id": "baked_goods_pastries_food_pie_apple",
+  "title": "Pie Apple",
+  "label": "Pie Apple",
+  "file": "baked_goods_pastries_food_pie_apple.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Pie Apple.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "baked goods",
+    "pastries",
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/baked_goods_pastries_food_pie_apple.glb"
+}

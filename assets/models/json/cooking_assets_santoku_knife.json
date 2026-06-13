@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_santoku_knife",
+  "title": "Santoku Knife",
+  "label": "Santoku Knife",
+  "file": "cooking_assets_santoku_knife.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Santoku Knife.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_santoku_knife.glb"
+}

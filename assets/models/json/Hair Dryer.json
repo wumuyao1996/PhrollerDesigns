@@ -1,0 +1,13 @@
+{
+  "id": "household_props_hair_dryer",
+  "label": "Hair Dryer",
+  "file": "Hair Dryer.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Hair Dryer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Hair Dryer.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

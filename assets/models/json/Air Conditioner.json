@@ -1,0 +1,12 @@
+{
+  "id": "city_air_conditioner",
+  "label": "Air Conditioner",
+  "file": "Air conditioner.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Air conditioner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Air conditioner.glb",
+  "tags": [
+    "city"
+  ]
+}

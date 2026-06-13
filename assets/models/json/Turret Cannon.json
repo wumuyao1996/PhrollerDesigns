@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_turret_cannon",
+  "label": "Turret Cannon",
+  "file": "Turret Cannon.json",
+  "author": "Quaternius",
+  "description": "Imported \"Turret Cannon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Turret Cannon.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

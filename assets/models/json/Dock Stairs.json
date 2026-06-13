@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_dock_stairs",
+  "label": "Dock Stairs",
+  "file": "Dock Stairs.json",
+  "author": "Quaternius",
+  "description": "Imported \"Dock Stairs.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dock Stairs.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

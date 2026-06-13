@@ -1,0 +1,12 @@
+{
+  "id": "food_pepper_mill",
+  "label": "Pepper Mill",
+  "file": "Pepper Mill.json",
+  "author": "Kenney",
+  "description": "Imported \"Pepper Mill.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pepper Mill.glb",
+  "tags": [
+    "food"
+  ]
+}

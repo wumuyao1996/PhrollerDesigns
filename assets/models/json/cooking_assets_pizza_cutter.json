@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_pizza_cutter",
+  "title": "Pizza Cutter",
+  "label": "Pizza Cutter",
+  "file": "cooking_assets_pizza_cutter.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Pizza Cutter.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_pizza_cutter.glb"
+}

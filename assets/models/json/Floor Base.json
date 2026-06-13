@@ -1,0 +1,13 @@
+{
+  "id": "homely_house_floor_base",
+  "label": "Floor Base",
+  "file": "Floor Base.json",
+  "author": "Isa Lousberg",
+  "description": "Imported \"Floor Base.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor Base.glb",
+  "tags": [
+    "homely",
+    "house"
+  ]
+}

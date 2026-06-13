@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_stop_sign_shield",
+  "title": "Stop Sign Shield",
+  "label": "Stop Sign Shield",
+  "file": "weapons_zombie_modern_stop_sign_shield.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Stop Sign Shield.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_stop_sign_shield.glb"
+}

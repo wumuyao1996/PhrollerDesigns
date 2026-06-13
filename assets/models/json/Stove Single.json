@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_stove_single",
+  "label": "Stove Single",
+  "file": "Stove Single.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Stove Single.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stove Single.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

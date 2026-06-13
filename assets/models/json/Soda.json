@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_soda",
+  "label": "Soda",
+  "file": "Soda.json",
+  "author": "Player11132",
+  "description": "Imported \"Soda.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Soda.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

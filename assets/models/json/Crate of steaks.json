@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_crate_of_steaks",
+  "label": "Crate Of Steaks",
+  "file": "Crate of steaks.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Crate of steaks.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crate of steaks.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_ostrich",
+  "label": "Ostrich",
+  "file": "Ostrich.json",
+  "author": "molochdadev",
+  "description": "Imported \"Ostrich.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ostrich.glb",
+  "tags": [
+    "animals"
+  ]
+}

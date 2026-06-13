@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_desert_pebble",
+  "label": "Desert Pebble",
+  "file": "Desert pebble.json",
+  "author": "Player11132",
+  "description": "Imported \"Desert pebble.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Desert pebble.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

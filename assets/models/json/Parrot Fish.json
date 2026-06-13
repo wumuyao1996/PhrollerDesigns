@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_parrot_fish",
+  "label": "Parrot Fish",
+  "file": "Parrot Fish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Parrot Fish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Parrot Fish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

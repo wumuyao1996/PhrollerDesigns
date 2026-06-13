@@ -1,0 +1,13 @@
+{
+  "id": "household_props_chandelier",
+  "label": "Chandelier",
+  "file": "Chandelier.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Chandelier.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chandelier.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

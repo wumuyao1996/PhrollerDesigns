@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_chicken",
+  "label": "Chicken",
+  "file": "Chicken.json",
+  "author": "Quaternius",
+  "description": "Imported \"Chicken.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chicken.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

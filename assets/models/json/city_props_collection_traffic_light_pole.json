@@ -1,0 +1,17 @@
+{
+  "id": "city_props_collection_traffic_light_pole",
+  "title": "Traffic Light Pole",
+  "label": "Traffic Light Pole",
+  "file": "city_props_collection_traffic_light_pole.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Traffic Light Pole.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "props",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_props_collection_traffic_light_pole.glb"
+}

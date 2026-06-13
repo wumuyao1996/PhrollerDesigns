@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_bone",
+  "label": "Bone",
+  "file": "Bone.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Bone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bone.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "food_apple_green",
+  "title": "Apple Green",
+  "label": "Apple Green",
+  "file": "food_apple_green.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Apple Green.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_apple_green.glb"
+}

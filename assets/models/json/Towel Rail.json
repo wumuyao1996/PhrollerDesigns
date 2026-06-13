@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_towel_rail",
+  "label": "Towel Rail",
+  "file": "Towel Rail.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Towel Rail.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Towel Rail.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

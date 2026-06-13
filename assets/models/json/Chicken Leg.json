@@ -1,0 +1,12 @@
+{
+  "id": "pirate_chicken_leg",
+  "label": "Chicken Leg",
+  "file": "Chicken Leg.json",
+  "author": "Quaternius",
+  "description": "Imported \"Chicken Leg.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chicken Leg.glb",
+  "tags": [
+    "pirate"
+  ]
+}

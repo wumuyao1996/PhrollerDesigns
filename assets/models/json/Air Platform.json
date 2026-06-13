@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_air_platform",
+  "label": "Air Platform",
+  "file": "Air Platform.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Air Platform.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Air Platform.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

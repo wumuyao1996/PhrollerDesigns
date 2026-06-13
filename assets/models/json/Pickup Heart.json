@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_pickup_heart",
+  "label": "Pickup Heart",
+  "file": "Pickup Heart.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pickup Heart.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pickup Heart.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_glass",
+  "title": "Glass",
+  "label": "Glass",
+  "file": "cooking_assets_glass.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Glass.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_glass.glb"
+}

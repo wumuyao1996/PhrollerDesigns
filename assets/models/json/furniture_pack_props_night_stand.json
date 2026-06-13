@@ -1,0 +1,17 @@
+{
+  "id": "furniture_pack_props_night_stand",
+  "title": "Night Stand",
+  "label": "Night Stand",
+  "file": "furniture_pack_props_night_stand.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Night Stand.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "furniture",
+    "pack",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/furniture_pack_props_night_stand.glb"
+}

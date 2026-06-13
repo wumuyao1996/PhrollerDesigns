@@ -1,0 +1,12 @@
+{
+  "id": "pirate_fish_tuna",
+  "label": "Fish Tuna",
+  "file": "Fish Tuna.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fish Tuna.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fish Tuna.glb",
+  "tags": [
+    "pirate"
+  ]
+}

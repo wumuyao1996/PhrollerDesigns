@@ -1,0 +1,12 @@
+{
+  "id": "shooter_character_hazmat",
+  "label": "Character Hazmat",
+  "file": "Character Hazmat.json",
+  "author": "Quaternius",
+  "description": "Imported \"Character Hazmat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Character Hazmat.glb",
+  "tags": [
+    "shooter"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_cash_register",
+  "label": "Cash Register",
+  "file": "Cash register.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Cash register.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cash register.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

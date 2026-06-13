@@ -1,0 +1,12 @@
+{
+  "id": "food_turkey",
+  "label": "Turkey",
+  "file": "Turkey.json",
+  "author": "Kenney",
+  "description": "Imported \"Turkey.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Turkey.glb",
+  "tags": [
+    "food"
+  ]
+}

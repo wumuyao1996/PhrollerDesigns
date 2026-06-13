@@ -1,0 +1,12 @@
+{
+  "id": "building_wall_half",
+  "label": "Wall Half",
+  "file": "Wall Half.json",
+  "author": "Kenney",
+  "description": "Imported \"Wall Half.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Half.glb",
+  "tags": [
+    "building"
+  ]
+}

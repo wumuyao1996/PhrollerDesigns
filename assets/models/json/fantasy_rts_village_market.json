@@ -1,0 +1,16 @@
+{
+  "id": "fantasy_rts_village_market",
+  "title": "Village Market",
+  "label": "Village Market",
+  "file": "fantasy_rts_village_market.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Village Market.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "fantasy",
+    "rts"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/fantasy_rts_village_market.glb"
+}

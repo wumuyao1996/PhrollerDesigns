@@ -1,0 +1,12 @@
+{
+  "id": "city_dumpster",
+  "label": "Dumpster",
+  "file": "Dumpster.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Dumpster.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dumpster.glb",
+  "tags": [
+    "city"
+  ]
+}

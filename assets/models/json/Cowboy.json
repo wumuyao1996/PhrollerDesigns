@@ -1,0 +1,12 @@
+{
+  "id": "characters_cowboy",
+  "label": "Cowboy",
+  "file": "Cowboy.json",
+  "author": "mastjie",
+  "description": "Imported \"Cowboy.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cowboy.glb",
+  "tags": [
+    "characters"
+  ]
+}

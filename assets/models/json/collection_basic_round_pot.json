@@ -1,0 +1,16 @@
+{
+  "id": "collection_basic_round_pot",
+  "title": "Round Pot",
+  "label": "Round Pot",
+  "file": "collection_basic_round_pot.json",
+  "author": "Bouggles",
+  "description": "Loly-poly glb asset of Round Pot.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "collection",
+    "basic"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/collection_basic_round_pot.glb"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "food_plate_square",
+  "title": "Plate Square",
+  "label": "Plate Square",
+  "file": "food_plate_square.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Plate Square.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_plate_square.glb"
+}

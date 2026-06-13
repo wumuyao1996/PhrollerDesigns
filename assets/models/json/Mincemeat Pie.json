@@ -1,0 +1,12 @@
+{
+  "id": "food_mincemeat_pie",
+  "label": "Mincemeat Pie",
+  "file": "Mincemeat Pie.json",
+  "author": "Kenney",
+  "description": "Imported \"Mincemeat Pie.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mincemeat Pie.glb",
+  "tags": [
+    "food"
+  ]
+}

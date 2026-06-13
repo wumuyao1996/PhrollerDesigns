@@ -1,0 +1,16 @@
+{
+  "id": "kitchen_modular_wall_papertowel",
+  "title": "Wall Papertowel",
+  "label": "Wall Papertowel",
+  "file": "kitchen_modular_wall_papertowel.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Wall Papertowel.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "kitchen",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/kitchen_modular_wall_papertowel.glb"
+}

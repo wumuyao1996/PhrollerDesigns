@@ -1,0 +1,12 @@
+{
+  "id": "shooter_pipes",
+  "label": "Pipes",
+  "file": "Pipes.json",
+  "author": "Quaternius",
+  "description": "Imported \"Pipes.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pipes.glb",
+  "tags": [
+    "shooter"
+  ]
+}

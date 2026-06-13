@@ -1,0 +1,17 @@
+{
+  "id": "modular_sushi_restaurant_octopus_nigiri",
+  "title": "Octopus Nigiri",
+  "label": "Octopus Nigiri",
+  "file": "modular_sushi_restaurant_octopus_nigiri.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Octopus Nigiri.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "sushi",
+    "restaurant"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_sushi_restaurant_octopus_nigiri.glb"
+}

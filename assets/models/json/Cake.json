@@ -1,0 +1,12 @@
+{
+  "id": "food_cake",
+  "label": "Cake",
+  "file": "Cake.json",
+  "author": "Kenney",
+  "description": "Imported \"Cake.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cake.glb",
+  "tags": [
+    "food"
+  ]
+}

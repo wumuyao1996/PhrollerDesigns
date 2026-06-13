@@ -1,0 +1,13 @@
+{
+  "id": "household_props_treadmill",
+  "label": "Treadmill",
+  "file": "Treadmill.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Treadmill.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Treadmill.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

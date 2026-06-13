@@ -1,0 +1,15 @@
+{
+  "id": "animals_horse",
+  "title": "Horse",
+  "label": "Horse",
+  "file": "animals_horse.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Horse.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_horse.glb"
+}

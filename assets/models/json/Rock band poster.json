@@ -1,0 +1,12 @@
+{
+  "id": "city_rock_band_poster",
+  "label": "Rock Band Poster",
+  "file": "Rock band poster.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Rock band poster.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rock band poster.glb",
+  "tags": [
+    "city"
+  ]
+}

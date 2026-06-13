@@ -1,0 +1,15 @@
+{
+  "id": "food_pizza_slice",
+  "title": "Pizza Slice",
+  "label": "Pizza Slice",
+  "file": "food_pizza_slice.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Pizza Slice.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_pizza_slice.glb"
+}

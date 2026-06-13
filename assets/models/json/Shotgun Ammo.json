@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_shotgun_ammo",
+  "label": "Shotgun Ammo",
+  "file": "Shotgun Ammo.json",
+  "author": "Zsky",
+  "description": "Imported \"Shotgun Ammo.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shotgun Ammo.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_brick_block",
+  "title": "Brick Block",
+  "label": "Brick Block",
+  "file": "cube_voxel_brick_block.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Brick Block.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_brick_block.glb"
+}

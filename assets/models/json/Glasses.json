@@ -1,0 +1,12 @@
+{
+  "id": "glasses_glasses",
+  "label": "Glasses",
+  "file": "Glasses.json",
+  "author": "iPoly3D",
+  "description": "Imported \"Glasses.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Glasses.glb",
+  "tags": [
+    "glasses"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_campfire",
+  "label": "Campfire",
+  "file": "Campfire.json",
+  "author": "Kenney",
+  "description": "Imported \"Campfire.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Campfire.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

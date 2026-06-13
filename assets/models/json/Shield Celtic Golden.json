@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_shield_celtic_golden",
+  "label": "Shield Celtic Golden",
+  "file": "Shield Celtic Golden.json",
+  "author": "Quaternius",
+  "description": "Imported \"Shield Celtic Golden.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shield Celtic Golden.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

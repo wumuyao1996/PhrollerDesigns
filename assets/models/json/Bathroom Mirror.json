@@ -1,0 +1,12 @@
+{
+  "id": "furniture_bathroom_mirror",
+  "label": "Bathroom Mirror",
+  "file": "Bathroom Mirror.json",
+  "author": "Kenney",
+  "description": "Imported \"Bathroom Mirror.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bathroom Mirror.glb",
+  "tags": [
+    "furniture"
+  ]
+}

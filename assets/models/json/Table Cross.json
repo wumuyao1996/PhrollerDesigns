@@ -1,0 +1,12 @@
+{
+  "id": "furniture_table_cross",
+  "label": "Table Cross",
+  "file": "Table Cross.json",
+  "author": "Kenney",
+  "description": "Imported \"Table Cross.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Table Cross.glb",
+  "tags": [
+    "furniture"
+  ]
+}

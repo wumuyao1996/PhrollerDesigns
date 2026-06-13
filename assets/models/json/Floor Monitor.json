@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_floor_monitor",
+  "label": "Floor Monitor",
+  "file": "Floor Monitor.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Floor Monitor.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor Monitor.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

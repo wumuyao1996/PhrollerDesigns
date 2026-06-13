@@ -1,0 +1,12 @@
+{
+  "id": "animals_porcupine",
+  "label": "Porcupine",
+  "file": "Porcupine.json",
+  "author": "molochdadev",
+  "description": "Imported \"Porcupine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Porcupine.glb",
+  "tags": [
+    "animals"
+  ]
+}

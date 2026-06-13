@@ -1,0 +1,12 @@
+{
+  "id": "cyberpunk_lever",
+  "label": "Lever",
+  "file": "Lever.json",
+  "author": "Quaternius",
+  "description": "Imported \"Lever.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lever.glb",
+  "tags": [
+    "cyberpunk"
+  ]
+}

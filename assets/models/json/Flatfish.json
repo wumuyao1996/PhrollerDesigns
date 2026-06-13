@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_flatfish",
+  "label": "Flatfish",
+  "file": "Flatfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Flatfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Flatfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

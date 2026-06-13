@@ -1,0 +1,12 @@
+{
+  "id": "food_carton_small",
+  "label": "Carton Small",
+  "file": "Carton Small.json",
+  "author": "Kenney",
+  "description": "Imported \"Carton Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Carton Small.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sci_fi_gun_shooter_lightning_gun",
+  "label": "Lightning Gun",
+  "file": "Lightning Gun.json",
+  "author": "Quaternius",
+  "description": "Imported \"Lightning Gun.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lightning Gun.glb",
+  "tags": [
+    "sci-fi",
+    "gun",
+    "shooter"
+  ]
+}

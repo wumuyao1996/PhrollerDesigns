@@ -1,0 +1,12 @@
+{
+  "id": "shooter_traffic_cone",
+  "label": "Traffic Cone",
+  "file": "Traffic Cone.json",
+  "author": "Quaternius",
+  "description": "Imported \"Traffic Cone.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Traffic Cone.glb",
+  "tags": [
+    "shooter"
+  ]
+}

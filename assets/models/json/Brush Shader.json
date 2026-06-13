@@ -1,0 +1,12 @@
+{
+  "id": "makeup_brush_shader",
+  "label": "Brush Shader",
+  "file": "Brush Shader.json",
+  "author": "MilkAndBanana",
+  "description": "Imported \"Brush Shader.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Brush Shader.glb",
+  "tags": [
+    "makeup"
+  ]
+}

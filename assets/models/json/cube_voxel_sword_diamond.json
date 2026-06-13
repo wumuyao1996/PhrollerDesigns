@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_sword_diamond",
+  "title": "Sword Diamond",
+  "label": "Sword Diamond",
+  "file": "cube_voxel_sword_diamond.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Sword Diamond.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_sword_diamond.glb"
+}

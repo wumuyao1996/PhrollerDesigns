@@ -1,0 +1,16 @@
+{
+  "id": "modular_platforming_bear_trap",
+  "title": "Bear Trap",
+  "label": "Bear Trap",
+  "file": "modular_platforming_bear_trap.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Bear Trap.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "platforming"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_platforming_bear_trap.glb"
+}

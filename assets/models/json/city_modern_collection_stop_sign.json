@@ -1,0 +1,17 @@
+{
+  "id": "city_modern_collection_stop_sign",
+  "title": "Stop Sign",
+  "label": "Stop Sign",
+  "file": "city_modern_collection_stop_sign.json",
+  "author": "dreamdev",
+  "description": "Loly-poly glb asset of Stop Sign.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "modern",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_modern_collection_stop_sign.glb"
+}

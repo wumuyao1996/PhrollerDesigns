@@ -1,0 +1,14 @@
+{
+  "id": "basic_platformer_fantasy_chest_open",
+  "label": "Chest Open",
+  "file": "Chest Open.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Chest Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chest Open.glb",
+  "tags": [
+    "basic",
+    "platformer",
+    "fantasy"
+  ]
+}

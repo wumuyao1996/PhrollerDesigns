@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_toaster",
+  "label": "Toaster",
+  "file": "Toaster.json",
+  "author": "Zsky",
+  "description": "Imported \"Toaster.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Toaster.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

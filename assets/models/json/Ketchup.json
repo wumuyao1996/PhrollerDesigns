@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_ketchup",
+  "label": "Ketchup",
+  "file": "Ketchup.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Ketchup.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ketchup.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

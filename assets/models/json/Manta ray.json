@@ -1,0 +1,12 @@
+{
+  "id": "fish_manta_ray",
+  "label": "Manta Ray",
+  "file": "Manta ray.json",
+  "author": "Quaternius",
+  "description": "Imported \"Manta ray.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Manta ray.glb",
+  "tags": [
+    "fish"
+  ]
+}

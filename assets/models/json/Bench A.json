@@ -1,0 +1,13 @@
+{
+  "id": "homely_house_bench_a",
+  "label": "Bench A",
+  "file": "Bench A.json",
+  "author": "Isa Lousberg",
+  "description": "Imported \"Bench A.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bench A.glb",
+  "tags": [
+    "homely",
+    "house"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "household_props_wine_glass",
+  "label": "Wine Glass",
+  "file": "Wine Glass.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Wine Glass.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wine Glass.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

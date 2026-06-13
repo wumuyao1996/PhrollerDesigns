@@ -1,0 +1,14 @@
+{
+  "id": "nature_trees_plants_mushroom",
+  "label": "Mushroom",
+  "file": "Mushroom.json",
+  "author": "Quaternius",
+  "description": "Imported \"Mushroom.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mushroom.glb",
+  "tags": [
+    "nature",
+    "trees",
+    "plants"
+  ]
+}

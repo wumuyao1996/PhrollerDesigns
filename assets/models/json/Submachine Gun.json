@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_submachine_gun",
+  "label": "Submachine Gun",
+  "file": "Submachine Gun.json",
+  "author": "Zsky",
+  "description": "Imported \"Submachine Gun.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Submachine Gun.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

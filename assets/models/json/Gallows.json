@@ -1,0 +1,13 @@
+{
+  "id": "medieval_torture_gallows",
+  "label": "Gallows",
+  "file": "Gallows.json",
+  "author": "iPoly3D",
+  "description": "Imported \"Gallows.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Gallows.glb",
+  "tags": [
+    "medieval",
+    "torture"
+  ]
+}

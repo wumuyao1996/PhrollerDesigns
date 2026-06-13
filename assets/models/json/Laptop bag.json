@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_laptop_bag",
+  "label": "Laptop Bag",
+  "file": "Laptop bag.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Laptop bag.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Laptop bag.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

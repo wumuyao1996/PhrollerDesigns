@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_closet",
+  "label": "Closet",
+  "file": "Closet.json",
+  "author": "dotRianne",
+  "description": "Imported \"Closet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Closet.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

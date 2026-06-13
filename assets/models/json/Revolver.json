@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_revolver",
+  "label": "Revolver",
+  "file": "Revolver.json",
+  "author": "Zsky",
+  "description": "Imported \"Revolver.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Revolver.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

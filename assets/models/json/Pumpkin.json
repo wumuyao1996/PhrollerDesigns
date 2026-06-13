@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_pumpkin",
+  "label": "Pumpkin",
+  "file": "Pumpkin.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Pumpkin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pumpkin.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

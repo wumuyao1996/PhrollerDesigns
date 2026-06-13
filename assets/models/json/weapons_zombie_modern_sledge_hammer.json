@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_sledge_hammer",
+  "title": "Sledge Hammer",
+  "label": "Sledge Hammer",
+  "file": "weapons_zombie_modern_sledge_hammer.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Sledge Hammer.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_sledge_hammer.glb"
+}

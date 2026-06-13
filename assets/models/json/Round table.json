@@ -1,0 +1,12 @@
+{
+  "id": "furniture_round_table",
+  "label": "Round Table",
+  "file": "Round Table.json",
+  "author": "Kenney",
+  "description": "Imported \"Round Table.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Round Table.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_axe_double",
+  "label": "Axe Double",
+  "file": "Axe Double.json",
+  "author": "Quaternius",
+  "description": "Imported \"Axe Double.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Axe Double.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

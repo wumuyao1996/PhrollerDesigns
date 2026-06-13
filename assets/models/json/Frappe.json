@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_frappe",
+  "label": "Frappe",
+  "file": "Frappe.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Frappe.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Frappe.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

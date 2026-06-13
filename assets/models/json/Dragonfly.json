@@ -1,0 +1,12 @@
+{
+  "id": "animals_dragonfly",
+  "label": "Dragonfly",
+  "file": "Dragonfly.json",
+  "author": "molochdadev",
+  "description": "Imported \"Dragonfly.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dragonfly.glb",
+  "tags": [
+    "animals"
+  ]
+}

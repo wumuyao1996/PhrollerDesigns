@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_red_cargo",
+  "label": "Red Cargo",
+  "file": "Red Cargo.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Red Cargo.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Red Cargo.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

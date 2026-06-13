@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_drill",
+  "label": "Drill",
+  "file": "Drill.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Drill.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Drill.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

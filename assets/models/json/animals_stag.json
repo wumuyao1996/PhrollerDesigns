@@ -1,0 +1,15 @@
+{
+  "id": "animals_stag",
+  "title": "Stag",
+  "label": "Stag",
+  "file": "animals_stag.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Stag.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_stag.glb"
+}

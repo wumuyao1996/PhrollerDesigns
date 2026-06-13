@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_pan",
+  "label": "Pan",
+  "file": "Pan.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Pan.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pan.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

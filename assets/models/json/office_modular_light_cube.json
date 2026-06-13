@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_light_cube",
+  "title": "Light Cube",
+  "label": "Light Cube",
+  "file": "office_modular_light_cube.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Light Cube.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_light_cube.glb"
+}

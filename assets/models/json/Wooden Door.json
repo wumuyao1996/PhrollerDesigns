@@ -1,0 +1,12 @@
+{
+  "id": "building_wooden_door",
+  "label": "Wooden Door",
+  "file": "Wooden Door.json",
+  "author": "Kenney",
+  "description": "Imported \"Wooden Door.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wooden Door.glb",
+  "tags": [
+    "building"
+  ]
+}

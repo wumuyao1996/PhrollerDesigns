@@ -1,0 +1,13 @@
+{
+  "id": "farm_buildings_chickencoop",
+  "label": "ChickenCoop",
+  "file": "ChickenCoop.json",
+  "author": "Quaternius",
+  "description": "Imported \"ChickenCoop.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/ChickenCoop.glb",
+  "tags": [
+    "farm",
+    "buildings"
+  ]
+}

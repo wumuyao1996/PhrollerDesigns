@@ -1,0 +1,13 @@
+{
+  "id": "australian_animals_bilby",
+  "label": "Bilby",
+  "file": "Bilby.json",
+  "author": "Crispy_Prawn",
+  "description": "Imported \"Bilby.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bilby.glb",
+  "tags": [
+    "australian",
+    "animals"
+  ]
+}

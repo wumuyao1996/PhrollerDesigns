@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_water_bottle",
+  "title": "Water Bottle",
+  "label": "Water Bottle",
+  "file": "survival_collection_water_bottle.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Water Bottle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_water_bottle.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_sloth",
+  "label": "Sloth",
+  "file": "Sloth.json",
+  "author": "molochdadev",
+  "description": "Imported \"Sloth.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sloth.glb",
+  "tags": [
+    "animals"
+  ]
+}

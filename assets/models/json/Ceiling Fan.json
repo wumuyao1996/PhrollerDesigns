@@ -1,0 +1,13 @@
+{
+  "id": "household_props_ceiling_fan",
+  "label": "Ceiling Fan",
+  "file": "Ceiling Fan.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Ceiling Fan.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ceiling Fan.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

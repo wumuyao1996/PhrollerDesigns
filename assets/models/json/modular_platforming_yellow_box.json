@@ -1,0 +1,16 @@
+{
+  "id": "modular_platforming_yellow_box",
+  "title": "Yellow Box",
+  "label": "Yellow Box",
+  "file": "modular_platforming_yellow_box.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Yellow Box.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "platforming"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_platforming_yellow_box.glb"
+}

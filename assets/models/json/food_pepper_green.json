@@ -1,0 +1,15 @@
+{
+  "id": "food_pepper_green",
+  "title": "Pepper Green",
+  "label": "Pepper Green",
+  "file": "food_pepper_green.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Pepper Green.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_pepper_green.glb"
+}

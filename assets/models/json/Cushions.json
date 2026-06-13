@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_cushions",
+  "label": "Cushions",
+  "file": "Cushions.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Cushions.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cushions.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

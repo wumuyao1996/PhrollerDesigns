@@ -1,0 +1,16 @@
+{
+  "id": "modular_train_cargo_train_front",
+  "title": "Cargo Train Front",
+  "label": "Cargo Train Front",
+  "file": "modular_train_cargo_train_front.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Cargo Train Front.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "train"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_train_cargo_train_front.glb"
+}

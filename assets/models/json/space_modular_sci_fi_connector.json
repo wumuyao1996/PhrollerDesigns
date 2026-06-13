@@ -1,0 +1,17 @@
+{
+  "id": "space_modular_sci_fi_connector",
+  "title": "Connector",
+  "label": "Connector",
+  "file": "space_modular_sci_fi_connector.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Connector.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "space",
+    "modular",
+    "sci-fi"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/space_modular_sci_fi_connector.glb"
+}

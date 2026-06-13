@@ -1,0 +1,17 @@
+{
+  "id": "modular_sushi_restaurant_tile_floor",
+  "title": "Tile Floor",
+  "label": "Tile Floor",
+  "file": "modular_sushi_restaurant_tile_floor.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Tile Floor.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "sushi",
+    "restaurant"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_sushi_restaurant_tile_floor.glb"
+}

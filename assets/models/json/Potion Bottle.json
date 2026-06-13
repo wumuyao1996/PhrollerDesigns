@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_potion_bottle",
+  "label": "Potion Bottle",
+  "file": "Potion Bottle.json",
+  "author": "Quaternius",
+  "description": "Imported \"Potion Bottle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Potion Bottle.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

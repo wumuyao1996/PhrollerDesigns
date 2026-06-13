@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_birb",
+  "label": "Birb",
+  "file": "Birb.json",
+  "author": "Quaternius",
+  "description": "Imported \"Birb.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Birb.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

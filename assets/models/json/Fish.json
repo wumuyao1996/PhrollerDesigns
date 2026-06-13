@@ -1,0 +1,12 @@
+{
+  "id": "fish_fish",
+  "label": "Fish",
+  "file": "Fish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Fish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fish.glb",
+  "tags": [
+    "fish"
+  ]
+}

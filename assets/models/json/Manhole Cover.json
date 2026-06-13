@@ -1,0 +1,12 @@
+{
+  "id": "city_manhole_cover",
+  "label": "Manhole Cover",
+  "file": "Manhole Cover.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Manhole Cover.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Manhole Cover.glb",
+  "tags": [
+    "city"
+  ]
+}

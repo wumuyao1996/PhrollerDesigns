@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_dishwasher",
+  "label": "Dishwasher",
+  "file": "Dishwasher.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Dishwasher.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dishwasher.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

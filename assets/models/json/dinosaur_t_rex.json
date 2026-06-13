@@ -1,0 +1,15 @@
+{
+  "id": "dinosaur_t_rex",
+  "title": "T Rex",
+  "label": "T Rex",
+  "file": "dinosaur_t_rex.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of T Rex.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "dinosaur"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/dinosaur_t_rex.glb"
+}

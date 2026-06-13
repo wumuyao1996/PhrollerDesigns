@@ -1,0 +1,12 @@
+{
+  "id": "shooter_barrier_trash",
+  "label": "Barrier Trash",
+  "file": "Barrier Trash.json",
+  "author": "Quaternius",
+  "description": "Imported \"Barrier Trash.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barrier Trash.glb",
+  "tags": [
+    "shooter"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_broom",
+  "label": "Broom",
+  "file": "Broom.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Broom.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Broom.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

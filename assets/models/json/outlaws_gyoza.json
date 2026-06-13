@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_gyoza",
+  "title": "Gyoza",
+  "label": "Gyoza",
+  "file": "outlaws_gyoza.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Gyoza.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_gyoza.glb"
+}

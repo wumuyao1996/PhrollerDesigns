@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_stegosaurus",
+  "label": "Stegosaurus",
+  "file": "Stegosaurus.json",
+  "author": "dotRianne",
+  "description": "Imported \"Stegosaurus.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stegosaurus.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

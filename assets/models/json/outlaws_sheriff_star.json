@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_sheriff_star",
+  "title": "Sheriff Star",
+  "label": "Sheriff Star",
+  "file": "outlaws_sheriff_star.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Sheriff Star.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_sheriff_star.glb"
+}

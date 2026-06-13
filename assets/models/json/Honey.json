@@ -1,0 +1,12 @@
+{
+  "id": "food_honey",
+  "label": "Honey",
+  "file": "Honey.json",
+  "author": "Kenney",
+  "description": "Imported \"Honey.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Honey.glb",
+  "tags": [
+    "food"
+  ]
+}

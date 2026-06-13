@@ -1,0 +1,12 @@
+{
+  "id": "city_suv",
+  "label": "SUV",
+  "file": "SUV.json",
+  "author": "J-Toastie",
+  "description": "Imported \"SUV.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/SUV.glb",
+  "tags": [
+    "city"
+  ]
+}

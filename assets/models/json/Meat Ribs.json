@@ -1,0 +1,12 @@
+{
+  "id": "food_meat_ribs",
+  "label": "Meat Ribs",
+  "file": "Meat Ribs.json",
+  "author": "Kenney",
+  "description": "Imported \"Meat Ribs.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Meat Ribs.glb",
+  "tags": [
+    "food"
+  ]
+}

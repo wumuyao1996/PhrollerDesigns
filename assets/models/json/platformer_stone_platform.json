@@ -1,0 +1,15 @@
+{
+  "id": "platformer_stone_platform",
+  "title": "Stone Platform",
+  "label": "Stone Platform",
+  "file": "platformer_stone_platform.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Stone Platform.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "platformer"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/platformer_stone_platform.glb"
+}

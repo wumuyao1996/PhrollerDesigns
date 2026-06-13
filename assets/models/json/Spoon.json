@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_spoon",
+  "label": "Spoon",
+  "file": "Spoon.json",
+  "author": "Zsky",
+  "description": "Imported \"Spoon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Spoon.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

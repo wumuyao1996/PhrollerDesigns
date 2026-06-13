@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_couch_medium",
+  "label": "Couch Medium",
+  "file": "Couch Medium.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Couch Medium.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Couch Medium.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

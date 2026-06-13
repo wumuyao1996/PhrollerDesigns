@@ -1,0 +1,12 @@
+{
+  "id": "pirate_bird",
+  "label": "Bird",
+  "file": "Bird.json",
+  "author": "Quaternius",
+  "description": "Imported \"Bird.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bird.glb",
+  "tags": [
+    "pirate"
+  ]
+}

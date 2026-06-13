@@ -1,0 +1,16 @@
+{
+  "id": "pipe_modular_pipe_long",
+  "title": "Pipe Long",
+  "label": "Pipe Long",
+  "file": "pipe_modular_pipe_long.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Pipe Long.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "pipe",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/pipe_modular_pipe_long.glb"
+}

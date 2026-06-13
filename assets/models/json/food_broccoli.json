@@ -1,0 +1,15 @@
+{
+  "id": "food_broccoli",
+  "title": "Broccoli",
+  "label": "Broccoli",
+  "file": "food_broccoli.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Broccoli.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_broccoli.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cars_modern_police_car",
+  "title": "Police Car",
+  "label": "Police Car",
+  "file": "cars_modern_police_car.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Police Car.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cars",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cars_modern_police_car.glb"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "skate_structure_wood",
+  "title": "Structure Wood",
+  "label": "Structure Wood",
+  "file": "skate_structure_wood.json",
+  "author": "Kenney",
+  "description": "Loly-poly glb asset of Structure Wood.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "skate"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/skate_structure_wood.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_toaster_oven",
+  "title": "Toaster Oven",
+  "label": "Toaster Oven",
+  "file": "cooking_assets_toaster_oven.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Toaster Oven.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_toaster_oven.glb"
+}

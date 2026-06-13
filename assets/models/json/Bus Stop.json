@@ -1,0 +1,12 @@
+{
+  "id": "city_bus_stop",
+  "label": "Bus Stop",
+  "file": "Bus Stop.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Bus Stop.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bus Stop.glb",
+  "tags": [
+    "city"
+  ]
+}

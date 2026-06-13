@@ -1,0 +1,16 @@
+{
+  "id": "pretty_park_cobble_stones",
+  "title": "Cobble Stones",
+  "label": "Cobble Stones",
+  "file": "pretty_park_cobble_stones.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Cobble Stones.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "pretty",
+    "park"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/pretty_park_cobble_stones.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_first_aid_kit",
+  "title": "First Aid Kit",
+  "label": "First Aid Kit",
+  "file": "survival_collection_first_aid_kit.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of First Aid Kit.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_first_aid_kit.glb"
+}

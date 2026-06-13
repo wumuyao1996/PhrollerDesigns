@@ -1,0 +1,12 @@
+{
+  "id": "city_car",
+  "label": "Car",
+  "file": "Car.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Car.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Car.glb",
+  "tags": [
+    "city"
+  ]
+}

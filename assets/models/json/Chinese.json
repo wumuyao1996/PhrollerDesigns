@@ -1,0 +1,12 @@
+{
+  "id": "food_chinese",
+  "label": "Chinese",
+  "file": "Chinese.json",
+  "author": "Kenney",
+  "description": "Imported \"Chinese.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Chinese.glb",
+  "tags": [
+    "food"
+  ]
+}

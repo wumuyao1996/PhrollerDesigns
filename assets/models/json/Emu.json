@@ -1,0 +1,12 @@
+{
+  "id": "animals_emu",
+  "label": "Emu",
+  "file": "Emu.json",
+  "author": "molochdadev",
+  "description": "Imported \"Emu.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Emu.glb",
+  "tags": [
+    "animals"
+  ]
+}

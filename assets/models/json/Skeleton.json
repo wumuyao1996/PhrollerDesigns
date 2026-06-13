@@ -1,0 +1,12 @@
+{
+  "id": "pirate_skeleton",
+  "label": "Skeleton",
+  "file": "Skeleton.json",
+  "author": "Quaternius",
+  "description": "Imported \"Skeleton.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Skeleton.glb",
+  "tags": [
+    "pirate"
+  ]
+}

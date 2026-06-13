@@ -1,0 +1,15 @@
+{
+  "id": "food_tentacle",
+  "title": "Tentacle",
+  "label": "Tentacle",
+  "file": "food_tentacle.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Tentacle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_tentacle.glb"
+}

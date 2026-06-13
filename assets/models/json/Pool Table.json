@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_pool_table",
+  "label": "Pool Table",
+  "file": "Pool Table.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Pool Table.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Pool Table.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

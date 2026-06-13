@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_coffee_machine",
+  "label": "Kitchen Coffee Machine",
+  "file": "Kitchen Coffee Machine.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Coffee Machine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Coffee Machine.glb",
+  "tags": [
+    "furniture"
+  ]
+}

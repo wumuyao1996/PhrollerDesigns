@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_rubik_s_cube",
+  "title": "Rubik's Cube",
+  "label": "Rubik's Cube",
+  "file": "office_modular_rubik_s_cube.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Rubik's Cube.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_rubik_s_cube.glb"
+}

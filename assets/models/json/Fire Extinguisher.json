@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_fire_extinguisher",
+  "label": "Fire Extinguisher",
+  "file": "Fire Extinguisher.json",
+  "author": "Player11132",
+  "description": "Imported \"Fire Extinguisher.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fire Extinguisher.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

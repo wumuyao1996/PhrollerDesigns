@@ -1,0 +1,12 @@
+{
+  "id": "animals_hamster",
+  "label": "Hamster",
+  "file": "Hamster.json",
+  "author": "molochdadev",
+  "description": "Imported \"Hamster.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Hamster.glb",
+  "tags": [
+    "animals"
+  ]
+}

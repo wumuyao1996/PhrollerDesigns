@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_dragon_evolved",
+  "label": "Dragon Evolved",
+  "file": "Dragon Evolved.json",
+  "author": "Quaternius",
+  "description": "Imported \"Dragon Evolved.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dragon Evolved.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

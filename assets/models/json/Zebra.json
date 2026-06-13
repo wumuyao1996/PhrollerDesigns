@@ -1,0 +1,12 @@
+{
+  "id": "animals_zebra",
+  "label": "Zebra",
+  "file": "Zebra.json",
+  "author": "molochdadev",
+  "description": "Imported \"Zebra.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Zebra.glb",
+  "tags": [
+    "animals"
+  ]
+}

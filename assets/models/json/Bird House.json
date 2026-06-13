@@ -1,0 +1,13 @@
+{
+  "id": "household_props_bird_house",
+  "label": "Bird House",
+  "file": "Bird House.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Bird House.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bird House.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "virtual_reality_vr_modern_vr_controller",
+  "title": "VR Controller",
+  "label": "VR Controller",
+  "file": "virtual_reality_vr_modern_vr_controller.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of VR Controller.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "virtual reality",
+    "vr",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/virtual_reality_vr_modern_vr_controller.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_taco",
+  "label": "Taco",
+  "file": "Taco.json",
+  "author": "Kenney",
+  "description": "Imported \"Taco.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Taco.glb",
+  "tags": [
+    "food"
+  ]
+}

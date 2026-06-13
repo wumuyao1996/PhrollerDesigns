@@ -1,0 +1,12 @@
+{
+  "id": "pirate_small_ship",
+  "label": "Small Ship",
+  "file": "Small Ship.json",
+  "author": "Quaternius",
+  "description": "Imported \"Small Ship.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Small Ship.glb",
+  "tags": [
+    "pirate"
+  ]
+}

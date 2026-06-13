@@ -1,0 +1,13 @@
+{
+  "id": "farm_buildings_silo_house",
+  "label": "Silo House",
+  "file": "Silo House.json",
+  "author": "Quaternius",
+  "description": "Imported \"Silo House.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Silo House.glb",
+  "tags": [
+    "farm",
+    "buildings"
+  ]
+}

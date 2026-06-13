@@ -1,0 +1,16 @@
+{
+  "id": "modular_train_high_speed_front",
+  "title": "High Speed Front",
+  "label": "High Speed Front",
+  "file": "modular_train_high_speed_front.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of High Speed Front.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "train"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_train_high_speed_front.glb"
+}

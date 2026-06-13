@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_cheese_slice",
+  "label": "Cheese Slice",
+  "file": "Cheese slice.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cheese slice.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cheese slice.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

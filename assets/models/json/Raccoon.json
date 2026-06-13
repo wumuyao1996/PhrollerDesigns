@@ -1,0 +1,12 @@
+{
+  "id": "animals_raccoon",
+  "label": "Raccoon",
+  "file": "Raccoon.json",
+  "author": "molochdadev",
+  "description": "Imported \"Raccoon.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Raccoon.glb",
+  "tags": [
+    "animals"
+  ]
+}

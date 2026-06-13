@@ -1,0 +1,15 @@
+{
+  "id": "food_carrot",
+  "title": "Carrot",
+  "label": "Carrot",
+  "file": "food_carrot.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Carrot.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_carrot.glb"
+}

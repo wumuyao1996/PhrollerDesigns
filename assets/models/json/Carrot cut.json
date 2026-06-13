@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_carrot_cut",
+  "label": "Carrot Cut",
+  "file": "Carrot cut.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Carrot cut.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Carrot cut.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

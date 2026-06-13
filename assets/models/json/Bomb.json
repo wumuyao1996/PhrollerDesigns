@@ -1,0 +1,12 @@
+{
+  "id": "pirate_bomb",
+  "label": "Bomb",
+  "file": "Bomb.json",
+  "author": "Quaternius",
+  "description": "Imported \"Bomb.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bomb.glb",
+  "tags": [
+    "pirate"
+  ]
+}

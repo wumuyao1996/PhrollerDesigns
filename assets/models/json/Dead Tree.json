@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_dead_tree",
+  "label": "Dead Tree",
+  "file": "Dead tree.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Dead tree.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dead tree.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

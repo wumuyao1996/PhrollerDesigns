@@ -1,0 +1,13 @@
+{
+  "id": "household_props_stove",
+  "label": "Stove",
+  "file": "Stove.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Stove.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stove.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

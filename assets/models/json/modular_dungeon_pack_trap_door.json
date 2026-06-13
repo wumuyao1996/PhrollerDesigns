@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_trap_door",
+  "title": "Trap Door",
+  "label": "Trap Door",
+  "file": "modular_dungeon_pack_trap_door.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Trap Door.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_trap_door.glb"
+}

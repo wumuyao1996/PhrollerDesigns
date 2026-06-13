@@ -1,0 +1,12 @@
+{
+  "id": "food_radish",
+  "label": "Radish",
+  "file": "Radish.json",
+  "author": "Kenney",
+  "description": "Imported \"Radish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Radish.glb",
+  "tags": [
+    "food"
+  ]
+}

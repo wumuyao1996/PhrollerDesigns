@@ -1,0 +1,12 @@
+{
+  "id": "food_muffin",
+  "label": "Muffin",
+  "file": "Muffin.json",
+  "author": "Kenney",
+  "description": "Imported \"Muffin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Muffin.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "outdoor_decor_props_garden_lamp",
+  "title": "Garden Lamp",
+  "label": "Garden Lamp",
+  "file": "outdoor_decor_props_garden_lamp.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Garden Lamp.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outdoor",
+    "decor",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outdoor_decor_props_garden_lamp.glb"
+}

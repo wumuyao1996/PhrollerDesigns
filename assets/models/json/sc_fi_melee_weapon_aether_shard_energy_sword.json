@@ -1,0 +1,17 @@
+{
+  "id": "sc_fi_melee_weapon_aether_shard_energy_sword",
+  "title": "Aether Shard \u2013 Energy Sword",
+  "label": "Aether Shard \u2013 Energy Sword",
+  "file": "sc_fi_melee_weapon_aether_shard_energy_sword.json",
+  "author": "Qubzy",
+  "description": "Loly-poly glb asset of Aether Shard \u2013 Energy Sword.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "sc-fi",
+    "melee",
+    "weapon"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/sc_fi_melee_weapon_aether_shard_energy_sword.glb"
+}

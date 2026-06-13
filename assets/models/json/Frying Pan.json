@@ -1,0 +1,13 @@
+{
+  "id": "household_props_frying_pan",
+  "label": "Frying Pan",
+  "file": "Frying Pan.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Frying Pan.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Frying Pan.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

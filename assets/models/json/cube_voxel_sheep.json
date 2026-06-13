@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_sheep",
+  "title": "Sheep",
+  "label": "Sheep",
+  "file": "cube_voxel_sheep.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Sheep.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_sheep.glb"
+}

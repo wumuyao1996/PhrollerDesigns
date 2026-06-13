@@ -1,0 +1,15 @@
+{
+  "id": "vrc_cup",
+  "title": "Cup",
+  "label": "Cup",
+  "file": "vrc_cup.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Cup.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_cup.glb"
+}

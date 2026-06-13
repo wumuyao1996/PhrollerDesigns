@@ -1,0 +1,12 @@
+{
+  "id": "food_can",
+  "label": "Can",
+  "file": "Can.json",
+  "author": "Kenney",
+  "description": "Imported \"Can.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Can.glb",
+  "tags": [
+    "food"
+  ]
+}

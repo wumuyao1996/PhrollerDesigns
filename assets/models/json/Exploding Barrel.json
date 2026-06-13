@@ -1,0 +1,12 @@
+{
+  "id": "shooter_exploding_barrel",
+  "label": "Exploding Barrel",
+  "file": "Exploding Barrel.json",
+  "author": "Quaternius",
+  "description": "Imported \"Exploding Barrel.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Exploding Barrel.glb",
+  "tags": [
+    "shooter"
+  ]
+}

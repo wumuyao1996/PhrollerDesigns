@@ -1,0 +1,12 @@
+{
+  "id": "food_salad",
+  "label": "Salad",
+  "file": "Salad.json",
+  "author": "Kenney",
+  "description": "Imported \"Salad.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Salad.glb",
+  "tags": [
+    "food"
+  ]
+}

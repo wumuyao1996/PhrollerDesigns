@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_mushroom_king",
+  "label": "Mushroom King",
+  "file": "Mushroom King.json",
+  "author": "Quaternius",
+  "description": "Imported \"Mushroom King.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mushroom King.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

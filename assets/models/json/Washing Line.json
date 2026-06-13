@@ -1,0 +1,12 @@
+{
+  "id": "city_washing_line",
+  "label": "Washing Line",
+  "file": "Washing Line.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Washing Line.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Washing Line.glb",
+  "tags": [
+    "city"
+  ]
+}

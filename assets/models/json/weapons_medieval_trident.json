@@ -1,0 +1,16 @@
+{
+  "id": "weapons_medieval_trident",
+  "title": "Trident",
+  "label": "Trident",
+  "file": "weapons_medieval_trident.json",
+  "author": "MiniPoly",
+  "description": "Loly-poly glb asset of Trident.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "medieval"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_medieval_trident.glb"
+}

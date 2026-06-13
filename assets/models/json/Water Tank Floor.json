@@ -1,0 +1,12 @@
+{
+  "id": "shooter_water_tank_floor",
+  "label": "Water Tank Floor",
+  "file": "Water Tank Floor.json",
+  "author": "Quaternius",
+  "description": "Imported \"Water Tank Floor.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Water Tank Floor.glb",
+  "tags": [
+    "shooter"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "medieval_village_charming_package",
+  "title": "Package",
+  "label": "Package",
+  "file": "medieval_village_charming_package.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Package.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "medieval",
+    "village",
+    "charming"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/medieval_village_charming_package.glb"
+}

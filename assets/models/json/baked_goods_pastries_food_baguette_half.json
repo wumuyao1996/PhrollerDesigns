@@ -1,0 +1,17 @@
+{
+  "id": "baked_goods_pastries_food_baguette_half",
+  "title": "Baguette Half",
+  "label": "Baguette Half",
+  "file": "baked_goods_pastries_food_baguette_half.json",
+  "author": "Isa Lousberg",
+  "description": "Loly-poly glb asset of Baguette Half.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "baked goods",
+    "pastries",
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/baked_goods_pastries_food_baguette_half.glb"
+}

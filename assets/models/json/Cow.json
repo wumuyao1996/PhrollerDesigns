@@ -1,0 +1,13 @@
+{
+  "id": "farm_animal_cow",
+  "label": "Cow",
+  "file": "Cow.json",
+  "author": "Quaternius",
+  "description": "Imported \"Cow.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cow.glb",
+  "tags": [
+    "farm",
+    "animal"
+  ]
+}

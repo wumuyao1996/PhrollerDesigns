@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_goleling",
+  "label": "Goleling",
+  "file": "Goleling.json",
+  "author": "Quaternius",
+  "description": "Imported \"Goleling.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Goleling.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

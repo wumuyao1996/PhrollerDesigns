@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_smg_ammo_box",
+  "label": "Smg Ammo Box",
+  "file": "Smg Ammo Box.json",
+  "author": "Zsky",
+  "description": "Imported \"Smg Ammo Box.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Smg Ammo Box.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "military_vehicles_truck",
+  "label": "Truck",
+  "file": "Truck.json",
+  "author": "Zsky",
+  "description": "Imported \"Truck.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Truck.glb",
+  "tags": [
+    "military",
+    "vehicles"
+  ]
+}

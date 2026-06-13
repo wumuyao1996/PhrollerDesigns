@@ -1,0 +1,16 @@
+{
+  "id": "animals_cute_frog",
+  "title": "Frog",
+  "label": "Frog",
+  "file": "animals_cute_frog.json",
+  "author": "madtrollstudio",
+  "description": "Loly-poly glb asset of Frog.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals",
+    "cute"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_cute_frog.glb"
+}

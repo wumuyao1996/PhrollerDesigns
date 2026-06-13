@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_vending_machine",
+  "label": "Vending Machine",
+  "file": "Vending Machine.json",
+  "author": "dotRianne",
+  "description": "Imported \"Vending Machine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Vending Machine.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

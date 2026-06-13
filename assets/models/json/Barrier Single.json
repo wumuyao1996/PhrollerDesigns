@@ -1,0 +1,12 @@
+{
+  "id": "shooter_barrier_single",
+  "label": "Barrier Single",
+  "file": "Barrier Single.json",
+  "author": "Quaternius",
+  "description": "Imported \"Barrier Single.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barrier Single.glb",
+  "tags": [
+    "shooter"
+  ]
+}

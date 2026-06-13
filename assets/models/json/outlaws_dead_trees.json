@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_dead_trees",
+  "title": "Dead Trees",
+  "label": "Dead Trees",
+  "file": "outlaws_dead_trees.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Dead Trees.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_dead_trees.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_meat_raw",
+  "label": "Meat Raw",
+  "file": "Meat Raw.json",
+  "author": "Kenney",
+  "description": "Imported \"Meat Raw.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Meat Raw.glb",
+  "tags": [
+    "food"
+  ]
+}

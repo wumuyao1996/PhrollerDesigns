@@ -1,0 +1,15 @@
+{
+  "id": "animals_alpaca",
+  "title": "Alpaca",
+  "label": "Alpaca",
+  "file": "animals_alpaca.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Alpaca.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "animals"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/animals_alpaca.glb"
+}

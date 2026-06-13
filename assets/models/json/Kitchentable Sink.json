@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_kitchentable_sink",
+  "label": "Kitchentable Sink",
+  "file": "Kitchentable Sink.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Kitchentable Sink.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchentable Sink.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_fancy_donuts",
+  "label": "Fancy Donuts",
+  "file": "Fancy Donuts.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Fancy Donuts.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fancy Donuts.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

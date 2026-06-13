@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_twig",
+  "label": "Twig",
+  "file": "Twig.json",
+  "author": "Kenney",
+  "description": "Imported \"Twig.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Twig.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

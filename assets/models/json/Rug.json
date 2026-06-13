@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_rug",
+  "label": "Rug",
+  "file": "Rug.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Rug.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rug.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sci_fi_gun_scifi_smg",
+  "title": "Scifi Smg",
+  "label": "Scifi Smg",
+  "file": "sci_fi_gun_scifi_smg.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Scifi Smg.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "sci-fi",
+    "gun"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/sci_fi_gun_scifi_smg.glb"
+}

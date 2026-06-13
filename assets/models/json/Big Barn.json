@@ -1,0 +1,13 @@
+{
+  "id": "farm_buildings_big_barn",
+  "label": "Big Barn",
+  "file": "Big Barn.json",
+  "author": "Quaternius",
+  "description": "Imported \"Big Barn.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Big Barn.glb",
+  "tags": [
+    "farm",
+    "buildings"
+  ]
+}

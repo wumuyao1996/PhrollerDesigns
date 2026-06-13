@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_floor",
+  "label": "Floor",
+  "file": "Floor.json",
+  "author": "Kenney",
+  "description": "Imported \"Floor.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "city_modern_modular_watertower",
+  "title": "Watertower",
+  "label": "Watertower",
+  "file": "city_modern_modular_watertower.json",
+  "author": "Kay Lousberg",
+  "description": "Loly-poly glb asset of Watertower.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "modern",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_modern_modular_watertower.glb"
+}

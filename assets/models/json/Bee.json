@@ -1,0 +1,12 @@
+{
+  "id": "animals_bee",
+  "label": "Bee",
+  "file": "Bee.json",
+  "author": "molochdadev",
+  "description": "Imported \"Bee.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bee.glb",
+  "tags": [
+    "animals"
+  ]
+}

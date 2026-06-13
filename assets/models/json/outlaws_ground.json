@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_ground",
+  "title": "Ground",
+  "label": "Ground",
+  "file": "outlaws_ground.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Ground.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_ground.glb"
+}

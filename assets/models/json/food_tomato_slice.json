@@ -1,0 +1,15 @@
+{
+  "id": "food_tomato_slice",
+  "title": "Tomato Slice",
+  "label": "Tomato Slice",
+  "file": "food_tomato_slice.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Tomato Slice.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_tomato_slice.glb"
+}

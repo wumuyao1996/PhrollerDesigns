@@ -1,0 +1,16 @@
+{
+  "id": "modular_platforming_spike_platform",
+  "title": "Spike Platform",
+  "label": "Spike Platform",
+  "file": "modular_platforming_spike_platform.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Spike Platform.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "platforming"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_platforming_spike_platform.glb"
+}

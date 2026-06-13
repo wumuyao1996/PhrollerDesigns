@@ -1,0 +1,12 @@
+{
+  "id": "food_hot_dog",
+  "label": "Hot Dog",
+  "file": "Hot Dog.json",
+  "author": "Kenney",
+  "description": "Imported \"Hot Dog.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Hot Dog.glb",
+  "tags": [
+    "food"
+  ]
+}

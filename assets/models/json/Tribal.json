@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_tribal",
+  "label": "Tribal",
+  "file": "Tribal.json",
+  "author": "Quaternius",
+  "description": "Imported \"Tribal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tribal.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

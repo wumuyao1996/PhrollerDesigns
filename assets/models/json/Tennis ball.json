@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_tennis_ball",
+  "label": "Tennis Ball",
+  "file": "Tennis ball.json",
+  "author": "dotRianne",
+  "description": "Imported \"Tennis ball.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tennis ball.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

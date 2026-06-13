@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_coin",
+  "label": "Coin",
+  "file": "Coin.json",
+  "author": "Quaternius",
+  "description": "Imported \"Coin.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Coin.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

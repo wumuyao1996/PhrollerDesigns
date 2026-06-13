@@ -1,0 +1,12 @@
+{
+  "id": "food_cauliflower",
+  "label": "Cauliflower",
+  "file": "Cauliflower.json",
+  "author": "Kenney",
+  "description": "Imported \"Cauliflower.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cauliflower.glb",
+  "tags": [
+    "food"
+  ]
+}

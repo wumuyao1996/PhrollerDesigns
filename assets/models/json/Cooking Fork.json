@@ -1,0 +1,12 @@
+{
+  "id": "food_cooking_fork",
+  "label": "Cooking Fork",
+  "file": "Cooking Fork.json",
+  "author": "Kenney",
+  "description": "Imported \"Cooking Fork.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cooking Fork.glb",
+  "tags": [
+    "food"
+  ]
+}

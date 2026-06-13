@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_cobblestone_tile",
+  "label": "Cobblestone Tile",
+  "file": "Cobblestone tile.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cobblestone tile.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cobblestone tile.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

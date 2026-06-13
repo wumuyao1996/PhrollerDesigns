@@ -1,0 +1,12 @@
+{
+  "id": "furniture_kitchen_sink",
+  "label": "Kitchen Sink",
+  "file": "Kitchen Sink.json",
+  "author": "Kenney",
+  "description": "Imported \"Kitchen Sink.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Kitchen Sink.glb",
+  "tags": [
+    "furniture"
+  ]
+}

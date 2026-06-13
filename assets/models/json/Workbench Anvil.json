@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_workbench_anvil",
+  "label": "Workbench Anvil",
+  "file": "Workbench Anvil.json",
+  "author": "Kenney",
+  "description": "Imported \"Workbench Anvil.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Workbench Anvil.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

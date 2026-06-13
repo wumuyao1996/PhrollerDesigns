@@ -1,0 +1,12 @@
+{
+  "id": "furniture_toilet_square",
+  "label": "Toilet Square",
+  "file": "Toilet Square.json",
+  "author": "Kenney",
+  "description": "Imported \"Toilet Square.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Toilet Square.glb",
+  "tags": [
+    "furniture"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_meat_sausage",
+  "label": "Meat Sausage",
+  "file": "Meat Sausage.json",
+  "author": "Kenney",
+  "description": "Imported \"Meat Sausage.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Meat Sausage.glb",
+  "tags": [
+    "food"
+  ]
+}

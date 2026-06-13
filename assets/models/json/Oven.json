@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_oven",
+  "label": "Oven",
+  "file": "Oven.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Oven.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Oven.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

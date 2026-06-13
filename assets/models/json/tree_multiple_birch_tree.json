@@ -1,0 +1,16 @@
+{
+  "id": "tree_multiple_birch_tree",
+  "title": "Birch Tree",
+  "label": "Birch Tree",
+  "file": "tree_multiple_birch_tree.json",
+  "author": "NicolasBrueckner",
+  "description": "Loly-poly glb asset of Birch Tree.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "tree",
+    "multiple"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/tree_multiple_birch_tree.glb"
+}

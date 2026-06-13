@@ -1,0 +1,12 @@
+{
+  "id": "cosmetic_cowboy_hat",
+  "label": "Cowboy Hat",
+  "file": "Cowboy Hat.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Cowboy Hat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cowboy Hat.glb",
+  "tags": [
+    "cosmetic"
+  ]
+}

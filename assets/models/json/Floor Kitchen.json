@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_floor_kitchen",
+  "label": "Floor Kitchen",
+  "file": "Floor Kitchen.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Floor Kitchen.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor Kitchen.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

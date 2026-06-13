@@ -1,0 +1,12 @@
+{
+  "id": "pirate_mako",
+  "label": "Mako",
+  "file": "Mako.json",
+  "author": "Quaternius",
+  "description": "Imported \"Mako.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Mako.glb",
+  "tags": [
+    "pirate"
+  ]
+}

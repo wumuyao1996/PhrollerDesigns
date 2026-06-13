@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_candle",
+  "label": "Candle",
+  "file": "Candle.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Candle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Candle.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "guns_modern_tripod",
+  "title": "Tripod",
+  "label": "Tripod",
+  "file": "guns_modern_tripod.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Tripod.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "guns",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/guns_modern_tripod.glb"
+}

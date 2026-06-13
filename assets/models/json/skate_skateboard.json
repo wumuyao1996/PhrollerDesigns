@@ -1,0 +1,15 @@
+{
+  "id": "skate_skateboard",
+  "title": "Skateboard",
+  "label": "Skateboard",
+  "file": "skate_skateboard.json",
+  "author": "Kenney",
+  "description": "Loly-poly glb asset of Skateboard.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "skate"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/skate_skateboard.glb"
+}

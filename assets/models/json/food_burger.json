@@ -1,0 +1,15 @@
+{
+  "id": "food_burger",
+  "title": "Burger",
+  "label": "Burger",
+  "file": "food_burger.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Burger.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_burger.glb"
+}

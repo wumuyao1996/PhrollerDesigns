@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_ninja",
+  "label": "Ninja",
+  "file": "Ninja.json",
+  "author": "Quaternius",
+  "description": "Imported \"Ninja.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ninja.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

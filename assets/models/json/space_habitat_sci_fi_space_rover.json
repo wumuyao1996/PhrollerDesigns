@@ -1,0 +1,17 @@
+{
+  "id": "space_habitat_sci_fi_space_rover",
+  "title": "Space Rover",
+  "label": "Space Rover",
+  "file": "space_habitat_sci_fi_space_rover.json",
+  "author": "Crispy_Prawn",
+  "description": "Loly-poly glb asset of Space Rover.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "space",
+    "habitat",
+    "sci-fi"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/space_habitat_sci_fi_space_rover.glb"
+}

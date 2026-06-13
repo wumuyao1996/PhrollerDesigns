@@ -1,0 +1,13 @@
+{
+  "id": "women_modular_suit",
+  "label": "Suit",
+  "file": "Suit.json",
+  "author": "Quaternius",
+  "description": "Imported \"Suit.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Suit.glb",
+  "tags": [
+    "women",
+    "modular"
+  ]
+}

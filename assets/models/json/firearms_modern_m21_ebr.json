@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_m21_ebr",
+  "title": "M21 EBR",
+  "label": "M21 EBR",
+  "file": "firearms_modern_m21_ebr.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of M21 EBR.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_m21_ebr.glb"
+}

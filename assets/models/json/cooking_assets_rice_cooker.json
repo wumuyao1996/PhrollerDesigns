@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_rice_cooker",
+  "title": "Rice Cooker",
+  "label": "Rice Cooker",
+  "file": "cooking_assets_rice_cooker.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Rice Cooker.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_rice_cooker.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_trash_bin",
+  "title": "Trash Bin",
+  "label": "Trash Bin",
+  "file": "office_modular_trash_bin.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Trash Bin.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_trash_bin.glb"
+}

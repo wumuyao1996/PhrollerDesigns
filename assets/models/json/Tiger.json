@@ -1,0 +1,12 @@
+{
+  "id": "animals_tiger",
+  "label": "Tiger",
+  "file": "Tiger.json",
+  "author": "molochdadev",
+  "description": "Imported \"Tiger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Tiger.glb",
+  "tags": [
+    "animals"
+  ]
+}

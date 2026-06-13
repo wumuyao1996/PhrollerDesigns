@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_electric_oven",
+  "title": "Electric Oven",
+  "label": "Electric Oven",
+  "file": "cooking_assets_electric_oven.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Electric Oven.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_electric_oven.glb"
+}

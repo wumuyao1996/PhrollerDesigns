@@ -1,0 +1,12 @@
+{
+  "id": "food_cooking_knife",
+  "label": "Cooking Knife",
+  "file": "Cooking Knife.json",
+  "author": "Kenney",
+  "description": "Imported \"Cooking Knife.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cooking Knife.glb",
+  "tags": [
+    "food"
+  ]
+}

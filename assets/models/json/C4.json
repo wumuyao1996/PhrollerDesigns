@@ -1,0 +1,13 @@
+{
+  "id": "fps_shooter_c4",
+  "label": "C4",
+  "file": "C4.json",
+  "author": "J-Toastie",
+  "description": "Imported \"C4.glb\" from asset pack.",
+  "artist_url": "https: //poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/C4.glb",
+  "tags": [
+    "fps",
+    "shooter"
+  ]
+}

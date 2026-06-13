@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_flag",
+  "label": "Flag",
+  "file": "Flag.json",
+  "author": "dotRianne",
+  "description": "Imported \"Flag.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Flag.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

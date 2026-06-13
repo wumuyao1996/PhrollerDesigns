@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_armor_leather",
+  "label": "Armor Leather",
+  "file": "Armor Leather.json",
+  "author": "Quaternius",
+  "description": "Imported \"Armor Leather.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Armor Leather.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

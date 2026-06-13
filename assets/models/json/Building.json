@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_building",
+  "label": "Building",
+  "file": "Building.json",
+  "author": "dotRianne",
+  "description": "Imported \"Building.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Building.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

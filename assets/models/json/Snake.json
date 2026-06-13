@@ -1,0 +1,12 @@
+{
+  "id": "enemies_snake",
+  "label": "Snake",
+  "file": "Snake.json",
+  "author": "Quaternius",
+  "description": "Imported \"Snake.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Snake.glb",
+  "tags": [
+    "enemies"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "shooter_character_enemy",
+  "label": "Character Enemy",
+  "file": "Character Enemy.json",
+  "author": "Quaternius",
+  "description": "Imported \"Character Enemy.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Character Enemy.glb",
+  "tags": [
+    "shooter"
+  ]
+}

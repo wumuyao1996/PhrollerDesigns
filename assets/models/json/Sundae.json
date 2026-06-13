@@ -1,0 +1,12 @@
+{
+  "id": "food_sundae",
+  "label": "Sundae",
+  "file": "Sundae.json",
+  "author": "Kenney",
+  "description": "Imported \"Sundae.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sundae.glb",
+  "tags": [
+    "food"
+  ]
+}

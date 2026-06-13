@@ -1,0 +1,16 @@
+{
+  "id": "camping_modular_island",
+  "title": "Island",
+  "label": "Island",
+  "file": "camping_modular_island.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Island.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "camping",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/camping_modular_island.glb"
+}

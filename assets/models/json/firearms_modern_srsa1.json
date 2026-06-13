@@ -1,0 +1,16 @@
+{
+  "id": "firearms_modern_srsa1",
+  "title": "SRSA1",
+  "label": "SRSA1",
+  "file": "firearms_modern_srsa1.json",
+  "author": "austincford",
+  "description": "Loly-poly glb asset of SRSA1.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "firearms",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/firearms_modern_srsa1.glb"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "vrc_rug_round",
+  "title": "Rug Round",
+  "label": "Rug Round",
+  "file": "vrc_rug_round.json",
+  "author": "J-Toastie",
+  "description": "Loly-poly glb asset of Rug Round.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "vrc"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/vrc_rug_round.glb"
+}

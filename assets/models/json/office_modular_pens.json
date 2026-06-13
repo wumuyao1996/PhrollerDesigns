@@ -1,0 +1,16 @@
+{
+  "id": "office_modular_pens",
+  "title": "Pens",
+  "label": "Pens",
+  "file": "office_modular_pens.json",
+  "author": "dook",
+  "description": "Loly-poly glb asset of Pens.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "office",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/office_modular_pens.glb"
+}

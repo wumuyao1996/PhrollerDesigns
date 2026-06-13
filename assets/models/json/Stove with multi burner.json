@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_stove_with_multi_burner",
+  "label": "Stove With Multi Burner",
+  "file": "Stove with multi burner.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Stove with multi burner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stove with multi burner.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

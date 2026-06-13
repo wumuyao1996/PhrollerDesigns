@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_horse",
+  "title": "Horse",
+  "label": "Horse",
+  "file": "outlaws_horse.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Horse.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_horse.glb"
+}

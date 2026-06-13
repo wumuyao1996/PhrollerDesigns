@@ -1,0 +1,12 @@
+{
+  "id": "food_egg_cup",
+  "label": "Egg Cup",
+  "file": "Egg Cup.json",
+  "author": "Kenney",
+  "description": "Imported \"Egg Cup.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Egg Cup.glb",
+  "tags": [
+    "food"
+  ]
+}

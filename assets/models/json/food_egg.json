@@ -1,0 +1,15 @@
+{
+  "id": "food_egg",
+  "title": "Egg",
+  "label": "Egg",
+  "file": "food_egg.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Egg.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_egg.glb"
+}

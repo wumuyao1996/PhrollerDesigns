@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_goldfish",
+  "label": "Goldfish",
+  "file": "Goldfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Goldfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Goldfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

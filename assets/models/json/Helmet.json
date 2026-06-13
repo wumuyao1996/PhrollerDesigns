@@ -1,0 +1,14 @@
+{
+  "id": "random_fantasy_props_helmet",
+  "label": "Helmet",
+  "file": "Helmet.json",
+  "author": "CreativeTechLab",
+  "description": "Imported \"Helmet.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Helmet.glb",
+  "tags": [
+    "random",
+    "fantasy",
+    "props"
+  ]
+}

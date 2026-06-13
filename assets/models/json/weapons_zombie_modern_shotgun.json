@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_shotgun",
+  "title": "Shotgun",
+  "label": "Shotgun",
+  "file": "weapons_zombie_modern_shotgun.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Shotgun.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_shotgun.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_rice_paddle",
+  "title": "Rice Paddle",
+  "label": "Rice Paddle",
+  "file": "cooking_assets_rice_paddle.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Rice Paddle.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_rice_paddle.glb"
+}

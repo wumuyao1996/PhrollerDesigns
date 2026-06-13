@@ -1,0 +1,12 @@
+{
+  "id": "building_grey_door",
+  "label": "Grey Door",
+  "file": "Grey Door.json",
+  "author": "Kenney",
+  "description": "Imported \"Grey Door.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Grey Door.glb",
+  "tags": [
+    "building"
+  ]
+}

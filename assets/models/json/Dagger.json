@@ -1,0 +1,12 @@
+{
+  "id": "pirate_dagger",
+  "label": "Dagger",
+  "file": "Dagger.json",
+  "author": "Quaternius",
+  "description": "Imported \"Dagger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dagger.glb",
+  "tags": [
+    "pirate"
+  ]
+}

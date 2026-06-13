@@ -1,0 +1,16 @@
+{
+  "id": "scifi_turrets_shield_turret",
+  "title": "Shield Turret",
+  "label": "Shield Turret",
+  "file": "scifi_turrets_shield_turret.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Shield Turret.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "scifi",
+    "turrets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/scifi_turrets_shield_turret.glb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_dirt_floor_tile",
+  "label": "Dirt Floor Tile",
+  "file": "Dirt Floor Tile.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Dirt Floor Tile.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dirt Floor Tile.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

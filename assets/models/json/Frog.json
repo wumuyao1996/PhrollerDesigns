@@ -1,0 +1,12 @@
+{
+  "id": "enemies_frog",
+  "label": "Frog",
+  "file": "Frog.json",
+  "author": "Quaternius",
+  "description": "Imported \"Frog.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Frog.glb",
+  "tags": [
+    "enemies"
+  ]
+}

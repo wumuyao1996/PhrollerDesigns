@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_alpaking",
+  "label": "Alpaking",
+  "file": "Alpaking.json",
+  "author": "Quaternius",
+  "description": "Imported \"Alpaking.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Alpaking.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

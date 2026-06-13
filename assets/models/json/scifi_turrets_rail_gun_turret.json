@@ -1,0 +1,16 @@
+{
+  "id": "scifi_turrets_rail_gun_turret",
+  "title": "Rail Gun Turret",
+  "label": "Rail Gun Turret",
+  "file": "scifi_turrets_rail_gun_turret.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Rail Gun Turret.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "scifi",
+    "turrets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/scifi_turrets_rail_gun_turret.glb"
+}

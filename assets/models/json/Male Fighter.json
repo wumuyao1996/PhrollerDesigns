@@ -1,0 +1,12 @@
+{
+  "id": "characters_male_fighter",
+  "label": "Male Fighter",
+  "file": "Male Fighter.json",
+  "author": "mastjie",
+  "description": "Imported \"Male Fighter.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Male Fighter.glb",
+  "tags": [
+    "characters"
+  ]
+}

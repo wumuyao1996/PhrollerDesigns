@@ -1,0 +1,17 @@
+{
+  "id": "outdoor_decor_props_cup",
+  "title": "Cup",
+  "label": "Cup",
+  "file": "outdoor_decor_props_cup.json",
+  "author": "Zsky",
+  "description": "Loly-poly glb asset of Cup.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outdoor",
+    "decor",
+    "props"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outdoor_decor_props_cup.glb"
+}

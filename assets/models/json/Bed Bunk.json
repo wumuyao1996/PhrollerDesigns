@@ -1,0 +1,12 @@
+{
+  "id": "furniture_bed_bunk",
+  "label": "Bed Bunk",
+  "file": "Bed Bunk.json",
+  "author": "Kenney",
+  "description": "Imported \"Bed Bunk.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bed Bunk.glb",
+  "tags": [
+    "furniture"
+  ]
+}

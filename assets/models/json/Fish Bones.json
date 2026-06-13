@@ -1,0 +1,12 @@
+{
+  "id": "food_fish_bones",
+  "label": "Fish Bones",
+  "file": "Fish Bones.json",
+  "author": "Kenney",
+  "description": "Imported \"Fish Bones.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fish Bones.glb",
+  "tags": [
+    "food"
+  ]
+}

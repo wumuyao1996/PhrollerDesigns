@@ -1,0 +1,13 @@
+{
+  "id": "household_props_rocking_chair",
+  "label": "Rocking Chair",
+  "file": "Rocking Chair.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Rocking Chair.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Rocking Chair.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

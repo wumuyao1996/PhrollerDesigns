@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_crate_of_ham",
+  "label": "Crate Of Ham",
+  "file": "Crate of Ham.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Crate of Ham.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Crate of Ham.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

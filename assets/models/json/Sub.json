@@ -1,0 +1,12 @@
+{
+  "id": "food_sub",
+  "label": "Sub",
+  "file": "Sub.json",
+  "author": "Kenney",
+  "description": "Imported \"Sub.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sub.glb",
+  "tags": [
+    "food"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_burger_cheese",
+  "label": "Burger Cheese",
+  "file": "Burger Cheese.json",
+  "author": "Kenney",
+  "description": "Imported \"Burger Cheese.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Burger Cheese.glb",
+  "tags": [
+    "food"
+  ]
+}

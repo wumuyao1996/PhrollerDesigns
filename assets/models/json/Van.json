@@ -1,0 +1,12 @@
+{
+  "id": "city_van",
+  "label": "Van",
+  "file": "Van.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Van.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Van.glb",
+  "tags": [
+    "city"
+  ]
+}

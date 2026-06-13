@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_axe_small",
+  "label": "Axe Small",
+  "file": "Axe Small.json",
+  "author": "Quaternius",
+  "description": "Imported \"Axe Small.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Axe Small.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

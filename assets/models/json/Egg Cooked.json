@@ -1,0 +1,12 @@
+{
+  "id": "food_egg_cooked",
+  "label": "Egg Cooked",
+  "file": "Egg Cooked.json",
+  "author": "Kenney",
+  "description": "Imported \"Egg Cooked.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Egg Cooked.glb",
+  "tags": [
+    "food"
+  ]
+}

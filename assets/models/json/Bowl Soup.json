@@ -1,0 +1,12 @@
+{
+  "id": "food_bowl_soup",
+  "label": "Bowl Soup",
+  "file": "Bowl Soup.json",
+  "author": "Kenney",
+  "description": "Imported \"Bowl Soup.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bowl Soup.glb",
+  "tags": [
+    "food"
+  ]
+}

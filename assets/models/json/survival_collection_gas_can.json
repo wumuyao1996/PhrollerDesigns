@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_gas_can",
+  "title": "Gas Can",
+  "label": "Gas Can",
+  "file": "survival_collection_gas_can.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Gas Can.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_gas_can.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_table_with_food",
+  "label": "Table With Food",
+  "file": "Table with food.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Table with food.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Table with food.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

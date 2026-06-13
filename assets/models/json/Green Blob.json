@@ -1,0 +1,13 @@
+{
+  "id": "monsters_enemies_green_blob",
+  "label": "Green Blob",
+  "file": "Green Blob.json",
+  "author": "Quaternius",
+  "description": "Imported \"Green Blob.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Green Blob.glb",
+  "tags": [
+    "monsters",
+    "enemies"
+  ]
+}

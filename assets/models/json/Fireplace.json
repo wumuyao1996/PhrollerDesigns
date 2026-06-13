@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_fireplace",
+  "label": "Fireplace",
+  "file": "Fireplace.json",
+  "author": "Zsky",
+  "description": "Imported \"Fireplace.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Fireplace.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

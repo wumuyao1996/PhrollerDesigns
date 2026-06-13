@@ -1,0 +1,12 @@
+{
+  "id": "building_wall_window_square",
+  "label": "Wall Window Square",
+  "file": "Wall Window Square.json",
+  "author": "Kenney",
+  "description": "Imported \"Wall Window Square.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Window Square.glb",
+  "tags": [
+    "building"
+  ]
+}

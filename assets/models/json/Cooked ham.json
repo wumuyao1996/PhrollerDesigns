@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_cooked_ham",
+  "label": "Cooked Ham",
+  "file": "Cooked ham.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cooked ham.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cooked ham.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

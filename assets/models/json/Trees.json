@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_trees",
+  "label": "Trees",
+  "file": "Trees.json",
+  "author": "Player11132",
+  "description": "Imported \"Trees.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Trees.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

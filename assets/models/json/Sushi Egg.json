@@ -1,0 +1,12 @@
+{
+  "id": "food_sushi_egg",
+  "label": "Sushi Egg",
+  "file": "Sushi Egg.json",
+  "author": "Kenney",
+  "description": "Imported \"Sushi Egg.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Sushi Egg.glb",
+  "tags": [
+    "food"
+  ]
+}

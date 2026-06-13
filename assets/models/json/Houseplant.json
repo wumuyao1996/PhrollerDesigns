@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_houseplant",
+  "label": "Houseplant",
+  "file": "Houseplant.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Houseplant.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Houseplant.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

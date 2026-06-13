@@ -1,0 +1,13 @@
+{
+  "id": "women_modular_soldier",
+  "label": "Soldier",
+  "file": "Soldier.json",
+  "author": "Quaternius",
+  "description": "Imported \"Soldier.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Soldier.glb",
+  "tags": [
+    "women",
+    "modular"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "race_driving_helicopter",
+  "label": "Helicopter",
+  "file": "Helicopter.json",
+  "author": "Player11132",
+  "description": "Imported \"Helicopter.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Helicopter.glb",
+  "tags": [
+    "race",
+    "driving"
+  ]
+}

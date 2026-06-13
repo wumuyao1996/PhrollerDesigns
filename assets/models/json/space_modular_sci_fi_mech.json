@@ -1,0 +1,17 @@
+{
+  "id": "space_modular_sci_fi_mech",
+  "title": "Mech",
+  "label": "Mech",
+  "file": "space_modular_sci_fi_mech.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Mech.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "space",
+    "modular",
+    "sci-fi"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/space_modular_sci_fi_mech.glb"
+}

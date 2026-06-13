@@ -1,0 +1,12 @@
+{
+  "id": "bottles_old_bottle",
+  "label": "Old Bottle",
+  "file": "Old Bottle.json",
+  "author": "MiniPoly",
+  "description": "Imported \"Old Bottle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Old Bottle.glb",
+  "tags": [
+    "bottles"
+  ]
+}

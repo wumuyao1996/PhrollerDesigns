@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_lettuce_cut",
+  "label": "Lettuce Cut",
+  "file": "Lettuce cut.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lettuce cut.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lettuce cut.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

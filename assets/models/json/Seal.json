@@ -1,0 +1,12 @@
+{
+  "id": "animals_seal",
+  "label": "Seal",
+  "file": "Seal.json",
+  "author": "molochdadev",
+  "description": "Imported \"Seal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Seal.glb",
+  "tags": [
+    "animals"
+  ]
+}

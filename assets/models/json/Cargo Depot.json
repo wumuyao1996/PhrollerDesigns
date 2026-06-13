@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_cargo_depot",
+  "label": "Cargo Depot",
+  "file": "Cargo Depot.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Cargo Depot.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Cargo Depot.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "modern_gun_shooter_assault_rifle",
+  "label": "Assault Rifle",
+  "file": "Assault Rifle.json",
+  "author": "Zsky",
+  "description": "Imported \"Assault Rifle.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Assault Rifle.glb",
+  "tags": [
+    "modern",
+    "gun",
+    "shooter"
+  ]
+}

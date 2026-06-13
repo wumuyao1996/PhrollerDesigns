@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_lid_large",
+  "label": "Lid Large",
+  "file": "Lid Large.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lid Large.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lid Large.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

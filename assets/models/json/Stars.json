@@ -1,0 +1,12 @@
+{
+  "id": "christmas_stars",
+  "label": "Stars",
+  "file": "Stars.json",
+  "author": "MiniPoly",
+  "description": "Imported \"Stars.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Stars.glb",
+  "tags": [
+    "christmas"
+  ]
+}

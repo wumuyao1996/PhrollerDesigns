@@ -1,0 +1,12 @@
+{
+  "id": "city_man",
+  "label": "Man",
+  "file": "Man.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Man.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Man.glb",
+  "tags": [
+    "city"
+  ]
+}

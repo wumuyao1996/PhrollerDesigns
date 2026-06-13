@@ -1,0 +1,16 @@
+{
+  "id": "cube_voxel_sword_stone",
+  "title": "Sword Stone",
+  "label": "Sword Stone",
+  "file": "cube_voxel_sword_stone.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Sword Stone.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cube",
+    "voxel"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cube_voxel_sword_stone.glb"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coffeehouse_lounge_barstool",
+  "label": "Barstool",
+  "file": "Barstool.json",
+  "author": "majesticmaje",
+  "description": "Imported \"Barstool.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Barstool.glb",
+  "tags": [
+    "coffeehouse",
+    "lounge"
+  ]
+}

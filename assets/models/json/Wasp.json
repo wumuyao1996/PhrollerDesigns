@@ -1,0 +1,12 @@
+{
+  "id": "enemies_wasp",
+  "label": "Wasp",
+  "file": "Wasp.json",
+  "author": "Quaternius",
+  "description": "Imported \"Wasp.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wasp.glb",
+  "tags": [
+    "enemies"
+  ]
+}

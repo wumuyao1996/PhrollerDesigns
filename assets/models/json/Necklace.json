@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_necklace",
+  "label": "Necklace",
+  "file": "Necklace.json",
+  "author": "Quaternius",
+  "description": "Imported \"Necklace.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Necklace.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_knife_block",
+  "label": "Knife Block",
+  "file": "Knife Block.json",
+  "author": "Kenney",
+  "description": "Imported \"Knife Block.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Knife Block.glb",
+  "tags": [
+    "food"
+  ]
+}

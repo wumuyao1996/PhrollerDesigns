@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_turbine",
+  "label": "Turbine",
+  "file": "Turbine.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Turbine.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Turbine.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

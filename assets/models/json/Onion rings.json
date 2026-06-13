@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_onion_rings",
+  "label": "Onion Rings",
+  "file": "Onion rings.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Onion rings.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Onion rings.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_whipped_cream",
+  "label": "Whipped Cream",
+  "file": "Whipped Cream.json",
+  "author": "Kenney",
+  "description": "Imported \"Whipped Cream.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Whipped Cream.glb",
+  "tags": [
+    "food"
+  ]
+}

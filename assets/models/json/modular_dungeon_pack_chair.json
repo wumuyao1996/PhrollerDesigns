@@ -1,0 +1,17 @@
+{
+  "id": "modular_dungeon_pack_chair",
+  "title": "Chair",
+  "label": "Chair",
+  "file": "modular_dungeon_pack_chair.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Chair.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "modular",
+    "dungeon",
+    "pack"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/modular_dungeon_pack_chair.glb"
+}

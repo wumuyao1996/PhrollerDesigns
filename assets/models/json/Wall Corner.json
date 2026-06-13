@@ -1,0 +1,12 @@
+{
+  "id": "building_wall_corner",
+  "label": "Wall Corner",
+  "file": "Wall Corner.json",
+  "author": "Kenney",
+  "description": "Imported \"Wall Corner.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Wall Corner.glb",
+  "tags": [
+    "building"
+  ]
+}

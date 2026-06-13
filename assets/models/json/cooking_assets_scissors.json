@@ -1,0 +1,16 @@
+{
+  "id": "cooking_assets_scissors",
+  "title": "Scissors",
+  "label": "Scissors",
+  "file": "cooking_assets_scissors.json",
+  "author": "MilkAndBanana",
+  "description": "Loly-poly glb asset of Scissors.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cooking",
+    "assets"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cooking_assets_scissors.glb"
+}

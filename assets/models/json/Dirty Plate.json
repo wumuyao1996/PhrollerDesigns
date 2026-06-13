@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_dirty_plate",
+  "label": "Dirty Plate",
+  "file": "Dirty Plate.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Dirty Plate.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Dirty Plate.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

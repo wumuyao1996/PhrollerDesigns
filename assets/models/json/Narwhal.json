@@ -1,0 +1,12 @@
+{
+  "id": "animals_narwhal",
+  "label": "Narwhal",
+  "file": "Narwhal.json",
+  "author": "molochdadev",
+  "description": "Imported \"Narwhal.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Narwhal.glb",
+  "tags": [
+    "animals"
+  ]
+}

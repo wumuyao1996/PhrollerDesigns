@@ -1,0 +1,12 @@
+{
+  "id": "building_floor_quarter",
+  "label": "Floor Quarter",
+  "file": "Floor Quarter.json",
+  "author": "Kenney",
+  "description": "Imported \"Floor Quarter.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Floor Quarter.glb",
+  "tags": [
+    "building"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_hand_saw",
+  "title": "Hand Saw",
+  "label": "Hand Saw",
+  "file": "outlaws_hand_saw.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Hand Saw.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_hand_saw.glb"
+}

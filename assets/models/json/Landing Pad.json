@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_landing_pad",
+  "label": "Landing Pad",
+  "file": "Landing Pad.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Landing Pad.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Landing Pad.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

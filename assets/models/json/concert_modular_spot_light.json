@@ -1,0 +1,16 @@
+{
+  "id": "concert_modular_spot_light",
+  "title": "Spot Light",
+  "label": "Spot Light",
+  "file": "concert_modular_spot_light.json",
+  "author": "iPoly3D",
+  "description": "Loly-poly glb asset of Spot Light.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "concert",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/concert_modular_spot_light.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_manatee",
+  "label": "Manatee",
+  "file": "Manatee.json",
+  "author": "molochdadev",
+  "description": "Imported \"Manatee.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Manatee.glb",
+  "tags": [
+    "animals"
+  ]
+}

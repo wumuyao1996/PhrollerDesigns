@@ -1,0 +1,12 @@
+{
+  "id": "furniture_washer",
+  "label": "Washer",
+  "file": "Washer.json",
+  "author": "Kenney",
+  "description": "Imported \"Washer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Washer.glb",
+  "tags": [
+    "furniture"
+  ]
+}

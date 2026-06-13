@@ -1,0 +1,13 @@
+{
+  "id": "household_props_bookshelf",
+  "label": "Bookshelf",
+  "file": "Bookshelf.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Bookshelf.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Bookshelf.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

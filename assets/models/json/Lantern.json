@@ -1,0 +1,14 @@
+{
+  "id": "halloween_modular_graveyard_lantern",
+  "label": "Lantern",
+  "file": "Lantern.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lantern.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lantern.glb",
+  "tags": [
+    "halloween",
+    "modular",
+    "graveyard"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_bull",
+  "title": "Bull",
+  "label": "Bull",
+  "file": "outlaws_bull.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Bull.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_bull.glb"
+}

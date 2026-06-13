@@ -1,0 +1,12 @@
+{
+  "id": "food_can_open",
+  "label": "Can Open",
+  "file": "Can Open.json",
+  "author": "Kenney",
+  "description": "Imported \"Can Open.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Can Open.glb",
+  "tags": [
+    "food"
+  ]
+}

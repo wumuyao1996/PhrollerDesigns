@@ -1,0 +1,16 @@
+{
+  "id": "guns_modern_shotgun_sawed_off",
+  "title": "Shotgun Sawed Off",
+  "label": "Shotgun Sawed Off",
+  "file": "guns_modern_shotgun_sawed_off.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Shotgun Sawed Off.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "guns",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/guns_modern_shotgun_sawed_off.glb"
+}

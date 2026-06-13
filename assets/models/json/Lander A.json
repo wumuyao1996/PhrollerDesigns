@@ -1,0 +1,13 @@
+{
+  "id": "space_sci_fi_lander_a",
+  "label": "Lander A",
+  "file": "Lander A.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Lander A.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Lander A.glb",
+  "tags": [
+    "space",
+    "sci-fi"
+  ]
+}

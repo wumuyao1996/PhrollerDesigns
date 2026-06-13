@@ -1,0 +1,16 @@
+{
+  "id": "cars_modern_suv",
+  "title": "SUV",
+  "label": "SUV",
+  "file": "cars_modern_suv.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of SUV.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "cars",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/cars_modern_suv.glb"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_salamander",
+  "label": "Salamander",
+  "file": "Salamander.json",
+  "author": "molochdadev",
+  "description": "Imported \"Salamander.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Salamander.glb",
+  "tags": [
+    "animals"
+  ]
+}

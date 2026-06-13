@@ -1,0 +1,13 @@
+{
+  "id": "fishing_fish_anglerfish",
+  "label": "Anglerfish",
+  "file": "Anglerfish.json",
+  "author": "Quaternius",
+  "description": "Imported \"Anglerfish.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Anglerfish.glb",
+  "tags": [
+    "fishing",
+    "fish"
+  ]
+}

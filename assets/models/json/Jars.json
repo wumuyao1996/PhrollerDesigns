@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_jars",
+  "label": "Jars",
+  "file": "Jars.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Jars.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Jars.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_knife",
+  "title": "Knife",
+  "label": "Knife",
+  "file": "outlaws_knife.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Knife.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_knife.glb"
+}

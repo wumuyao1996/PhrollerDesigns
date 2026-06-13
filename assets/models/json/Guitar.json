@@ -1,0 +1,14 @@
+{
+  "id": "modern_interior_prop_guitar",
+  "label": "Guitar",
+  "file": "Guitar.json",
+  "author": "Zsky",
+  "description": "Imported \"Guitar.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Guitar.glb",
+  "tags": [
+    "modern",
+    "interior",
+    "prop"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "animals_skunk",
+  "label": "Skunk",
+  "file": "Skunk.json",
+  "author": "molochdadev",
+  "description": "Imported \"Skunk.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Skunk.glb",
+  "tags": [
+    "animals"
+  ]
+}

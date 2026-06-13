@@ -1,0 +1,12 @@
+{
+  "id": "city_atm",
+  "label": "ATM",
+  "file": "ATM.json",
+  "author": "J-Toastie",
+  "description": "Imported \"ATM.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/ATM.glb",
+  "tags": [
+    "city"
+  ]
+}

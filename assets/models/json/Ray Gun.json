@@ -1,0 +1,14 @@
+{
+  "id": "sci_fi_gun_shooter_ray_gun",
+  "label": "Ray Gun",
+  "file": "Ray Gun.json",
+  "author": "Quaternius",
+  "description": "Imported \"Ray Gun.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Ray Gun.glb",
+  "tags": [
+    "sci-fi",
+    "gun",
+    "shooter"
+  ]
+}

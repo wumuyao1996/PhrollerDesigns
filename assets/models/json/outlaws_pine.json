@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_pine",
+  "title": "Pine",
+  "label": "Pine",
+  "file": "outlaws_pine.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Pine.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_pine.glb"
+}

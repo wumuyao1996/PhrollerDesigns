@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_potato_cut",
+  "label": "Potato Cut",
+  "file": "Potato Cut.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Potato Cut.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Potato Cut.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

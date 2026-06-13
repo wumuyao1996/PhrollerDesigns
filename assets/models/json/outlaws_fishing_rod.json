@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_fishing_rod",
+  "title": "Fishing Rod",
+  "label": "Fishing Rod",
+  "file": "outlaws_fishing_rod.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Fishing Rod.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_fishing_rod.glb"
+}

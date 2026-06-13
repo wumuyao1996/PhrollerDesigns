@@ -1,0 +1,12 @@
+{
+  "id": "women_woman",
+  "label": "Woman",
+  "file": "Woman.json",
+  "author": "Quaternius",
+  "description": "Imported \"Woman.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Woman.glb",
+  "tags": [
+    "women"
+  ]
+}

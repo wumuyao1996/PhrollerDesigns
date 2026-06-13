@@ -1,0 +1,13 @@
+{
+  "id": "restaurant_tavern_burnt_burger",
+  "label": "Burnt Burger",
+  "file": "Burnt Burger.json",
+  "author": "Kay Lousberg",
+  "description": "Imported \"Burnt Burger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Burnt Burger.glb",
+  "tags": [
+    "restaurant",
+    "tavern"
+  ]
+}

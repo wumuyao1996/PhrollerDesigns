@@ -1,0 +1,17 @@
+{
+  "id": "weapons_zombie_modern_hockey_stick",
+  "title": "Hockey Stick",
+  "label": "Hockey Stick",
+  "file": "weapons_zombie_modern_hockey_stick.json",
+  "author": "CreativeTrio",
+  "description": "Loly-poly glb asset of Hockey Stick.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "weapons",
+    "zombie",
+    "modern"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/weapons_zombie_modern_hockey_stick.glb"
+}

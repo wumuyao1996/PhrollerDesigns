@@ -1,0 +1,13 @@
+{
+  "id": "survival_camping_shovel",
+  "label": "Shovel",
+  "file": "Shovel.json",
+  "author": "Kenney",
+  "description": "Imported \"Shovel.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Shovel.glb",
+  "tags": [
+    "survival",
+    "camping"
+  ]
+}

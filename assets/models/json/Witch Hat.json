@@ -1,0 +1,12 @@
+{
+  "id": "cosmetic_witch_hat",
+  "label": "Witch Hat",
+  "file": "Witch Hat.json",
+  "author": "J-Toastie",
+  "description": "Imported \"Witch Hat.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Witch Hat.glb",
+  "tags": [
+    "cosmetic"
+  ]
+}

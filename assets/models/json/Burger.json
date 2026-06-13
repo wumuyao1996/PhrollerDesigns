@@ -1,0 +1,13 @@
+{
+  "id": "random_collection_burger",
+  "label": "Burger",
+  "file": "Burger.json",
+  "author": "dotRianne",
+  "description": "Imported \"Burger.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Burger.glb",
+  "tags": [
+    "random",
+    "collection"
+  ]
+}

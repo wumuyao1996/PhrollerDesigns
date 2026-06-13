@@ -1,0 +1,15 @@
+{
+  "id": "outlaws_cowboy_hat",
+  "title": "Cowboy Hat",
+  "label": "Cowboy Hat",
+  "file": "outlaws_cowboy_hat.json",
+  "author": "RyderGermain",
+  "description": "Loly-poly glb asset of Cowboy Hat.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "outlaws"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/outlaws_cowboy_hat.glb"
+}

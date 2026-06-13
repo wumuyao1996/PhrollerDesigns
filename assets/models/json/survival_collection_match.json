@@ -1,0 +1,16 @@
+{
+  "id": "survival_collection_match",
+  "title": "Match",
+  "label": "Match",
+  "file": "survival_collection_match.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Match.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "survival",
+    "collection"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/survival_collection_match.glb"
+}

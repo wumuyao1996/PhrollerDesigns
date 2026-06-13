@@ -1,0 +1,14 @@
+{
+  "id": "rpg_items_fantasy_doublesided_hammer",
+  "label": "Doublesided Hammer",
+  "file": "Doublesided Hammer.json",
+  "author": "Quaternius",
+  "description": "Imported \"Doublesided Hammer.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Doublesided Hammer.glb",
+  "tags": [
+    "rpg",
+    "items",
+    "fantasy"
+  ]
+}

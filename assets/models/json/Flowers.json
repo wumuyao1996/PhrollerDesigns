@@ -1,0 +1,13 @@
+{
+  "id": "household_props_flowers",
+  "label": "Flowers",
+  "file": "Flowers.json",
+  "author": "CreativeTrio",
+  "description": "Imported \"Flowers.glb\" from asset pack.",
+  "artist_url": "https://poly.pizza",
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/Flowers.glb",
+  "tags": [
+    "household",
+    "props"
+  ]
+}

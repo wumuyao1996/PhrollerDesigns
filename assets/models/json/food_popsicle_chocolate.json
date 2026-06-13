@@ -1,0 +1,15 @@
+{
+  "id": "food_popsicle_chocolate",
+  "title": "Popsicle Chocolate",
+  "label": "Popsicle Chocolate",
+  "file": "food_popsicle_chocolate.json",
+  "author": "Quaternius",
+  "description": "Loly-poly glb asset of Popsicle Chocolate.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "food"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/food_popsicle_chocolate.glb"
+}

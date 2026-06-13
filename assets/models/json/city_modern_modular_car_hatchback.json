@@ -1,0 +1,17 @@
+{
+  "id": "city_modern_modular_car_hatchback",
+  "title": "Car Hatchback",
+  "label": "Car Hatchback",
+  "file": "city_modern_modular_car_hatchback.json",
+  "author": "Kay Lousberg",
+  "description": "Loly-poly glb asset of Car Hatchback.",
+  "thumbnail": "",
+  "url": "https://poly.pizza/",
+  "artist_url": "https://poly.pizza",
+  "tags": [
+    "city",
+    "modern",
+    "modular"
+  ],
+  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/city_modern_modular_car_hatchback.glb"
+}
