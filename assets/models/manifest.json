@@ -24367,15 +24367,6 @@
     ]
   },
   {
-    "id": "restaurant_tavern_cheese_cut",
-    "label": "Cheese Cut",
-    "file": "Cheese cut.json",
-    "tags": [
-      "restaurant",
-      "tavern"
-    ]
-  },
-  {
     "id": "restaurant_tavern_cheese_slice",
     "label": "Cheese Slice",
     "file": "Cheese slice.json",
@@ -26763,15 +26754,6 @@
     ]
   },
   {
-    "id": "coffeehouse_lounge_door",
-    "label": "Door",
-    "file": "door.json",
-    "tags": [
-      "coffeehouse",
-      "lounge"
-    ]
-  },
-  {
     "id": "random_collection_apatosaurus",
     "label": "Apatosaurus",
     "file": "Apatosaurus.json",
@@ -28593,15 +28575,6 @@
     "id": "house_plants_plants_large_monstera",
     "label": "Large Monstera",
     "file": "Large Monstera.json",
-    "tags": [
-      "house plants",
-      "plants"
-    ]
-  },
-  {
-    "id": "house_plants_plants_large_pot",
-    "label": "Large Pot",
-    "file": "Large Pot.json",
     "tags": [
       "house plants",
       "plants"
@@ -31050,14 +31023,6 @@
     ]
   },
   {
-    "id": "furniture_round_table",
-    "label": "Round Table",
-    "file": "Round Table.json",
-    "tags": [
-      "furniture"
-    ]
-  },
-  {
     "id": "furniture_rug_doormat",
     "label": "Rug Doormat",
     "file": "Rug Doormat.json",
@@ -31109,14 +31074,6 @@
     "id": "furniture_side_table_drawers",
     "label": "Side Table Drawers",
     "file": "Side Table Drawers.json",
-    "tags": [
-      "furniture"
-    ]
-  },
-  {
-    "id": "furniture_side_table",
-    "label": "Side Table",
-    "file": "Side Table.json",
     "tags": [
       "furniture"
     ]
@@ -32017,15 +31974,6 @@
     ]
   },
   {
-    "id": "race_driving_ferris_wheel",
-    "label": "Ferris Wheel",
-    "file": "Ferris wheel.json",
-    "tags": [
-      "race",
-      "driving"
-    ]
-  },
-  {
     "id": "race_driving_fire_extinguisher",
     "label": "Fire Extinguisher",
     "file": "Fire Extinguisher.json",
@@ -32637,15 +32585,6 @@
     ]
   },
   {
-    "id": "household_props_baseball_bat",
-    "label": "Baseball Bat",
-    "file": "Baseball Bat.json",
-    "tags": [
-      "household",
-      "props"
-    ]
-  },
-  {
     "id": "household_props_bathroom_sink",
     "label": "Bathroom Sink",
     "file": "Bathroom Sink.json",
@@ -32793,15 +32732,6 @@
     "id": "household_props_couch",
     "label": "Couch",
     "file": "Couch.json",
-    "tags": [
-      "household",
-      "props"
-    ]
-  },
-  {
-    "id": "household_props_cup_of_tea",
-    "label": "Cup Of Tea",
-    "file": "Cup Of Tea.json",
     "tags": [
       "household",
       "props"
@@ -37992,16 +37922,6 @@
     ]
   },
   {
-    "id": "modern_interior_prop_baseball_bat",
-    "label": "Baseball Bat",
-    "file": "Baseball Bat.json",
-    "tags": [
-      "modern",
-      "interior",
-      "prop"
-    ]
-  },
-  {
     "id": "modern_interior_prop_basket_ball",
     "label": "Basket Ball",
     "file": "Basket Ball.json",
@@ -38135,16 +38055,6 @@
     "id": "modern_interior_prop_club_arm_chair",
     "label": "Club Arm Chair",
     "file": "Club Arm Chair.json",
-    "tags": [
-      "modern",
-      "interior",
-      "prop"
-    ]
-  },
-  {
-    "id": "modern_interior_prop_coffee_cup",
-    "label": "Coffee Cup",
-    "file": "Coffee Cup.json",
     "tags": [
       "modern",
       "interior",
@@ -38942,16 +38852,6 @@
     ]
   },
   {
-    "id": "modern_interior_prop_tv",
-    "label": "Tv",
-    "file": "Tv.json",
-    "tags": [
-      "modern",
-      "interior",
-      "prop"
-    ]
-  },
-  {
     "id": "modern_interior_prop_two_seater_couch",
     "label": "Two Seater Couch",
     "file": "Two Seater Couch.json",
@@ -39390,16 +39290,6 @@
     ]
   },
   {
-    "id": "halloween_modular_graveyard_dead_tree",
-    "label": "Dead Tree",
-    "file": "Dead tree.json",
-    "tags": [
-      "halloween",
-      "modular",
-      "graveyard"
-    ]
-  },
-  {
     "id": "halloween_modular_graveyard_dirt_floor_tile",
     "label": "Dirt Floor Tile",
     "file": "Dirt Floor Tile.json",
@@ -39826,14 +39716,6 @@
     ]
   },
   {
-    "id": "city_air_conditioner",
-    "label": "Air Conditioner",
-    "file": "Air conditioner.json",
-    "tags": [
-      "city"
-    ]
-  },
-  {
     "id": "city_animated_woman_niitlv9nxs",
     "label": "Animated Woman NIItLV9nxS",
     "file": "Animated Woman-nIItLV9nxS.json",
@@ -40021,14 +39903,6 @@
     "id": "city_fire_exit",
     "label": "Fire Exit",
     "file": "Fire Exit.json",
-    "tags": [
-      "city"
-    ]
-  },
-  {
-    "id": "city_fire_hydrant",
-    "label": "Fire Hydrant",
-    "file": "Fire hydrant.json",
     "tags": [
       "city"
     ]
