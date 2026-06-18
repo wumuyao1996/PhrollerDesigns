@@ -470,7 +470,7 @@
     ],
     "boardMaterialId": "felt",
     "boardShape": "tray",
-    "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/sareletyue_raccoon.png",
+    "boardDecalImagePath": "https://assets.phroller.com/images/sareletyue_raccoon.png",
     "boardDecalOriginalUrl": null,
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
@@ -491,8 +491,8 @@
     "boardDecals": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/sareletyue_raccoon.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/sareletyue_raccoon.png",
+        "imageId": "https://assets.phroller.com/images/sareletyue_raccoon.png",
+        "originalUrl": "https://assets.phroller.com/images/sareletyue_raccoon.png",
         "alignmentX": 0.0,
         "alignmentY": -0.050000000000000044,
         "scale": 1.4000000000000004,
@@ -506,8 +506,8 @@
     "boardDecalsLandscape": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/sareletyue_raccoon.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/sareletyue_raccoon.png",
+        "imageId": "https://assets.phroller.com/images/sareletyue_raccoon.png",
+        "originalUrl": "https://assets.phroller.com/images/sareletyue_raccoon.png",
         "alignmentX": 0.0,
         "alignmentY": 0.55,
         "scale": 1.3,

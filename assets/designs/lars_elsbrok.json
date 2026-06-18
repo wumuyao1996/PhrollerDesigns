@@ -328,8 +328,8 @@
     ],
     "boardMaterialId": "felt",
     "boardShape": "tray",
-    "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
-    "boardDecalOriginalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
+    "boardDecalImagePath": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
+    "boardDecalOriginalUrl": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
     "showTotal": false
@@ -349,8 +349,8 @@
     "boardDecals": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
+        "imageId": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
+        "originalUrl": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
         "alignmentX": -0.5,
         "alignmentY": 0.10000000000000009,
         "scale": 2.4000000000000004,
@@ -364,8 +364,8 @@
     "boardDecalsLandscape": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/simona_lars_elsbrok.jpg",
+        "imageId": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
+        "originalUrl": "https://assets.phroller.com/images/simona_lars_elsbrok.jpg",
         "alignmentX": 0.1499999999999999,
         "alignmentY": 1.4500000000000002,
         "scale": 2.7000000000000006,

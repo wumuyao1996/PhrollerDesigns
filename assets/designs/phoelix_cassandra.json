@@ -350,7 +350,7 @@
     ],
     "boardMaterialId": "felt",
     "boardShape": "tray",
-    "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/olha-khomenko-cassandra.png",
+    "boardDecalImagePath": "https://assets.phroller.com/images/olha-khomenko-cassandra.png",
     "boardDecalOriginalUrl": null,
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
@@ -371,8 +371,8 @@
     "boardDecals": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/olha-khomenko-cassandra.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/olha-khomenko-cassandra.png",
+        "imageId": "https://assets.phroller.com/images/olha-khomenko-cassandra.png",
+        "originalUrl": "https://assets.phroller.com/images/olha-khomenko-cassandra.png",
         "alignmentX": -0.1499999999999999,
         "alignmentY": -0.050000000000000044,
         "scale": 1.9000000000000004,
@@ -386,8 +386,8 @@
     "boardDecalsLandscape": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/olha-khomenko-cassandra.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/olha-khomenko-cassandra.png",
+        "imageId": "https://assets.phroller.com/images/olha-khomenko-cassandra.png",
+        "originalUrl": "https://assets.phroller.com/images/olha-khomenko-cassandra.png",
         "alignmentX": 0.0,
         "alignmentY": 0.8500000000000001,
         "scale": 2.7000000000000006,

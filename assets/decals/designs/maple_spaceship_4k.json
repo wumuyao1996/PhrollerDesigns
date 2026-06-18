@@ -1,7 +1,7 @@
 {
   "id": "maple_spaceship_4k",
   "label": "Spaceship",
-  "image_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/maple_maps/Spaceship%20%284K%20Gridless%29.jpg",
+  "image_url": "https://assets.phroller.com/decals/maple_maps/Spaceship%20%284K%20Gridless%29.jpg",
   "author": "Maple Maps",
   "description": "Collection of free maps generously made available thanks to Maple Maps. Visit their website for more high quality battlemaps!",
   "artist_url": "https://www.patreon.com/cw/MapleMapsDnD",
@@ -13,6 +13,6 @@
     "ship",
     "sci-fi"
   ],
-  "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/maple_maps/Spaceship%20%284K%20Gridless%29.jpg",
+  "preview_url": "https://assets.phroller.com/decals/maple_maps/Spaceship%20%284K%20Gridless%29.jpg",
   "file": "designs/maple_spaceship_4k.json"
 }

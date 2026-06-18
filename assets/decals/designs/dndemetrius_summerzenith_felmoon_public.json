@@ -1,7 +1,7 @@
 {
   "id": "dndemetrius_summerzenith_felmoon_public",
   "label": "SummerZenith FelMoon Public",
-  "image_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/dndemetrius/SummerZenith%20FelMoon%20Public%20Gridless.jpg",
+  "image_url": "https://assets.phroller.com/decals/dndemetrius/SummerZenith%20FelMoon%20Public%20Gridless.jpg",
   "author": "D&Demetrius' Cartography",
   "description": "Collection of free maps generously made available thanks to D&Demetrius' Cartography. Visit their Patreon for more high quality battlemaps!",
   "artist_url": "https://www.patreon.com/dndemetrius",
@@ -12,6 +12,6 @@
     "tabletop",
     "outdoor"
   ],
-  "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/dndemetrius/SummerZenith%20FelMoon%20Public%20Gridless.jpg",
+  "preview_url": "https://assets.phroller.com/decals/dndemetrius/SummerZenith%20FelMoon%20Public%20Gridless.jpg",
   "file": "designs/dndemetrius_summerzenith_felmoon_public.json"
 }

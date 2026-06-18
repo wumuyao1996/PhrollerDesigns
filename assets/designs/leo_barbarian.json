@@ -306,7 +306,7 @@
     ],
     "boardMaterialId": "felt",
     "boardShape": "tray",
-    "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Leo_Barbarian.png",
+    "boardDecalImagePath": "https://assets.phroller.com/images/Leo_Barbarian.png",
     "boardDecalOriginalUrl": null,
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
@@ -327,8 +327,8 @@
     "boardDecals": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Leo_Barbarian.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Leo_Barbarian.png",
+        "imageId": "https://assets.phroller.com/images/Leo_Barbarian.png",
+        "originalUrl": "https://assets.phroller.com/images/Leo_Barbarian.png",
         "alignmentX": 0.0,
         "alignmentY": 0.0,
         "scale": 1.7000000000000002,
@@ -342,8 +342,8 @@
     "boardDecalsLandscape": [
       {
         "id": "",
-        "imageId": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Leo_Barbarian.png",
-        "originalUrl": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/Leo_Barbarian.png",
+        "imageId": "https://assets.phroller.com/images/Leo_Barbarian.png",
+        "originalUrl": "https://assets.phroller.com/images/Leo_Barbarian.png",
         "alignmentX": 0.0,
         "alignmentY": -0.8,
         "scale": 2.2,

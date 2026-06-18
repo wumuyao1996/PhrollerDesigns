@@ -1,7 +1,7 @@
 {
   "id": "dndemetrius_firelink_shrine_sunset",
   "label": "Firelink Shrine Sunset",
-  "image_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/dndemetrius/Firelink%20Shrine%20Sunset.jpg",
+  "image_url": "https://assets.phroller.com/decals/dndemetrius/Firelink%20Shrine%20Sunset.jpg",
   "author": "D&Demetrius' Cartography",
   "description": "Collection of free maps generously made available thanks to D&Demetrius' Cartography. Visit their Patreon for more high quality battlemaps!",
   "artist_url": "https://www.patreon.com/dndemetrius",
@@ -14,6 +14,6 @@
     "ruins",
     "outdoor"
   ],
-  "preview_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/decals/dndemetrius/Firelink%20Shrine%20Sunset.jpg",
+  "preview_url": "https://assets.phroller.com/decals/dndemetrius/Firelink%20Shrine%20Sunset.jpg",
   "file": "designs/dndemetrius_firelink_shrine_sunset.json"
 }

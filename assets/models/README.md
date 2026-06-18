@@ -26,7 +26,7 @@ When populating `manifest.json`, each entry should follow this structure:
     "3d",
     "prop"
   ],
-  "model_url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/models/files/model.glb" 
+  "model_url": "https://assets.phroller.com/models/files/model.glb" 
 }
 ```
 

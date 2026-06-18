@@ -94,7 +94,7 @@
     ],
     "boardMaterialId": "felt",
     "boardShape": "tray",
-    "boardDecalImagePath": "https://wumuyao1996.github.io/PhrollerDesigns/assets/images/scorchpot_icon.jpeg",
+    "boardDecalImagePath": "https://assets.phroller.com/images/scorchpot_icon.jpeg",
     "boardDecalScale": 0.9,
     "boardDecalRotation": 15.0,
     "showTotal": false

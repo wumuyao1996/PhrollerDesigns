@@ -5,11 +5,11 @@
         "enabled": true,
         "tapCursor": {
             "type": 4,
-            "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cassandra_snake.png"
+            "url": "https://assets.phroller.com/cursors/images/cassandra_snake.png"
         },
         "holdCursor": {
             "type": 4,
-            "url": "https://wumuyao1996.github.io/PhrollerDesigns/assets/cursors/images/cassandra_snake.png"
+            "url": "https://assets.phroller.com/cursors/images/cassandra_snake.png"
         },
         "size": 512.0,
         "anchorX": 0.8445597872066911,
