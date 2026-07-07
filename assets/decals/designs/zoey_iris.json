@@ -1,0 +1,15 @@
+{
+  "id": "zoey_iris",
+  "label": "Iris",
+  "image_url": "https://assets.phroller.com/decals/Zoey%20PNG%20minis/Iris.png",
+  "author": "Zoey",
+  "description": "Miniature decal from Zoey.",
+  "artist_url": "https://zoeytime.artstation.com/",
+  "tags": [
+    "mini",
+    "character",
+    "token"
+  ],
+  "preview_url": "https://assets.phroller.com/decals/Zoey%20PNG%20minis/Iris.png",
+  "file": "designs/zoey_iris.json"
+}
