@@ -1,10 +1,58 @@
 [
   {
+    "id": "tammy_s_skull_house",
+    "title": "Tammy's Skull House",
+    "description": "Explore Tammy's Skull House.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Tammy_s_Skull_House.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Tammy_s_Skull_Screenshot.png",
+    "tags": [
+      "house",
+      "skull",
+      "map"
+    ],
+    "artistUrls": {
+      "ElvenTowerAdventures": "https://www.patreon.com/cw/elventower"
+    },
+    "version": 1.0
+  },
+  {
+    "id": "zoeytime_characters",
+    "title": "ZoeyTime Characters",
+    "description": "A collection of characters for users to preview and add to their collection.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ZoeyTime_Characters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/ZoeyTime_Character_Tokens.png",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ZoeyTime": "https://linktr.ee/ZoeyTime"
+    },
+    "version": 1.0
+  },
+  {
+    "id": "espionage",
+    "title": "ESPionage FATE",
+    "description": "Collaboration Piece with Tone Milazzo's ESPionage FATE Adventures!",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ESPionage_FATE.phvtt",
+    "previewImageUrl": "https://i0.wp.com/tonemilazzo.com/wp-content/uploads/2023/03/ESPionageRPG-Cover-scaled.jpg",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ToneMilazzo": "https://tonemilazzo.com/espionage/"
+    },
+    "version": 1.0
+  },
+  {
     "id": "angela_3_level_cave",
     "title": "Angela's 3 Level Cave",
     "description": "That’s quite a drop! X marks the spot, but you never know if that unstable patch of dirt you’re digging into is going to collapse and send you tumbling down into an underground creek. Or perhaps you’ve finally found the secret entrance to the smuggler’s cove, and have to carefully wind your way down the treacherous rope bridges and ladders, careful not to make one fateful slip? Fully animated and phased over three layers from top to bottom, this cavernous map might have your players wishing they weren’t free…free falling!\n\nI've been wanting to do a map you 'climb down' for awhile now. I hope you find a fun way to use it. I am looking forward to midsummer this weekend but I hope the rain stays away! Not much else is happening here. Have a great week guys and thanks for your support!",
     "bundleUrl": "https://assets.phroller.com/adventures/files/Angela_s_3_Level_Cave.phvtt",
-    "previewImageUrl": "https://assets.phroller.com/images/placeholder.png",
+    "previewImageUrl": "https://assets.phroller.com/images/Angela3LevelCave.png",
     "tags": [
       "cave",
       "underground",
@@ -14,6 +62,23 @@
     ],
     "artistUrls": {
       "AngelaMaps": "https://angelamaps.com/"
+    },
+    "version": 1.0
+  },
+  {
+    "id": "town_square_bar",
+    "title": "Town Square Bar",
+    "description": "A cute bar in the middle of a town featuring paper minis from ZoeyTime and models from Poly Pizza.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Town_Square_Bar.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Town_Center_Bar.png",
+    "tags": [
+      "bar",
+      "town",
+      "minis",
+      "map"
+    ],
+    "artistUrls": {
+      "asmind": "https://www.reddit.com/user/asmind/"
     },
     "version": 1.0
   }
