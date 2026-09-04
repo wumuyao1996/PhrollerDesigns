@@ -81,5 +81,25 @@
       "asmind": "https://www.reddit.com/user/asmind/"
     },
     "version": 1.0
+  },
+  {
+    "id": "galleon_ship_sea_monsters",
+    "title": "Galleon Ship + Sea Monsters",
+    "description": "Gorgeous multi level galleon ship by my friend MapXilla. Adapted for Phroller by me. If you like the map, please check out their other work too! Featuring models from Poly Pizza.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Galleon_Ship___Sea_Monsters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Galleon_Ship_Sea_Monsters.png",
+    "tags": [
+      "ship",
+      "galleon",
+      "sea",
+      "monsters",
+      "multi-level",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/cw/MapXilla",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0
   }
 ]
