@@ -101,5 +101,24 @@
       "Bethany Martin": "https://poly.pizza"
     },
     "version": 1.0
+  },
+  {
+    "id": "raft_market",
+    "title": "Raft Market",
+    "description": "Wandering out on the open sea is a small roaming market, one that sits atop a few rafts and boats that have been lashed together into a single vessel. The freshest fish, rare flowers, vegetables, fruit, and a variety of other trinkets can always be found here, and usually for a bargain price. The market rarely goes too far out to sea however, as it simply lacks the stability to withstand large waves or storm force winds. All assets used are courtesy of CrossheadStudios, used with permission.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Raft_Market.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Raft_Market.png",
+    "tags": [
+      "market",
+      "raft",
+      "sea",
+      "town",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/MapXilla",
+      "CrossheadStudios": "https://www.patreon.com/crossheadstudios"
+    },
+    "version": 1.0
   }
 ]
