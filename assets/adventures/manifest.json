@@ -120,5 +120,20 @@
       "CrossheadStudios": "https://www.patreon.com/crossheadstudios"
     },
     "version": 1.0
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "description": "A ready-to-play chess set with black and white 3D pieces.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Chess.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Chess.png",
+    "tags": [
+      "chess",
+      "board game",
+      "game",
+      "pieces"
+    ],
+    "artistUrls": {},
+    "version": 1.0
   }
 ]
