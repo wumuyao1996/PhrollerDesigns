@@ -135,5 +135,19 @@
     ],
     "artistUrls": {},
     "version": 1.0
+  },
+  {
+    "id": "welcome2phroller",
+    "title": "Welcome to Phroller",
+    "description": "A quick tour of Phroller's virtual tabletop: tokens, dice, decals, and the VTT manual to get you started.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Welcome2Phroller.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Welcome2Phroller.png",
+    "tags": [
+      "tutorial",
+      "welcome",
+      "overview"
+    ],
+    "artistUrls": {},
+    "version": 1.0
   }
 ]
