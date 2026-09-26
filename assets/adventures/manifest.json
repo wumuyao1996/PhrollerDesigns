@@ -149,5 +149,23 @@
     ],
     "artistUrls": {},
     "version": 1.0
+  },
+  {
+    "id": "dice_stack_challenge_2026",
+    "title": "Dice Stacking Challenge 2026",
+    "description": "To celebrate the release of Phroller, the cross-platform dice stacking VTT, join our dice stacking contest! Build a giant dice tower IRL, share your photos, and win keys for your party.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/DiceStackChallenge2026.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/DiceStackChallenge2026.png",
+    "tags": [
+      "challenge",
+      "contest",
+      "dice",
+      "special"
+    ],
+    "artistUrls": {
+      "Quaternius": "https://poly.pizza",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0
   }
 ]
