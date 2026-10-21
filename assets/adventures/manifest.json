@@ -167,5 +167,26 @@
       "Bethany Martin": "https://poly.pizza"
     },
     "version": 1.0
+  },
+  {
+    "id": "hexes_of_phaelor",
+    "title": "Hexes of Phaelor",
+    "description": "A magical tabletop hex-crawling resource trading game adapted for Phroller. Features procedural edge-to-edge biomes, 3D number chips, the Slumbering Troll mini, a 6-deck card economy, and an interactive obsidian Smart Controller that lets you shuffle the island, randomize numbers, and reset the board on the fly.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Hexes_of_Phaelor.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/HexesOfPhaelor.png",
+    "tags": [
+      "Phaelor",
+      "game",
+      "board game",
+      "strategy",
+      "trading",
+      "hexes",
+      "smart objects",
+      "interactive"
+    ],
+    "artistUrls": {
+      "Thomas DR": "https://poly.pizza"
+    },
+    "version": 1.0
   }
 ]
