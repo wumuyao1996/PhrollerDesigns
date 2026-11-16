@@ -1,0 +1,361 @@
+[
+  {
+    "id": "tammy_s_skull_house",
+    "title": "塔米的骷髅屋",
+    "description": "探索神秘的塔米骷髅屋。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Tammy_s_Skull_House.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Tammy_s_Skull_Screenshot.png",
+    "tags": [
+      "house",
+      "skull",
+      "map"
+    ],
+    "artistUrls": {
+      "ElvenTowerAdventures": "https://www.patreon.com/cw/elventower"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "house": "房屋",
+      "skull": "骷髅",
+      "map": "地图"
+    }
+  },
+  {
+    "id": "zoeytime_characters",
+    "title": "ZoeyTime 角色合集",
+    "description": "精选角色立绘棋子合集，可直接预览并加入你的收藏库。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ZoeyTime_Characters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/ZoeyTime_Character_Tokens.png",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ZoeyTime": "https://linktr.ee/ZoeyTime"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "characters": "角色",
+      "tokens": "棋子",
+      "collection": "合集"
+    }
+  },
+  {
+    "id": "espionage",
+    "title": "ESPionage FATE 谍战特工",
+    "description": "与 Tone Milazzo 的《ESPionage FATE》谍战冒险联动企划！",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ESPionage_FATE.phvtt",
+    "previewImageUrl": "https://i0.wp.com/tonemilazzo.com/wp-content/uploads/2023/03/ESPionageRPG-Cover-scaled.jpg",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ToneMilazzo": "https://tonemilazzo.com/espionage/"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "characters": "角色",
+      "tokens": "棋子",
+      "collection": "合集"
+    }
+  },
+  {
+    "id": "angela_3_level_cave",
+    "title": "安吉拉的三层洞穴",
+    "description": "小心高空坠落！这张由上至下分为三层的全动态洞穴地图，带你沿着摇晃的绳桥与木梯深入地下暗河。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Angela_s_3_Level_Cave.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Angela3LevelCave.png",
+    "tags": [
+      "cave",
+      "underground",
+      "multi-level",
+      "animated",
+      "map"
+    ],
+    "artistUrls": {
+      "AngelaMaps": "https://angelamaps.com/"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "cave": "洞穴",
+      "underground": "地下",
+      "multi-level": "多层",
+      "animated": "动态",
+      "map": "地图"
+    }
+  },
+  {
+    "id": "town_square_bar",
+    "title": "城镇广场酒馆",
+    "description": "坐落在城镇中心的温馨多层酒馆，包含 ZoeyTime 纸片立牌与 3D 角色模型。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Town_Square_Bar.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Town_Center_Bar.png",
+    "tags": [
+      "bar",
+      "town",
+      "minis",
+      "map"
+    ],
+    "artistUrls": {
+      "asmind": "https://www.reddit.com/user/asmind/"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "bar": "酒馆",
+      "town": "城镇",
+      "minis": "立牌",
+      "map": "地图"
+    }
+  },
+  {
+    "id": "galleon_ship_sea_monsters",
+    "title": "大帆船与海怪",
+    "description": "由 MapXilla 创作并适配至 Phroller 的精美多层大帆船地图，搭配 3D 海怪模型。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Galleon_Ship___Sea_Monsters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Galleon_Ship_Sea_Monsters.png",
+    "tags": [
+      "ship",
+      "galleon",
+      "sea",
+      "monsters",
+      "multi-level",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/cw/MapXilla",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "ship": "船只",
+      "galleon": "大帆船",
+      "sea": "海洋",
+      "monsters": "海怪",
+      "multi-level": "多层",
+      "map": "地图"
+    }
+  },
+  {
+    "id": "raft_market",
+    "title": "木筏集市",
+    "description": "漂浮在大海上的流动木筏集市，由多艘木筏与小船捆绑而成。素材由 CrossheadStudios 授权提供。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Raft_Market.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Raft_Market.png",
+    "tags": [
+      "market",
+      "raft",
+      "sea",
+      "town",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/MapXilla",
+      "CrossheadStudios": "https://www.patreon.com/crossheadstudios"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "market": "集市",
+      "raft": "木筏",
+      "sea": "海洋",
+      "town": "城镇",
+      "map": "地图"
+    }
+  },
+  {
+    "id": "chess",
+    "title": "国际象棋",
+    "description": "即开即玩的 3D 黑白国际象棋棋盘。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Chess.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Chess.png",
+    "tags": [
+      "chess",
+      "board game",
+      "game",
+      "pieces"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "chess": "国际象棋",
+      "board game": "桌游",
+      "game": "游戏",
+      "pieces": "棋子"
+    }
+  },
+  {
+    "id": "welcome2phroller",
+    "title": "欢迎来到 Phroller",
+    "description": "快速体验 Phroller 虚拟跑团桌面：棋子、骰子、贴纸以及 VTT 入门指南。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Welcome2Phroller.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Welcome2Phroller.png",
+    "tags": [
+      "tutorial",
+      "welcome",
+      "overview"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "tutorial": "教程",
+      "welcome": "欢迎",
+      "overview": "总览"
+    }
+  },
+  {
+    "id": "dice_stack_challenge_2026",
+    "title": "2026 叠骰子挑战赛",
+    "description": "为庆祝 Phroller 正式发布，欢迎参加现实叠骰子挑战赛！搭起高耸的骰子塔并分享照片，为你的跑团小队赢取激活码。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/DiceStackChallenge2026.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/DiceStackChallenge2026.png",
+    "tags": [
+      "challenge",
+      "contest",
+      "dice",
+      "special"
+    ],
+    "artistUrls": {
+      "Quaternius": "https://poly.pizza",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "challenge": "挑战赛",
+      "contest": "比赛",
+      "dice": "骰子",
+      "special": "特别活动"
+    }
+  },
+  {
+    "id": "hexes_of_phaelor",
+    "title": "法洛六角岛",
+    "description": "专为 Phroller 打造的奇幻六角格资源交易桌游，包含无缝生态地形、3D 数字圆片、6 组卡牌牌库与交互式黑曜石智能控制器。",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Hexes_of_Phaelor.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/HexesOfPhaelor.png",
+    "tags": [
+      "Phaelor",
+      "game",
+      "board game",
+      "strategy",
+      "trading",
+      "hexes",
+      "smart objects",
+      "interactive"
+    ],
+    "artistUrls": {
+      "Thomas DR": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "zh",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "Phaelor": "法洛",
+      "game": "游戏",
+      "board game": "桌游",
+      "strategy": "策略",
+      "trading": "交易",
+      "hexes": "六角格",
+      "smart objects": "智能物件",
+      "interactive": "可交互"
+    }
+  }
+]

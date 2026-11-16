@@ -1,0 +1,46 @@
+{
+  "tammy_s_skull_house": {
+    "title": "塔米的骷髅屋",
+    "description": "探索神秘的塔米骷髅屋。"
+  },
+  "zoeytime_characters": {
+    "title": "ZoeyTime 角色合集",
+    "description": "精选角色立绘棋子合集，可直接预览并加入你的收藏库。"
+  },
+  "espionage": {
+    "title": "ESPionage FATE 谍战特工",
+    "description": "与 Tone Milazzo 的《ESPionage FATE》谍战冒险联动企划！"
+  },
+  "angela_3_level_cave": {
+    "title": "安吉拉的三层洞穴",
+    "description": "小心高空坠落！这张由上至下分为三层的全动态洞穴地图，带你沿着摇晃的绳桥与木梯深入地下暗河。"
+  },
+  "town_square_bar": {
+    "title": "城镇广场酒馆",
+    "description": "坐落在城镇中心的温馨多层酒馆，包含 ZoeyTime 纸片立牌与 3D 角色模型。"
+  },
+  "galleon_ship_sea_monsters": {
+    "title": "大帆船与海怪",
+    "description": "由 MapXilla 创作并适配至 Phroller 的精美多层大帆船地图，搭配 3D 海怪模型。"
+  },
+  "raft_market": {
+    "title": "木筏集市",
+    "description": "漂浮在大海上的流动木筏集市，由多艘木筏与小船捆绑而成。素材由 CrossheadStudios 授权提供。"
+  },
+  "chess": {
+    "title": "国际象棋",
+    "description": "即开即玩的 3D 黑白国际象棋棋盘。"
+  },
+  "welcome2phroller": {
+    "title": "欢迎来到 Phroller",
+    "description": "快速体验 Phroller 虚拟跑团桌面：棋子、骰子、贴纸以及 VTT 入门指南。"
+  },
+  "dice_stack_challenge_2026": {
+    "title": "2026 叠骰子挑战赛",
+    "description": "为庆祝 Phroller 正式发布，欢迎参加现实叠骰子挑战赛！搭起高耸的骰子塔并分享照片，为你的跑团小队赢取激活码。"
+  },
+  "hexes_of_phaelor": {
+    "title": "法洛六角岛",
+    "description": "专为 Phroller 打造的奇幻六角格资源交易桌游，包含无缝生态地形、3D 数字圆片、6 组卡牌牌库与交互式黑曜石智能控制器。"
+  }
+}

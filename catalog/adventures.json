@@ -1,0 +1,214 @@
+[
+  {
+    "id": "tammy_s_skull_house",
+    "source": "en",
+    "title": "Tammy's Skull House",
+    "description": "Explore Tammy's Skull House.",
+    "bundle": "Tammy_s_Skull_House.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Tammy_s_Skull_Screenshot.png",
+    "tags": [
+      "house",
+      "skull",
+      "map"
+    ],
+    "artistUrls": {
+      "ElvenTowerAdventures": "https://www.patreon.com/cw/elventower"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "zoeytime_characters",
+    "source": "en",
+    "title": "ZoeyTime Characters",
+    "description": "A collection of characters for users to preview and add to their collection.",
+    "bundle": "ZoeyTime_Characters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/ZoeyTime_Character_Tokens.png",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ZoeyTime": "https://linktr.ee/ZoeyTime"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "espionage",
+    "source": "en",
+    "title": "ESPionage FATE",
+    "description": "Collaboration Piece with Tone Milazzo's ESPionage FATE Adventures!",
+    "bundle": "ESPionage_FATE.phvtt",
+    "previewImageUrl": "https://i0.wp.com/tonemilazzo.com/wp-content/uploads/2023/03/ESPionageRPG-Cover-scaled.jpg",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ToneMilazzo": "https://tonemilazzo.com/espionage/"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "angela_3_level_cave",
+    "source": "en",
+    "title": "Angela's 3 Level Cave",
+    "description": "That’s quite a drop! X marks the spot, but you never know if that unstable patch of dirt you’re digging into is going to collapse and send you tumbling down into an underground creek. Or perhaps you’ve finally found the secret entrance to the smuggler’s cove, and have to carefully wind your way down the treacherous rope bridges and ladders, careful not to make one fateful slip? Fully animated and phased over three layers from top to bottom, this cavernous map might have your players wishing they weren’t free…free falling!\n\nI've been wanting to do a map you 'climb down' for awhile now. I hope you find a fun way to use it. I am looking forward to midsummer this weekend but I hope the rain stays away! Not much else is happening here. Have a great week guys and thanks for your support!",
+    "bundle": "Angela_s_3_Level_Cave.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Angela3LevelCave.png",
+    "tags": [
+      "cave",
+      "underground",
+      "multi-level",
+      "animated",
+      "map"
+    ],
+    "artistUrls": {
+      "AngelaMaps": "https://angelamaps.com/"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "town_square_bar",
+    "source": "en",
+    "title": "Town Square Bar",
+    "description": "A cute bar in the middle of a town featuring paper minis from ZoeyTime and models from Poly Pizza.",
+    "bundle": "Town_Square_Bar.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Town_Center_Bar.png",
+    "tags": [
+      "bar",
+      "town",
+      "minis",
+      "map"
+    ],
+    "artistUrls": {
+      "asmind": "https://www.reddit.com/user/asmind/"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "galleon_ship_sea_monsters",
+    "source": "en",
+    "title": "Galleon Ship + Sea Monsters",
+    "description": "Gorgeous multi level galleon ship by my friend MapXilla. Adapted for Phroller by me. If you like the map, please check out their other work too! Featuring models from Poly Pizza.",
+    "bundle": "Galleon_Ship___Sea_Monsters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Galleon_Ship_Sea_Monsters.png",
+    "tags": [
+      "ship",
+      "galleon",
+      "sea",
+      "monsters",
+      "multi-level",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/cw/MapXilla",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "raft_market",
+    "source": "en",
+    "title": "Raft Market",
+    "description": "Wandering out on the open sea is a small roaming market, one that sits atop a few rafts and boats that have been lashed together into a single vessel. The freshest fish, rare flowers, vegetables, fruit, and a variety of other trinkets can always be found here, and usually for a bargain price. The market rarely goes too far out to sea however, as it simply lacks the stability to withstand large waves or storm force winds. All assets used are courtesy of CrossheadStudios, used with permission.",
+    "bundle": "Raft_Market.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Raft_Market.png",
+    "tags": [
+      "market",
+      "raft",
+      "sea",
+      "town",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/MapXilla",
+      "CrossheadStudios": "https://www.patreon.com/crossheadstudios"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "chess",
+    "source": "en",
+    "title": "Chess",
+    "description": "A ready-to-play chess set with black and white 3D pieces.",
+    "bundle": "Chess.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Chess.png",
+    "tags": [
+      "chess",
+      "board game",
+      "game",
+      "pieces"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "welcome2phroller",
+    "source": "en",
+    "title": "Welcome to Phroller",
+    "description": "A quick tour of Phroller's virtual tabletop: tokens, dice, decals, and the VTT manual to get you started.",
+    "bundle": "Welcome2Phroller.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Welcome2Phroller.png",
+    "tags": [
+      "tutorial",
+      "welcome",
+      "overview"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "dice_stack_challenge_2026",
+    "source": "en",
+    "title": "Dice Stacking Challenge 2026",
+    "description": "To celebrate the release of Phroller, the cross-platform dice stacking VTT, join our dice stacking contest! Build a giant dice tower IRL, share your photos, and win keys for your party.",
+    "bundle": "DiceStackChallenge2026.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/DiceStackChallenge2026.png",
+    "tags": [
+      "challenge",
+      "contest",
+      "dice",
+      "special"
+    ],
+    "artistUrls": {
+      "Quaternius": "https://poly.pizza",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "world": true
+  },
+  {
+    "id": "hexes_of_phaelor",
+    "source": "en",
+    "title": "Hexes of Phaelor",
+    "description": "A magical tabletop hex-crawling resource trading game adapted for Phroller. Features procedural edge-to-edge biomes, 3D number chips, the Slumbering Troll mini, a 6-deck card economy, and an interactive obsidian Smart Controller that lets you shuffle the island, randomize numbers, and reset the board on the fly.",
+    "bundle": "Hexes_of_Phaelor.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/HexesOfPhaelor.png",
+    "tags": [
+      "Phaelor",
+      "game",
+      "board game",
+      "strategy",
+      "trading",
+      "hexes",
+      "smart objects",
+      "interactive"
+    ],
+    "artistUrls": {
+      "Thomas DR": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "world": true
+  }
+]

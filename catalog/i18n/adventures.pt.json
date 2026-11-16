@@ -1,0 +1,46 @@
+{
+  "tammy_s_skull_house": {
+    "title": "A Casa Caveira da Tammy",
+    "description": "Explore a Casa Caveira da Tammy."
+  },
+  "zoeytime_characters": {
+    "title": "Personagens da ZoeyTime",
+    "description": "Uma coleção de personagens para visualizar e adicionar à sua coleção."
+  },
+  "espionage": {
+    "title": "ESPionage FATE",
+    "description": "Colaboração com as aventuras ESPionage FATE de Tone Milazzo!"
+  },
+  "angela_3_level_cave": {
+    "title": "Caverna de 3 Níveis da Angela",
+    "description": "Que queda enorme! O X marca o local, mas você nunca sabe se o chão instável vai ceder e lançá-lo para um riacho subterrâneo. Totalmente animado em três camadas."
+  },
+  "town_square_bar": {
+    "title": "Taverna da Praça",
+    "description": "Uma taverna charmosa no centro da cidade com miniaturas de papel da ZoeyTime e modelos 3D."
+  },
+  "galleon_ship_sea_monsters": {
+    "title": "Galeão + Monstros Marinhos",
+    "description": "Belíssimo galeão de vários níveis criado por MapXilla e adaptado para o Phroller, com modelos 3D de monstros marinhos."
+  },
+  "raft_market": {
+    "title": "Mercado de Jangadas",
+    "description": "Um pequeno mercado flutuante em mar aberto montado sobre jangadas e barcos amarrados entre si. Recursos cortesia da CrossheadStudios."
+  },
+  "chess": {
+    "title": "Xadrez",
+    "description": "Um tabuleiro de xadrez pronto para jogar com peças 3D pretas e brancas."
+  },
+  "welcome2phroller": {
+    "title": "Bem-vindo ao Phroller",
+    "description": "Um tour rápido pela mesa virtual do Phroller: peças, dados, adesivos e o manual do VTT para você começar."
+  },
+  "dice_stack_challenge_2026": {
+    "title": "Desafio de Empilhar Dados 2026",
+    "description": "Para comemorar o lançamento do Phroller, participe do nosso concurso de empilhar dados! Monte uma torre gigante de dados na vida real e ganhe chaves para o seu grupo."
+  },
+  "hexes_of_phaelor": {
+    "title": "Hexágonos de Phaelor",
+    "description": "Um jogo mágico de negociação de recursos em hexágonos adaptado para o Phroller, com biomas procedurais, fichas 3D, 6 baralhos de cartas e um controlador inteligente interativo."
+  }
+}

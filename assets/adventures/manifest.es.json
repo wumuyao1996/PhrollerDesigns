@@ -1,0 +1,361 @@
+[
+  {
+    "id": "tammy_s_skull_house",
+    "title": "La Casa Calavera de Tammy",
+    "description": "Explora la Casa Calavera de Tammy.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Tammy_s_Skull_House.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Tammy_s_Skull_Screenshot.png",
+    "tags": [
+      "house",
+      "skull",
+      "map"
+    ],
+    "artistUrls": {
+      "ElvenTowerAdventures": "https://www.patreon.com/cw/elventower"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "house": "casa",
+      "skull": "calavera",
+      "map": "mapa"
+    }
+  },
+  {
+    "id": "zoeytime_characters",
+    "title": "Personajes de ZoeyTime",
+    "description": "Una colección de personajes para previsualizar y añadir a tu colección.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ZoeyTime_Characters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/ZoeyTime_Character_Tokens.png",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ZoeyTime": "https://linktr.ee/ZoeyTime"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "characters": "personajes",
+      "tokens": "fichas",
+      "collection": "colección"
+    }
+  },
+  {
+    "id": "espionage",
+    "title": "ESPionage FATE",
+    "description": "¡Colaboración con las aventuras ESPionage FATE de Tone Milazzo!",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/ESPionage_FATE.phvtt",
+    "previewImageUrl": "https://i0.wp.com/tonemilazzo.com/wp-content/uploads/2023/03/ESPionageRPG-Cover-scaled.jpg",
+    "tags": [
+      "characters",
+      "tokens",
+      "collection"
+    ],
+    "artistUrls": {
+      "ToneMilazzo": "https://tonemilazzo.com/espionage/"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "characters": "personajes",
+      "tokens": "fichas",
+      "collection": "colección"
+    }
+  },
+  {
+    "id": "angela_3_level_cave",
+    "title": "Cueva de 3 Niveles de Angela",
+    "description": "¡Menuda caída! La X marca el lugar, pero nunca sabes si ese terreno inestable se derrumbará y te enviará rodando hasta un arroyo subterráneo. Totalmente animado y dividido en tres niveles de arriba abajo.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Angela_s_3_Level_Cave.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Angela3LevelCave.png",
+    "tags": [
+      "cave",
+      "underground",
+      "multi-level",
+      "animated",
+      "map"
+    ],
+    "artistUrls": {
+      "AngelaMaps": "https://angelamaps.com/"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "cave": "cueva",
+      "underground": "subterráneo",
+      "multi-level": "multinivel",
+      "animated": "animado",
+      "map": "mapa"
+    }
+  },
+  {
+    "id": "town_square_bar",
+    "title": "Taberna de la Plaza",
+    "description": "Una acogedora taberna en el centro de un pueblo con miniaturas de papel de ZoeyTime y modelos 3D.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Town_Square_Bar.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Town_Center_Bar.png",
+    "tags": [
+      "bar",
+      "town",
+      "minis",
+      "map"
+    ],
+    "artistUrls": {
+      "asmind": "https://www.reddit.com/user/asmind/"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "bar": "taberna",
+      "town": "pueblo",
+      "minis": "miniaturas",
+      "map": "mapa"
+    }
+  },
+  {
+    "id": "galleon_ship_sea_monsters",
+    "title": "Galeón + Monstruos Marinos",
+    "description": "Precioso galeón de varios niveles creado por MapXilla y adaptado para Phroller, con modelos 3D de monstruos marinos.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Galleon_Ship___Sea_Monsters.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Galleon_Ship_Sea_Monsters.png",
+    "tags": [
+      "ship",
+      "galleon",
+      "sea",
+      "monsters",
+      "multi-level",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/cw/MapXilla",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "ship": "barco",
+      "galleon": "galeón",
+      "sea": "mar",
+      "monsters": "monstruos",
+      "multi-level": "multinivel",
+      "map": "mapa"
+    }
+  },
+  {
+    "id": "raft_market",
+    "title": "Mercado de Balsas",
+    "description": "Un pequeño mercado flotante en mar abierto asentado sobre balsas y botes amarrados entre sí. Recursos cortesía de CrossheadStudios.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Raft_Market.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Raft_Market.png",
+    "tags": [
+      "market",
+      "raft",
+      "sea",
+      "town",
+      "map"
+    ],
+    "artistUrls": {
+      "MapXilla": "https://www.patreon.com/MapXilla",
+      "CrossheadStudios": "https://www.patreon.com/crossheadstudios"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "market": "mercado",
+      "raft": "balsa",
+      "sea": "mar",
+      "town": "pueblo",
+      "map": "mapa"
+    }
+  },
+  {
+    "id": "chess",
+    "title": "Ajedrez",
+    "description": "Un tablero de ajedrez listo para jugar con piezas 3D blancas y negras.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Chess.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Chess.png",
+    "tags": [
+      "chess",
+      "board game",
+      "game",
+      "pieces"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "chess": "ajedrez",
+      "board game": "juego de mesa",
+      "game": "juego",
+      "pieces": "piezas"
+    }
+  },
+  {
+    "id": "welcome2phroller",
+    "title": "Bienvenido a Phroller",
+    "description": "Un recorrido rápido por la mesa virtual de Phroller: fichas, dados, calcomanías y el manual del VTT para empezar.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Welcome2Phroller.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/Welcome2Phroller.png",
+    "tags": [
+      "tutorial",
+      "welcome",
+      "overview"
+    ],
+    "artistUrls": {},
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "tutorial": "tutorial",
+      "welcome": "bienvenida",
+      "overview": "resumen"
+    }
+  },
+  {
+    "id": "dice_stack_challenge_2026",
+    "title": "Desafío de Apilar Dados 2026",
+    "description": "¡Para celebrar el lanzamiento de Phroller, únete a nuestro concurso de apilar dados! Construye una torre gigante de dados en la vida real y gana claves para tu grupo.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/DiceStackChallenge2026.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/DiceStackChallenge2026.png",
+    "tags": [
+      "challenge",
+      "contest",
+      "dice",
+      "special"
+    ],
+    "artistUrls": {
+      "Quaternius": "https://poly.pizza",
+      "Bethany Martin": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "challenge": "desafío",
+      "contest": "concurso",
+      "dice": "dados",
+      "special": "especial"
+    }
+  },
+  {
+    "id": "hexes_of_phaelor",
+    "title": "Hexágonos de Phaelor",
+    "description": "Un juego mágico de comercio de recursos en hexágonos adaptado para Phroller, con biomas procedurales, fichas 3D, 6 mazos de cartas y un controlador inteligente interactivo.",
+    "bundleUrl": "https://assets.phroller.com/adventures/files/Hexes_of_Phaelor.phvtt",
+    "previewImageUrl": "https://assets.phroller.com/images/HexesOfPhaelor.png",
+    "tags": [
+      "Phaelor",
+      "game",
+      "board game",
+      "strategy",
+      "trading",
+      "hexes",
+      "smart objects",
+      "interactive"
+    ],
+    "artistUrls": {
+      "Thomas DR": "https://poly.pizza"
+    },
+    "version": 1.0,
+    "language": "es",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "world": true,
+    "live": true,
+    "tagNames": {
+      "Phaelor": "Phaelor",
+      "game": "juego",
+      "board game": "juego de mesa",
+      "strategy": "estrategia",
+      "trading": "comercio",
+      "hexes": "hexágonos",
+      "smart objects": "objetos inteligentes",
+      "interactive": "interactivo"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "tammy_s_skull_house": {
+    "title": "La Casa Calavera de Tammy",
+    "description": "Explora la Casa Calavera de Tammy."
+  },
+  "zoeytime_characters": {
+    "title": "Personajes de ZoeyTime",
+    "description": "Una colección de personajes para previsualizar y añadir a tu colección."
+  },
+  "espionage": {
+    "title": "ESPionage FATE",
+    "description": "¡Colaboración con las aventuras ESPionage FATE de Tone Milazzo!"
+  },
+  "angela_3_level_cave": {
+    "title": "Cueva de 3 Niveles de Angela",
+    "description": "¡Menuda caída! La X marca el lugar, pero nunca sabes si ese terreno inestable se derrumbará y te enviará rodando hasta un arroyo subterráneo. Totalmente animado y dividido en tres niveles de arriba abajo."
+  },
+  "town_square_bar": {
+    "title": "Taberna de la Plaza",
+    "description": "Una acogedora taberna en el centro de un pueblo con miniaturas de papel de ZoeyTime y modelos 3D."
+  },
+  "galleon_ship_sea_monsters": {
+    "title": "Galeón + Monstruos Marinos",
+    "description": "Precioso galeón de varios niveles creado por MapXilla y adaptado para Phroller, con modelos 3D de monstruos marinos."
+  },
+  "raft_market": {
+    "title": "Mercado de Balsas",
+    "description": "Un pequeño mercado flotante en mar abierto asentado sobre balsas y botes amarrados entre sí. Recursos cortesía de CrossheadStudios."
+  },
+  "chess": {
+    "title": "Ajedrez",
+    "description": "Un tablero de ajedrez listo para jugar con piezas 3D blancas y negras."
+  },
+  "welcome2phroller": {
+    "title": "Bienvenido a Phroller",
+    "description": "Un recorrido rápido por la mesa virtual de Phroller: fichas, dados, calcomanías y el manual del VTT para empezar."
+  },
+  "dice_stack_challenge_2026": {
+    "title": "Desafío de Apilar Dados 2026",
+    "description": "¡Para celebrar el lanzamiento de Phroller, únete a nuestro concurso de apilar dados! Construye una torre gigante de dados en la vida real y gana claves para tu grupo."
+  },
+  "hexes_of_phaelor": {
+    "title": "Hexágonos de Phaelor",
+    "description": "Un juego mágico de comercio de recursos en hexágonos adaptado para Phroller, con biomas procedurales, fichas 3D, 6 mazos de cartas y un controlador inteligente interactivo."
+  }
+}
