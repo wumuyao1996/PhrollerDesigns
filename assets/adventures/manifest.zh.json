@@ -304,13 +304,10 @@
     "version": 1.0,
     "language": "zh",
     "languages": [
-      "en",
-      "es",
-      "pt",
-      "zh"
+      "en"
     ],
     "world": true,
-    "live": true,
+    "live": false,
     "tagNames": {
       "challenge": "挑战赛",
       "contest": "比赛",
